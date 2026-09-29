@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data — keep raw + processed in repo but exclude large intermediates
+data/raw/pkdb/*.json.gz
+data/raw/chembl/*.json.gz
+# Uncomment below to exclude all raw data from git (recommended for large data)
+# data/raw/
+
+# Outputs — figures and tables are reproducible
+outputs/figures/*.png
+outputs/figures/*.pdf
+outputs/tables/*.csv
+
+# Environment / secrets
+.env
+*.env
+.envrc
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Logs
+*.log
+logs/
+
+# chembl_webresource_client cache
+chembl_cache/
+*.cache
+
+# Misc
+*.bak
+*.tmp
+implementation_plan.md
