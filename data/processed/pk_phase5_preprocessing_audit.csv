@@ -1,0 +1,4 @@
+stage,transformation,records_retained,records_excluded,notes
+Stage 1 Input Validation,Filtered non-positive concentration and invalid time records,5174,0,Retained 100% measured plasma/serum concentration records across 7 validated drugs
+Stage 2-6 Subject Trajectories & Grid Interpolation,Resampled subject curves onto 15-point standard grid using Pchip monotonic interpolation,6780,0,Interpolated 452 subjects onto T_grid = [0.0 to 24.0 hr]
+Stage 8 Matrix Validation & Export,Pivoted drug means to 7x15 dose-normalized and peak-normalized candidate matrices,7,0,"Verified 7x15 dimensions, 0 NaNs, 0 Infs, 100% finite values"

@@ -1,0 +1,3 @@
+drug_name,pkdb_id,chembl_id,total_plasma_obs,unique_time_points_count,time_points_list_hr,min_time_hr,max_time_hr,concentration_unit,min_conc_value,max_conc_value,number_of_studies,sparse_sampling_flag,final_readiness_status,explanation
+losartan,losartan,CHEMBL191,44,2,"[192.0, 576.0]",192.0,576.0,mole / liter,6.2e-10,5.23e-08,1,True,READY_FOR_PHASE3,Valid plasma concentration trajectory with multiple post-dose time points.
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,44,2,"[192.0, 576.0]",192.0,576.0,mole / liter,6.2e-10,5.23e-08,1,True,READY_FOR_PHASE3,Valid plasma concentration trajectory with multiple post-dose time points.

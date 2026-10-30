@@ -1,0 +1,7 @@
+{
+  "source": "PK-DB REST API",
+  "endpoint": "https://pk-db.com/api/v1/pkdata/timecourses/",
+  "description": "Pre-assembled timecourse records. Each record contains arrays of time points and corresponding concentration values for a substance–study combination.",
+  "count": 0,
+  "data": []
+}

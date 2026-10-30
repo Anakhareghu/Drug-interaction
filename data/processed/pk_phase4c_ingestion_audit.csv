@@ -1,0 +1,9 @@
+source,drug_name,chembl_id,study_id,subject_count,observation_count,unique_time_points,min_time_hr,max_time_hr,concentration_unit,biological_matrix,route,valid_concentration_count,excluded_count,exclusion_reason,chembl_mapping_status,trajectory_gate_status
+Rdatasets / STUDY_CEFAMANDOLE_NLME,cefamandole,CHEMBL1433,STUDY_CEFAMANDOLE_NLME,6,84,14,0.1667,6.0,mg/L,plasma,intravenous,84,0,"Pre-dose, NaN, or non-positive concentration rows",MAPPED_1TO1,PASS
+Rdatasets / STUDY_INDOMETH_NLME,indomethacin,CHEMBL6,STUDY_INDOMETH_NLME,6,66,11,0.25,8.0,mg/L,plasma,intravenous,66,0,"Pre-dose, NaN, or non-positive concentration rows",MAPPED_1TO1,PASS
+Rdatasets / STUDY_PHENOBARB_NLME,phenobarbital,CHEMBL40,STUDY_PHENOBARB_NLME,59,155,118,1.0,389.8,mg/L,serum,intravenous,155,589,"Pre-dose, NaN, or non-positive concentration rows",MAPPED_1TO1,PASS
+Rdatasets / STUDY_QUINIDINE_NLME,quinidine,CHEMBL481,STUDY_QUINIDINE_NLME,136,361,309,0.13,8095.5,mg/L,serum,oral,361,1110,"Pre-dose, NaN, or non-positive concentration rows",MAPPED_1TO1,PASS
+Rdatasets / STUDY_REMIFENTANIL_NLME,remifentanil,CHEMBL1201179,STUDY_REMIFENTANIL_NLME,65,1992,618,0.025,3.8342,mg/L,plasma,intravenous,1992,115,"Pre-dose, NaN, or non-positive concentration rows",MAPPED_1TO1,PASS
+Rdatasets / STUDY_TETRACYCLINE_TETRACHEL,tetracycline,CHEMBL460,STUDY_TETRACYCLINE_TETRACHEL,20,76,4,1.0,6.0,mg/L,serum,oral,76,4,"Pre-dose, NaN, or non-positive concentration rows",MAPPED_1TO1,FAIL
+Rdatasets / STUDY_THEOPH_NLME,theophylline,CHEMBL178,STUDY_THEOPH_NLME,12,123,78,0.0,24.65,mg/L,plasma,oral,123,9,"Pre-dose, NaN, or non-positive concentration rows",MAPPED_1TO1,PASS
+Rdatasets / STUDY_CDISCPILOT01,xanomeline,CHEMBL286290,STUDY_CDISCPILOT01,168,2393,15,0.08,37.0,mg/L,plasma,oral,2393,2179,"Pre-dose, NaN, or non-positive concentration rows",MAPPED_1TO1,PASS

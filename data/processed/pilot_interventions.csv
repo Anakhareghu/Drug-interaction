@@ -1,0 +1,194 @@
+Unnamed: 0,study_sid,study_name,intervention_pk,raw_pk,normed,name,route,route_label,form,form_label,application,application_label,time,time_end,time_unit,measurement_type,measurement_type_label,calculation_type,calculation_type_label,choice,choice_label,substance,substance_label,value,mean,median,min,max,sd,se,cv,unit,mapped_chembl_id
+0,PKDB00425,Roberts1976,1635,1611,True,ICG,iv,intravenous (iv),,,single-dose,single dose,0,,hr,qualitative-dosing,qualitative dosing,,,,,icg,indocyanine green,0.0005,,,,,,,,gram / kilogram,CHEMBL40
+1,PKDB00425,Roberts1976,1636,1612,True,AP,oral,oral (po),,,single-dose,single dose,0,,hr,qualitative-dosing,qualitative dosing,,,,,antipyrine,antipyrine,1.2,,,,,,,,gram,CHEMBL40
+2,PKDB00425,Roberts1976,1637,1613,True,P -21,oral,oral (po),,,single-dose,single dose,-21,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+3,PKDB00425,Roberts1976,1638,1614,True,P -20,oral,oral (po),,,single-dose,single dose,-20,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+4,PKDB00425,Roberts1976,1639,1615,True,P -19,oral,oral (po),,,single-dose,single dose,-19,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+5,PKDB00425,Roberts1976,1640,1616,True,P -18,oral,oral (po),,,single-dose,single dose,-18,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+6,PKDB00425,Roberts1976,1641,1617,True,P -17,oral,oral (po),,,single-dose,single dose,-17,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+7,PKDB00425,Roberts1976,1642,1618,True,P -16,oral,oral (po),,,single-dose,single dose,-16,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+8,PKDB00425,Roberts1976,1643,1619,True,P -15,oral,oral (po),,,single-dose,single dose,-15,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+9,PKDB00425,Roberts1976,1644,1620,True,P -14,oral,oral (po),,,single-dose,single dose,-14,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+10,PKDB00425,Roberts1976,1645,1621,True,P -13,oral,oral (po),,,single-dose,single dose,-13,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+11,PKDB00425,Roberts1976,1646,1622,True,P -12,oral,oral (po),,,single-dose,single dose,-12,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+12,PKDB00425,Roberts1976,1647,1623,True,P -11,oral,oral (po),,,single-dose,single dose,-11,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+13,PKDB00425,Roberts1976,1648,1624,True,P -10,oral,oral (po),,,single-dose,single dose,-10,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+14,PKDB00425,Roberts1976,1649,1625,True,P -9,oral,oral (po),,,single-dose,single dose,-9,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+15,PKDB00425,Roberts1976,1650,1626,True,P -8,oral,oral (po),,,single-dose,single dose,-8,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+16,PKDB00425,Roberts1976,1651,1627,True,P -7,oral,oral (po),,,single-dose,single dose,-7,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+17,PKDB00425,Roberts1976,1652,1628,True,P -6,oral,oral (po),,,single-dose,single dose,-6,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+18,PKDB00425,Roberts1976,1653,1629,True,P -5,oral,oral (po),,,single-dose,single dose,-5,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+19,PKDB00425,Roberts1976,1654,1630,True,P -4,oral,oral (po),,,single-dose,single dose,-4,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+20,PKDB00425,Roberts1976,1655,1631,True,P -3,oral,oral (po),,,single-dose,single dose,-3,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+21,PKDB00425,Roberts1976,1656,1632,True,P -2,oral,oral (po),,,single-dose,single dose,-2,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+22,PKDB00425,Roberts1976,1657,1633,True,P -1,oral,oral (po),,,single-dose,single dose,-1,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+23,PKDB00425,Roberts1976,1658,1634,True,P +0,oral,oral (po),,,single-dose,single dose,0,,d,qualitative-dosing,qualitative dosing,,,,,phenobarbitone,phenobarbital,0.18,,,,,,,,gram,CHEMBL40
+0,PKDB00838,Boulton2013,7191,7187,True,DAP10,oral,oral (po),tablet,tablet,single-dose,single dose,0.0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL385517
+1,PKDB00838,Boulton2013,7192,7188,True,C14DAP008,iv,intravenous (iv),solution,solution,constant-infusion,constant infusion,60.0,61.0,min,dosing,dosing,,,,,dapagliflozin,dapagliflozin,7.999999999999999e-05,,,,,,,,gram,CHEMBL385517
+2,PKDB00838,Boulton2013,7193,7189,True,SAX5,oral,oral (po),tablet,tablet,single-dose,single dose,0.0,,hr,dosing,dosing,,,,,saxagliptin,saxagliptin,0.005,,,,,,,,gram,CHEMBL385517
+3,PKDB00838,Boulton2013,7194,7190,True,C14SAX004,iv,intravenous (iv),solution,solution,constant-infusion,constant infusion,60.0,61.0,min,dosing,dosing,,,,,saxagliptin,saxagliptin,4e-05,,,,,,,,gram,CHEMBL385517
+0,PKDB00875,Devineni2013,6219,6207,True,CAN0_d0,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+1,PKDB00875,Devineni2013,6220,6208,True,CAN50_d0,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+2,PKDB00875,Devineni2013,6221,6209,True,CAN100_d0,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+3,PKDB00875,Devineni2013,6222,6210,True,CAN300_d0,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+4,PKDB00875,Devineni2013,6223,6211,True,CAN0_d1,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+5,PKDB00875,Devineni2013,6224,6212,True,CAN50_d1,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.05,,,,,,,,gram,CHEMBL2048484
+6,PKDB00875,Devineni2013,6225,6213,True,CAN100_d1,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.1,,,,,,,,gram,CHEMBL2048484
+7,PKDB00875,Devineni2013,6226,6214,True,CAN300_d1,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+8,PKDB00875,Devineni2013,6227,6215,True,CAN0_d7,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-7T1R7,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+9,PKDB00875,Devineni2013,6228,6216,True,CAN50_d7,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-7T1R7,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.05,,,,,,,,gram,CHEMBL2048484
+10,PKDB00875,Devineni2013,6229,6217,True,CAN100_d7,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-7T1R7,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.1,,,,,,,,gram,CHEMBL2048484
+11,PKDB00875,Devineni2013,6230,6218,True,CAN300_d7,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-7T1R7,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+12,PKDB00879,Devineni2014,6233,6231,True,CAN300,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-6T1R7,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+13,PKDB00879,Devineni2014,6234,6232,True,HCTZ25,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-27T1R28,,day,dosing,dosing,,,,,hydrochlorothiazide,hydrochlorothiazide,0.025,,,,,,,,gram,CHEMBL2048484
+14,PKDB00880,Devineni2015,6240,6235,True,CAN200,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-4T1R5,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.2,,,,,,,,gram,CHEMBL2048484
+15,PKDB00880,Devineni2015,6241,6236,True,CAN300,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-4T1R5,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+16,PKDB00880,Devineni2015,6242,6237,True,GLY125,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,glibenclamide,glibenclamide (glyburide),0.00125,,,,,,,,gram,CHEMBL2048484
+17,PKDB00880,Devineni2015,6243,6238,True,MET2000,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,metformin,metformin,2.0,,,,,,,,gram,CHEMBL2048484
+18,PKDB00880,Devineni2015,6244,6239,True,SIM40,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,simvastatin,simvastatin,0.04,,,,,,,,gram,CHEMBL2048484
+19,PKDB00882,Devineni2015d,6271,6265,True,CAN300,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+20,PKDB00882,Devineni2015d,6272,6266,True,PRO500,oral,oral (po),capsule,capsule,multiple-dose,multiple dose,S-60T12R6,,hr,dosing,dosing,,,,,probenecid,probenecid,0.5,,,,,,,,gram,CHEMBL2048484
+21,PKDB00882,Devineni2015d,6273,6267,True,CYC400,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,cyclosporine,cyclosporine,0.4,,,,,,,,gram,CHEMBL2048484
+22,PKDB00882,Devineni2015d,6274,6268,True,RIF600,oral,oral (po),capsule,capsule,multiple-dose,multiple dose,S-7T1R8,,hr,dosing,dosing,,,,,rifampicin,rifampicin,0.6,,,,,,,,gram,CHEMBL2048484
+23,PKDB00882,Devineni2015d,6275,6269,True,CAN300_2,oral,oral (po),capsule,capsule,multiple-dose,multiple dose,S-16T1R17,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+24,PKDB00882,Devineni2015d,6276,6270,True,CAN300_3,oral,oral (po),capsule,capsule,multiple-dose,multiple dose,S-7T1R8,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+25,PKDB00883,Devineni2015e,6281,6277,True,CAN300,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+26,PKDB00883,Devineni2015e,6282,6278,True,CAN50,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.05,,,,,,,,gram,CHEMBL2048484
+27,PKDB00883,Devineni2015e,6283,6279,True,CAN100,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.1,,,,,,,,gram,CHEMBL2048484
+28,PKDB00883,Devineni2015e,6284,6280,True,FED,oral,oral (po),food,food,single-dose,single dose,0,,hr,fasting,fasting,,,fasting-no,No fasting,,,,,,,,,,,,CHEMBL2048484
+29,PKDB00884,Devineni2016,6287,6285,True,CAN300,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+30,PKDB00884,Devineni2016,6288,6286,True,CAN200,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.2,,,,,,,,gram,CHEMBL2048484
+31,PKDB00885,Iijima2015,6299,6289,True,CAN0_d1,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+32,PKDB00885,Iijima2015,6300,6290,True,CAN25_d1,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.025,,,,,,,,gram,CHEMBL2048484
+33,PKDB00885,Iijima2015,6301,6291,True,CAN100_d1,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.1,,,,,,,,gram,CHEMBL2048484
+34,PKDB00885,Iijima2015,6302,6292,True,CAN200_d1,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.2,,,,,,,,gram,CHEMBL2048484
+35,PKDB00885,Iijima2015,6303,6293,True,CAN400_d1,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.4,,,,,,,,gram,CHEMBL2048484
+36,PKDB00885,Iijima2015,6304,6294,True,CAN0_d16,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-15T1R16,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+37,PKDB00885,Iijima2015,6305,6295,True,CAN25_d16,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-15T1R16,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.025,,,,,,,,gram,CHEMBL2048484
+38,PKDB00885,Iijima2015,6306,6296,True,CAN100_d16,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-15T1R16,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.1,,,,,,,,gram,CHEMBL2048484
+39,PKDB00885,Iijima2015,6307,6297,True,CAN200_d16,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-15T1R16,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.2,,,,,,,,gram,CHEMBL2048484
+40,PKDB00885,Iijima2015,6308,6298,True,CAN400_d16,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-15T1R16,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.4,,,,,,,,gram,CHEMBL2048484
+41,PKDB00887,Mamidi2014,6325,6321,True,14C_CAN100,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.1,,,,,,,,gram / kilogram,CHEMBL2048484
+42,PKDB00887,Mamidi2014,6326,6322,True,14C_CAN3,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.003,,,,,,,,gram / kilogram,CHEMBL2048484
+43,PKDB00887,Mamidi2014,6327,6323,True,14C_CAN4,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.004,,,,,,,,gram / kilogram,CHEMBL2048484
+44,PKDB00887,Mamidi2014,6328,6324,True,14C_CAN188,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.188,,,,,,,,gram,CHEMBL2048484
+45,PKDB00888,Mohamed2019,6331,6329,True,CAN50,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.05,,,,,,,,gram,CHEMBL2048484
+46,PKDB00888,Mohamed2019,6332,6330,True,MET850,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,metformin,metformin,0.85,,,,,,,,gram,CHEMBL2048484
+47,PKDB00890,Sha2014,6375,6357,True,placebo_baseline,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+48,PKDB00890,Sha2014,6376,6358,True,CAN30_baseline,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+49,PKDB00890,Sha2014,6377,6359,True,CAN100_baseline,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+50,PKDB00890,Sha2014,6378,6360,True,CAN200_baseline,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+51,PKDB00890,Sha2014,6379,6361,True,CAN400_baseline,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+52,PKDB00890,Sha2014,6380,6362,True,CAN300_BID_baseline,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+53,PKDB00890,Sha2014,6381,6363,True,placebo_d1,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+54,PKDB00890,Sha2014,6382,6364,True,CAN30_d1,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.03,,,,,,,,gram,CHEMBL2048484
+55,PKDB00890,Sha2014,6383,6365,True,CAN100_d1,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.1,,,,,,,,gram,CHEMBL2048484
+56,PKDB00890,Sha2014,6384,6366,True,CAN200_d1,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.2,,,,,,,,gram,CHEMBL2048484
+57,PKDB00890,Sha2014,6385,6367,True,CAN400_d1,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.4,,,,,,,,gram,CHEMBL2048484
+58,PKDB00890,Sha2014,6386,6368,True,CAN300_BID_d1,oral,oral (po),suspension,suspension,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+59,PKDB00890,Sha2014,6387,6369,True,placebo_d16,oral,oral (po),suspension,suspension,multiple-dose,multiple dose,S-15T1R16,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+60,PKDB00890,Sha2014,6388,6370,True,CAN30_d16,oral,oral (po),suspension,suspension,multiple-dose,multiple dose,S-15T1R16,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.03,,,,,,,,gram,CHEMBL2048484
+61,PKDB00890,Sha2014,6389,6371,True,CAN100_d16,oral,oral (po),suspension,suspension,multiple-dose,multiple dose,S-15T1R16,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.1,,,,,,,,gram,CHEMBL2048484
+62,PKDB00890,Sha2014,6390,6372,True,CAN200_d16,oral,oral (po),suspension,suspension,multiple-dose,multiple dose,S-15T1R16,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.2,,,,,,,,gram,CHEMBL2048484
+63,PKDB00890,Sha2014,6391,6373,True,CAN400_d16,oral,oral (po),suspension,suspension,multiple-dose,multiple dose,S-15T1R16,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.4,,,,,,,,gram,CHEMBL2048484
+64,PKDB00890,Sha2014,6392,6374,True,CAN300_BID_d16,oral,oral (po),suspension,suspension,multiple-dose,multiple dose,S-360T12R32,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+65,PKDB00891,Sha2015,6396,6393,True,CAN300,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-3T1R4,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL2048484
+66,PKDB00891,Sha2015,6397,6394,True,DAP10,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-3T1R4,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL2048484
+67,PKDB00891,Sha2015,6398,6395,True,placebo,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL2048484
+68,32763846,Wattamwar2020,6410,6407,True,CAN150,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.15,,,,,,,,gram,CHEMBL2048484
+69,32763846,Wattamwar2020,6411,6408,True,MET1000,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,1.0,,,,,,,,gram,CHEMBL2048484
+70,32763846,Wattamwar2020,6412,6409,True,FED,oral,oral (po),food,food,single-dose,single dose,0,,hr,fasting,fasting,,,fasting-no,No fasting,,,,,,,,,,,,CHEMBL2048484
+0,PKDB00891,Sha2015,6396,6393,True,CAN300,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-3T1R4,,day,dosing,dosing,,,,,canagliflozin,canagliflozin,0.3,,,,,,,,gram,CHEMBL429910
+1,PKDB00891,Sha2015,6397,6394,True,DAP10,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-3T1R4,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+2,PKDB00891,Sha2015,6398,6395,True,placebo,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,canagliflozin,canagliflozin,0.0,,,,,,,,gram,CHEMBL429910
+3,PKDB00838,Boulton2013,7191,7187,True,DAP10,oral,oral (po),tablet,tablet,single-dose,single dose,0.0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+4,PKDB00838,Boulton2013,7192,7188,True,C14DAP008,iv,intravenous (iv),solution,solution,constant-infusion,constant infusion,60.0,61.0,min,dosing,dosing,,,,,dapagliflozin,dapagliflozin,7.999999999999999e-05,,,,,,,,gram,CHEMBL429910
+5,PKDB00838,Boulton2013,7193,7189,True,SAX5,oral,oral (po),tablet,tablet,single-dose,single dose,0.0,,hr,dosing,dosing,,,,,saxagliptin,saxagliptin,0.005,,,,,,,,gram,CHEMBL429910
+6,PKDB00838,Boulton2013,7194,7190,True,C14SAX004,iv,intravenous (iv),solution,solution,constant-infusion,constant infusion,60.0,61.0,min,dosing,dosing,,,,,saxagliptin,saxagliptin,4e-05,,,,,,,,gram,CHEMBL429910
+7,PKDB00959,FDAMB102002,7218,7200,True,DAP2.5,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0025,,,,,,,,gram,CHEMBL429910
+8,PKDB00959,FDAMB102002,7219,7201,True,DAP10,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+9,PKDB00959,FDAMB102002,7220,7202,True,DAP20,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.02,,,,,,,,gram,CHEMBL429910
+10,PKDB00959,FDAMB102002,7221,7203,True,DAP50,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.05,,,,,,,,gram,CHEMBL429910
+11,PKDB00959,FDAMB102002,7222,7204,True,DAP100,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.1,,,,,,,,gram,CHEMBL429910
+12,PKDB00959,FDAMB102002,7224,7206,True,DAP2.5M7,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-7T1R7,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0025,,,,,,,,gram,CHEMBL429910
+13,PKDB00959,FDAMB102002,7225,7207,True,DAP10M7,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-7T1R7,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+14,PKDB00959,FDAMB102002,7226,7208,True,DAP20M7,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-7T1R7,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.02,,,,,,,,gram,CHEMBL429910
+15,PKDB00959,FDAMB102002,7227,7209,True,DAP50M7,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-7T1R7,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.05,,,,,,,,gram,CHEMBL429910
+16,PKDB00959,FDAMB102002,7228,7210,True,DAP100M7,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-7T1R7,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.1,,,,,,,,gram,CHEMBL429910
+17,PKDB00959,FDAMB102002,7229,7211,True,DAP0M14,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-14T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0,,,,,,,,gram,CHEMBL429910
+18,PKDB00959,FDAMB102002,7230,7212,True,DAP2.5M14,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-14T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0025,,,,,,,,gram,CHEMBL429910
+19,PKDB00959,FDAMB102002,7231,7213,True,DAP10M14,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-14T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+20,PKDB00959,FDAMB102002,7232,7214,True,DAP20M14,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-14T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.02,,,,,,,,gram,CHEMBL429910
+21,PKDB00959,FDAMB102002,7233,7215,True,DAP50M14,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-14T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.05,,,,,,,,gram,CHEMBL429910
+22,PKDB00959,FDAMB102002,7234,7216,True,DAP100M14,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-14T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.1,,,,,,,,gram,CHEMBL429910
+23,PKDB00970,FDAMB102006,7252,7251,True,DAP50,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.05,,,,,,,,gram,CHEMBL429910
+24,PKDB00971,FDAMB102007,7255,7253,True,DAP50,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.05,,,,,,,,gram,CHEMBL429910
+25,PKDB00971,FDAMB102007,7256,7254,True,DAP20,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-7T1R7,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.02,,,,,,,,gram,CHEMBL429910
+26,PKDB00840,Gould2013,7271,7257,True,DAP0,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0,,,,,,,,gram,CHEMBL429910
+27,PKDB00840,Gould2013,7272,7258,True,DAP0.001,oral,oral (po),solution,solution,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,1e-06,,,,,,,,gram,CHEMBL429910
+28,PKDB00840,Gould2013,7273,7259,True,DAP0.01,oral,oral (po),solution,solution,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,1e-05,,,,,,,,gram,CHEMBL429910
+29,PKDB00840,Gould2013,7274,7260,True,DAP0.1,oral,oral (po),solution,solution,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0001,,,,,,,,gram,CHEMBL429910
+30,PKDB00840,Gould2013,7275,7261,True,DAP0.3,oral,oral (po),solution,solution,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0003,,,,,,,,gram,CHEMBL429910
+31,PKDB00840,Gould2013,7276,7262,True,DAP1,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.001,,,,,,,,gram,CHEMBL429910
+32,PKDB00840,Gould2013,7277,7263,True,DAP2.5,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0025,,,,,,,,gram,CHEMBL429910
+33,PKDB00840,Gould2013,7278,7264,True,DAP5,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.005,,,,,,,,gram,CHEMBL429910
+34,PKDB00840,Gould2013,7279,7265,True,DAP10,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+35,PKDB00840,Gould2013,7280,7266,True,DAP20,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.02,,,,,,,,gram,CHEMBL429910
+36,PKDB00840,Gould2013,7281,7267,True,DAP50,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.05,,,,,,,,gram,CHEMBL429910
+37,PKDB00840,Gould2013,7282,7268,True,DAP100,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.1,,,,,,,,gram,CHEMBL429910
+38,PKDB00840,Gould2013,7283,7269,True,DAP250,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.25,,,,,,,,gram,CHEMBL429910
+39,PKDB00840,Gould2013,7284,7270,True,DAP500,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.5,,,,,,,,gram,CHEMBL429910
+40,PKDB00893,Imamura2013,7291,7289,True,DAP10,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+41,PKDB00893,Imamura2013,7292,7290,True,VOG,oral,oral (po),tablet,tablet,single-dose,single dose,S-168T8R21,,hr,dosing,dosing,,,,,voglibose,voglibose,0.0002,,,,,,,,gram,CHEMBL429910
+42,PKDB00913,Jang2020,7295,7293,True,DAP10,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,-4|-3|-2|-1|0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+43,PKDB00913,Jang2020,7296,7294,True,LOB05,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,-4|-3|-2|-1|0,,hr,dosing,dosing,,,,,lobeglitazone-sulfate,lobeglitazone sulfate,0.0005,,,,,,,,gram,CHEMBL429910
+44,PKDB00843,Kasichayanula2011b,7318,7317,True,DAP10,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+45,PKDB00842,Kasichayanula2011a,7308,7299,True,DAP0,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0,,,,,,,,gram,CHEMBL429910
+46,PKDB00842,Kasichayanula2011a,7309,7300,True,DAP2.5,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0025,,,,,,,,gram,CHEMBL429910
+47,PKDB00842,Kasichayanula2011a,7310,7301,True,DAP10,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+48,PKDB00842,Kasichayanula2011a,7311,7302,True,DAP20,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.02,,,,,,,,gram,CHEMBL429910
+49,PKDB00842,Kasichayanula2011a,7312,7303,True,DAP50,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.05,,,,,,,,gram,CHEMBL429910
+50,PKDB00842,Kasichayanula2011a,7313,7304,True,DAP0M,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-14T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0,,,,,,,,gram,CHEMBL429910
+51,PKDB00842,Kasichayanula2011a,7314,7305,True,DAP2.5M,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-14T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0025,,,,,,,,gram,CHEMBL429910
+52,PKDB00842,Kasichayanula2011a,7315,7306,True,DAP10M,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-14T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+53,PKDB00842,Kasichayanula2011a,7316,7307,True,DAP20M,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-14T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.02,,,,,,,,gram,CHEMBL429910
+54,PKDB00925,Kasichayanula2012,7337,7331,True,DAP20,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.02,,,,,,,,gram,CHEMBL429910
+55,PKDB00925,Kasichayanula2012,7338,7332,True,SIM40,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,simvastatin,simvastatin,0.04,,,,,,,,gram,CHEMBL429910
+56,PKDB00925,Kasichayanula2012,7339,7333,True,VAL320,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,valsartan,valsartan,0.32,,,,,,,,gram,CHEMBL429910
+57,PKDB00925,Kasichayanula2012,7341,7335,True,WAR25,oral,oral (po),tablet,tablet,single-dose,single dose,-6,,hr,dosing,dosing,,,,,warfarin,warfarin,0.025,,,,,,,,gram,CHEMBL429910
+58,PKDB00925,Kasichayanula2012,7342,7336,True,DIG025,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,-6,,hr,dosing,dosing,,,,,digoxin,digoxin,0.00025,,,,,,,,gram,CHEMBL429910
+59,PKDB00845,Kasichayanula2013a,7346,7343,True,DAP10,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+60,PKDB00845,Kasichayanula2013a,7347,7344,True,RIF,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,-6|-5|-4|-3|-2|-1|0|1|2,,day,dosing,dosing,,,,,rifampicin,rifampicin,0.6,,,,,,,,gram,CHEMBL429910
+61,PKDB00845,Kasichayanula2013a,7348,7345,True,MFA,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,S-72T6R23,,hr,dosing,dosing,,,,,mefenamic-acid,mefenamic acid,0.25,,,,,,,,gram,CHEMBL429910
+62,PKDB00926,Khomitskaya2018,7351,7349,True,DAP10,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+63,PKDB00926,Khomitskaya2018,7352,7350,True,MET1000,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,metformin,metformin,1.0,,,,,,,,gram,CHEMBL429910
+64,PKDB00927,Kim2023,7356,7353,True,DAP10,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,-4|-3|-2|-1|0,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+65,PKDB00927,Kim2023,7357,7354,True,EV5,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,-4|-3|-2|-1|0,,day,dosing,dosing,,,,,evogliptin,evogliptin,0.005,,,,,,,,gram,CHEMBL429910
+66,PKDB00927,Kim2023,7358,7355,True,EP25,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,-4|-3|-2|-1|0,,day,dosing,dosing,,,,,empagliflozin,empagliflozin,0.025,,,,,,,,gram,CHEMBL429910
+67,PKDB00928,Kim2023a,7361,7359,True,DAP10,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+68,PKDB00928,Kim2023a,7362,7360,True,DAP-FOR10,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+69,PKDB00846,Komoroski2009,7382,7363,True,DAP0,oral,oral (po),solution,solution,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0,,,,,,,,gram,CHEMBL429910
+70,PKDB00846,Komoroski2009,7383,7364,True,DAP2.5,oral,oral (po),solution,solution,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0025,,,,,,,,gram,CHEMBL429910
+71,PKDB00846,Komoroski2009,7384,7365,True,DAP5,oral,oral (po),solution,solution,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.005,,,,,,,,gram,CHEMBL429910
+72,PKDB00846,Komoroski2009,7385,7366,True,DAP10,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+73,PKDB00846,Komoroski2009,7386,7367,True,DAP20,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.02,,,,,,,,gram,CHEMBL429910
+74,PKDB00846,Komoroski2009,7387,7368,True,DAP50,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.05,,,,,,,,gram,CHEMBL429910
+75,PKDB00846,Komoroski2009,7388,7369,True,DAP100,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.1,,,,,,,,gram,CHEMBL429910
+76,PKDB00846,Komoroski2009,7389,7370,True,DAP250,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.25,,,,,,,,gram,CHEMBL429910
+77,PKDB00846,Komoroski2009,7390,7371,True,DAP500,oral,oral (po),capsule,capsule,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.5,,,,,,,,gram,CHEMBL429910
+78,PKDB00846,Komoroski2009,7391,7372,True,DAPM2.5,oral,oral (po),capsule,capsule,multiple-dose,multiple dose,S-13T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0025,,,,,,,,gram,CHEMBL429910
+79,PKDB00846,Komoroski2009,7392,7373,True,DAPM10,oral,oral (po),capsule,capsule,multiple-dose,multiple dose,S-13T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+80,PKDB00846,Komoroski2009,7393,7374,True,DAPM20,oral,oral (po),capsule,capsule,multiple-dose,multiple dose,S-13T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.02,,,,,,,,gram,CHEMBL429910
+81,PKDB00846,Komoroski2009,7394,7375,True,DAPM50,oral,oral (po),capsule,capsule,multiple-dose,multiple dose,S-13T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.05,,,,,,,,gram,CHEMBL429910
+82,PKDB00846,Komoroski2009,7395,7376,True,DAPM100,oral,oral (po),capsule,capsule,multiple-dose,multiple dose,S-13T1R14,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.1,,,,,,,,gram,CHEMBL429910
+83,PKDB00847,LaCreta2016,7403,7401,True,DAP2.5,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0025,,,,,,,,gram,CHEMBL429910
+84,PKDB00847,LaCreta2016,7404,7402,True,DAP10,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+85,PKDB00849,Shah2019a,7409,7407,True,DAP5,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.005,,,,,,,,gram,CHEMBL429910
+86,PKDB00849,Shah2019a,7410,7408,True,MET500,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,metformin,metformin,0.5,,,,,,,,gram,CHEMBL429910
+87,PKDB00850,Watada2019,7414,7411,True,DAP0,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,-6|-5|-4|-3|-2|-1|0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.0,,,,,,,,gram,CHEMBL429910
+88,PKDB00850,Watada2019,7415,7412,True,DAP5,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,-6|-5|-4|-3|-2|-1|0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.005,,,,,,,,gram,CHEMBL429910
+89,PKDB00850,Watada2019,7416,7413,True,DAP10,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,-6|-5|-4|-3|-2|-1|0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+90,PKDB00851,Yang2013,7421,7417,True,SD_DAP5,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.005,,,,,,,,gram,CHEMBL429910
+91,PKDB00851,Yang2013,7422,7418,True,SD_DAP10,oral,oral (po),tablet,tablet,single-dose,single dose,0,,hr,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910
+92,PKDB00851,Yang2013,7423,7419,True,MD_DAP5,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,0|4|5|6|7|8|9,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.005,,,,,,,,gram,CHEMBL429910
+93,PKDB00851,Yang2013,7424,7420,True,MD_DAP10,oral,oral (po),tablet,tablet,multiple-dose,multiple dose,0|4|5|6|7|8|9,,day,dosing,dosing,,,,,dapagliflozin,dapagliflozin,0.01,,,,,,,,gram,CHEMBL429910

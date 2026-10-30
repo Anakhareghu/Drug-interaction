@@ -1,0 +1,2282 @@
+{
+  "source": "ChEMBL REST API (chembl_webresource_client)",
+  "endpoint": "drug_indication",
+  "description": "Therapeutic indications and disease ontology terms.",
+  "fields": [
+    "molecule_chembl_id",
+    "efo_term",
+    "efo_id",
+    "mesh_heading",
+    "mesh_id",
+    "max_phase_for_ind"
+  ],
+  "query_ids": [
+    "CHEMBL1138",
+    "CHEMBL1163",
+    "CHEMBL1227",
+    "CHEMBL1231871",
+    "CHEMBL1330",
+    "CHEMBL1648",
+    "CHEMBL2048484",
+    "CHEMBL2147777",
+    "CHEMBL254316",
+    "CHEMBL3183230",
+    "CHEMBL385517",
+    "CHEMBL40",
+    "CHEMBL429910",
+    "CHEMBL49"
+  ],
+  "count": 134,
+  "data": [
+    {
+      "efo_id": "HP:0003124",
+      "efo_term": "Hypercholesterolemia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00090168,NCT00090298,NCT00092560,NCT00092573,NCT00092586,NCT00092599,NCT00092612,NCT00092625,NCT00092638,NCT00092651,NCT00092664,NCT00092690,NCT00092716,NCT00093899,NCT00101439,NCT00110435,NCT00129402,NCT00132717,NCT00157924,NCT00166504,NCT00185107,NCT00202878,NCT00203476,NCT00268697,NCT00271817,NCT00276458,NCT00276484,NCT00395473,NCT00405067,NCT00409773,NCT00413972,NCT00418834,NCT00440154,NCT00442897,NCT00457275,NCT00462748,NCT00466401,NCT00479713,NCT00496730,NCT00535405,NCT00621101,NCT00621699,NCT00650689,NCT00650819,NCT00652327,NCT00652444,NCT00652847,NCT00653523,NCT00654095,NCT00654628,NCT00664469,NCT00677248,NCT00701727,NCT00782184,NCT00783263,NCT00794677,NCT00814723,NCT00867165,NCT00871351,NCT00932620,NCT00972829,NCT01154036,NCT01370590,NCT01370603,NCT01516879,NCT01611883,NCT01644188,NCT01644474,NCT01709513,NCT01723735,NCT01730040,NCT01730053,NCT01890967,NCT01941836,NCT02055976,NCT02251847,NCT02260648,NCT02476006,NCT02550288,NCT02634580,NCT02715726,NCT02741245,NCT02749994,NCT02772640,NCT03051100,NCT03288038,NCT03510715,NCT03867110,NCT03867318,NCT03882892,NCT03882905,NCT03882996,NCT03885921,NCT04173403,NCT04358432,NCT04584736,NCT04669041,NCT05763875,NCT05795517,NCT05970679,NCT06450366",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00090168%20NCT00090298%20NCT00092560%20NCT00092573%20NCT00092586%20NCT00092599%20NCT00092612%20NCT00092625%20NCT00092638%20NCT00092651%20NCT00092664%20NCT00092690%20NCT00092716%20NCT00093899%20NCT00101439%20NCT00110435%20NCT00129402%20NCT00132717%20NCT00157924%20NCT00166504%20NCT00185107%20NCT00202878%20NCT00203476%20NCT00268697%20NCT00271817%20NCT00276458%20NCT00276484%20NCT00395473%20NCT00405067%20NCT00409773%20NCT00413972%20NCT00418834%20NCT00440154%20NCT00442897%20NCT00457275%20NCT00462748%20NCT00466401%20NCT00479713%20NCT00496730%20NCT00535405%20NCT00621101%20NCT00621699%20NCT00650689%20NCT00650819%20NCT00652327%20NCT00652444%20NCT00652847%20NCT00653523%20NCT00654095%20NCT00654628%20NCT00664469%20NCT00677248%20NCT00701727%20NCT00782184%20NCT00783263%20NCT00794677%20NCT00814723%20NCT00867165%20NCT00871351%20NCT00932620%20NCT00972829%20NCT01154036%20NCT01370590%20NCT01370603%20NCT01516879%20NCT01611883%20NCT01644188%20NCT01644474%20NCT01709513%20NCT01723735%20NCT01730040%20NCT01730053%20NCT01890967%20NCT01941836%20NCT02055976%20NCT02251847%20NCT02260648%20NCT02476006%20NCT02550288%20NCT02634580%20NCT02715726%20NCT02741245%20NCT02749994%20NCT02772640%20NCT03051100%20NCT03288038%20NCT03510715%20NCT03867110%20NCT03867318%20NCT03882892%20NCT03882905%20NCT03882996%20NCT03885921%20NCT04173403%20NCT04358432%20NCT04584736%20NCT04669041%20NCT05763875%20NCT05795517%20NCT05970679%20NCT06450366"
+        },
+        {
+          "ref_id": "029e1676-60c5-490a-b176-94f0f41f1077",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=029e1676-60c5-490a-b176-94f0f41f1077"
+        },
+        {
+          "ref_id": "11a152d3-159e-4d73-b087-26b775a9c070",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11a152d3-159e-4d73-b087-26b775a9c070"
+        },
+        {
+          "ref_id": "1396b8b6-651a-4f2f-a2c1-0165173b2eff",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1396b8b6-651a-4f2f-a2c1-0165173b2eff"
+        },
+        {
+          "ref_id": "2507c644-e445-4e31-8d15-82afcb15f274",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2507c644-e445-4e31-8d15-82afcb15f274"
+        },
+        {
+          "ref_id": "2f58df9c-59fb-4d13-65be-4aff52f223e2",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2f58df9c-59fb-4d13-65be-4aff52f223e2"
+        },
+        {
+          "ref_id": "3bdbd763-b3e2-4656-8d0a-41a4502647d5",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3bdbd763-b3e2-4656-8d0a-41a4502647d5"
+        },
+        {
+          "ref_id": "582e1593-1e6c-4ce8-8bae-134fbc3a66f0",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=582e1593-1e6c-4ce8-8bae-134fbc3a66f0"
+        },
+        {
+          "ref_id": "585577b5-44f4-4c04-9e3a-d74f68d442cf",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=585577b5-44f4-4c04-9e3a-d74f68d442cf"
+        },
+        {
+          "ref_id": "65e1c3ae-a462-4345-8a28-c7d2c0388af8",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=65e1c3ae-a462-4345-8a28-c7d2c0388af8"
+        },
+        {
+          "ref_id": "92e57b8a-47fb-49eb-bbed-cdacdf00f837",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=92e57b8a-47fb-49eb-bbed-cdacdf00f837"
+        },
+        {
+          "ref_id": "a7150fc3-a2bd-40bf-bb50-6bcb86359564",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a7150fc3-a2bd-40bf-bb50-6bcb86359564"
+        },
+        {
+          "ref_id": "a773b0b2-d31c-4ff4-b9e8-1eb2d3a4d62a",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a773b0b2-d31c-4ff4-b9e8-1eb2d3a4d62a"
+        },
+        {
+          "ref_id": "b57dcdef-894c-4801-e053-2a95a90a7239",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b57dcdef-894c-4801-e053-2a95a90a7239"
+        },
+        {
+          "ref_id": "c387354c-607b-474d-b2e5-d35c789ce09b",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c387354c-607b-474d-b2e5-d35c789ce09b"
+        },
+        {
+          "ref_id": "cb18564f-663f-4da2-9dd9-700ea9bdd398",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cb18564f-663f-4da2-9dd9-700ea9bdd398"
+        },
+        {
+          "ref_id": "d3f0f926-6014-45ab-9cad-54b22c6ff4dc",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d3f0f926-6014-45ab-9cad-54b22c6ff4dc"
+        },
+        {
+          "ref_id": "d4d296c1-aca8-44a2-86dd-4b3fa7d80faf",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d4d296c1-aca8-44a2-86dd-4b3fa7d80faf"
+        },
+        {
+          "ref_id": "f70e7022-0c44-48f2-9f7e-606e7ac730aa",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f70e7022-0c44-48f2-9f7e-606e7ac730aa"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Hypercholesterolemia",
+      "mesh_id": "D006937",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0000195",
+      "efo_term": "metabolic syndrome",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01849068",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01849068"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Metabolic Syndrome",
+      "mesh_id": "D024821",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "Orphanet:309005",
+      "efo_term": "Disorder of lipid metabolism",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00092807,NCT00092820,NCT00092898,NCT00157911,NCT00171288,NCT00267267,NCT00328523,NCT01218204,NCT01597700,NCT02029625,NCT02890992,NCT03510884",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00092807%20NCT00092820%20NCT00092898%20NCT00157911%20NCT00171288%20NCT00267267%20NCT00328523%20NCT01218204%20NCT01597700%20NCT02029625%20NCT02890992%20NCT03510884"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Lipid Metabolism Disorders",
+      "mesh_id": "D052439",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0004220",
+      "efo_term": "chronic hepatitis C virus infection",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02126137,NCT02971033",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02126137%20NCT02971033"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Hepatitis C, Chronic",
+      "mesh_id": "D019698",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0000319",
+      "efo_term": "cardiovascular disease",
+      "indication_refs": [
+        {
+          "ref_id": "C10AX09",
+          "ref_type": "ATC",
+          "ref_url": "https://www.whocc.no/atc_ddd_index/?code=C10AX09"
+        },
+        {
+          "ref_id": "NCT00395603,NCT00652717,NCT00738296",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00395603%20NCT00652717%20NCT00738296"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Cardiovascular Diseases",
+      "mesh_id": "D002318",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0003095",
+      "efo_term": "non-alcoholic fatty liver disease",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01766713",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01766713"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Non-alcoholic Fatty Liver Disease",
+      "mesh_id": "D065626",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0003914",
+      "efo_term": "atherosclerosis",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00090168,NCT00552097,NCT00650689,NCT02548936",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00090168%20NCT00552097%20NCT00650689%20NCT02548936"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Atherosclerosis",
+      "mesh_id": "D050197",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0000537",
+      "efo_term": "hypertension",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00738972",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00738972"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Hypertension",
+      "mesh_id": "D006973",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0000764",
+      "efo_term": "HIV infection",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00772551",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00772551"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "HIV Infections",
+      "mesh_id": "D015658",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0007304",
+      "efo_term": "hepatitis D virus infection",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03099278,NCT03105310",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03099278%20NCT03105310"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Hepatitis D",
+      "mesh_id": "D003699",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0004911",
+      "efo_term": "familial hypercholesterolemia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00092833,NCT03884452,NCT04173793",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00092833%20NCT03884452%20NCT04173793"
+        },
+        {
+          "ref_id": "3fa2108c-0300-47b8-9d34-f762af7c93c6",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3fa2108c-0300-47b8-9d34-f762af7c93c6"
+        },
+        {
+          "ref_id": "65e1c3ae-a462-4345-8a28-c7d2c0388af8",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=65e1c3ae-a462-4345-8a28-c7d2c0388af8"
+        },
+        {
+          "ref_id": "b57dcdef-894c-4801-e053-2a95a90a7239",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b57dcdef-894c-4801-e053-2a95a90a7239"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Hyperlipoproteinemia Type II",
+      "mesh_id": "D006938",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0004211",
+      "efo_term": "Hypertriglyceridemia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00092560,NCT00092573,NCT00093899",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00092560%20NCT00092573%20NCT00093899"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Hypertriglyceridemia",
+      "mesh_id": "D015228",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "MONDO:0008315",
+      "efo_term": "prostate cancer",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02534376",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02534376"
+        }
+      ],
+      "max_phase_for_ind": "0.5",
+      "mesh_heading": "Prostatic Neoplasms, Castration-Resistant",
+      "mesh_id": "D064129",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0000400",
+      "efo_term": "diabetes mellitus",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00395603",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00395603"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Diabetes Mellitus",
+      "mesh_id": "D003920",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0000612",
+      "efo_term": "myocardial infarction",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00202878",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00202878"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Myocardial Infarction",
+      "mesh_id": "D009203",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0001645",
+      "efo_term": "coronary artery disease",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00090168,NCT00092612,NCT00092625,NCT00092638,NCT00551447,NCT00650689,NCT00965055,NCT02089867,NCT02205775",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00090168%20NCT00092612%20NCT00092625%20NCT00092638%20NCT00551447%20NCT00650689%20NCT00965055%20NCT02089867%20NCT02205775"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Coronary Disease",
+      "mesh_id": "D003327",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "MONDO:0005148",
+      "efo_term": "type 2 diabetes mellitus",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00541697,NCT00551876,NCT03531905",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00541697%20NCT00551876%20NCT03531905"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Diabetes Mellitus, Type 2",
+      "mesh_id": "D003924",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "MONDO:0018328",
+      "efo_term": "homozygous familial hypercholesterolemia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03933293",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03933293"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Hyperlipoproteinemia Type II",
+      "mesh_id": "D006938",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "MONDO:0019052",
+      "efo_term": "inborn errors of metabolism",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00099996",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00099996"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Metabolism, Inborn Errors",
+      "mesh_id": "D008661",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "MONDO:0021187",
+      "efo_term": "hyperlipidemia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00093899,NCT00195793,NCT00203476,NCT00267267,NCT00349284,NCT00559962,NCT00566267,NCT00651560,NCT00753883,NCT01236430,NCT01375764,NCT01375777,NCT01763827,NCT01763866,NCT01763905,NCT01984424,NCT02227784,NCT02451098,NCT03337308,NCT03847506,NCT05681247",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00093899%20NCT00195793%20NCT00203476%20NCT00267267%20NCT00349284%20NCT00559962%20NCT00566267%20NCT00651560%20NCT00753883%20NCT01236430%20NCT01375764%20NCT01375777%20NCT01763827%20NCT01763866%20NCT01763905%20NCT01984424%20NCT02227784%20NCT02451098%20NCT03337308%20NCT03847506%20NCT05681247"
+        },
+        {
+          "ref_id": "029e1676-60c5-490a-b176-94f0f41f1077",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=029e1676-60c5-490a-b176-94f0f41f1077"
+        },
+        {
+          "ref_id": "11a152d3-159e-4d73-b087-26b775a9c070",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11a152d3-159e-4d73-b087-26b775a9c070"
+        },
+        {
+          "ref_id": "1396b8b6-651a-4f2f-a2c1-0165173b2eff",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1396b8b6-651a-4f2f-a2c1-0165173b2eff"
+        },
+        {
+          "ref_id": "2507c644-e445-4e31-8d15-82afcb15f274",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2507c644-e445-4e31-8d15-82afcb15f274"
+        },
+        {
+          "ref_id": "2f58df9c-59fb-4d13-65be-4aff52f223e2",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2f58df9c-59fb-4d13-65be-4aff52f223e2"
+        },
+        {
+          "ref_id": "3bdbd763-b3e2-4656-8d0a-41a4502647d5",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3bdbd763-b3e2-4656-8d0a-41a4502647d5"
+        },
+        {
+          "ref_id": "582e1593-1e6c-4ce8-8bae-134fbc3a66f0",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=582e1593-1e6c-4ce8-8bae-134fbc3a66f0"
+        },
+        {
+          "ref_id": "585577b5-44f4-4c04-9e3a-d74f68d442cf",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=585577b5-44f4-4c04-9e3a-d74f68d442cf"
+        },
+        {
+          "ref_id": "65e1c3ae-a462-4345-8a28-c7d2c0388af8",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=65e1c3ae-a462-4345-8a28-c7d2c0388af8"
+        },
+        {
+          "ref_id": "92e57b8a-47fb-49eb-bbed-cdacdf00f837",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=92e57b8a-47fb-49eb-bbed-cdacdf00f837"
+        },
+        {
+          "ref_id": "a7150fc3-a2bd-40bf-bb50-6bcb86359564",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a7150fc3-a2bd-40bf-bb50-6bcb86359564"
+        },
+        {
+          "ref_id": "a773b0b2-d31c-4ff4-b9e8-1eb2d3a4d62a",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a773b0b2-d31c-4ff4-b9e8-1eb2d3a4d62a"
+        },
+        {
+          "ref_id": "c387354c-607b-474d-b2e5-d35c789ce09b",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c387354c-607b-474d-b2e5-d35c789ce09b"
+        },
+        {
+          "ref_id": "cb18564f-663f-4da2-9dd9-700ea9bdd398",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cb18564f-663f-4da2-9dd9-700ea9bdd398"
+        },
+        {
+          "ref_id": "d3f0f926-6014-45ab-9cad-54b22c6ff4dc",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d3f0f926-6014-45ab-9cad-54b22c6ff4dc"
+        },
+        {
+          "ref_id": "d4d296c1-aca8-44a2-86dd-4b3fa7d80faf",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d4d296c1-aca8-44a2-86dd-4b3fa7d80faf"
+        },
+        {
+          "ref_id": "f70e7022-0c44-48f2-9f7e-606e7ac730aa",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f70e7022-0c44-48f2-9f7e-606e7ac730aa"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Hyperlipidemias",
+      "mesh_id": "D006949",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "HP:0001650",
+      "efo_term": "Aortic valve stenosis",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00092677,NCT04968509",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00092677%20NCT04968509"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Aortic Valve Stenosis",
+      "mesh_id": "D001024",
+      "molecule_chembl_id": "CHEMBL1138"
+    },
+    {
+      "efo_id": "EFO:0000180",
+      "efo_term": "HIV-1 infection",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01511809,NCT02473328,NCT02542852,NCT02566707,NCT04022967",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01511809%20NCT02473328%20NCT02542852%20NCT02566707%20NCT04022967"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "HIV Infections",
+      "mesh_id": "D015658",
+      "molecule_chembl_id": "CHEMBL1163"
+    },
+    {
+      "efo_id": "EFO:0000764",
+      "efo_term": "HIV infection",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00002240,NCT00004584,NCT00007202,NCT00013520,NCT00013897,NCT00028067,NCT00028301,NCT00035932,NCT00067782,NCT00074581,NCT00118898,NCT00120393,NCT00122577,NCT00135434,NCT00162149,NCT00260078,NCT00280969,NCT00307502,NCT00326716,NCT00337467,NCT00357240,NCT00357604,NCT00365339,NCT00389207,NCT00393328,NCT00411957,NCT00433056,NCT00440947,NCT00518297,NCT00528060,NCT00624195,NCT00646776,NCT00768989,NCT00811954,NCT00833482,NCT00874523,NCT00896051,NCT00943540,NCT01003990,NCT01073761,NCT01099579,NCT01255371,NCT01384734,NCT01404572,NCT01605084,NCT01620944,NCT01656109,NCT01803074,NCT01837719,NCT01910402,NCT02034838,NCT02116660,NCT02302547,NCT02307656,NCT02386098,NCT03019783,NCT03708861",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00002240%20NCT00004584%20NCT00007202%20NCT00013520%20NCT00013897%20NCT00028067%20NCT00028301%20NCT00035932%20NCT00067782%20NCT00074581%20NCT00118898%20NCT00120393%20NCT00122577%20NCT00135434%20NCT00162149%20NCT00260078%20NCT00280969%20NCT00307502%20NCT00326716%20NCT00337467%20NCT00357240%20NCT00357604%20NCT00365339%20NCT00389207%20NCT00393328%20NCT00411957%20NCT00433056%20NCT00440947%20NCT00518297%20NCT00528060%20NCT00624195%20NCT00646776%20NCT00768989%20NCT00811954%20NCT00833482%20NCT00874523%20NCT00896051%20NCT00943540%20NCT01003990%20NCT01073761%20NCT01099579%20NCT01255371%20NCT01384734%20NCT01404572%20NCT01605084%20NCT01620944%20NCT01656109%20NCT01803074%20NCT01837719%20NCT01910402%20NCT02034838%20NCT02116660%20NCT02302547%20NCT02307656%20NCT02386098%20NCT03019783%20NCT03708861"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "HIV Infections",
+      "mesh_id": "D015658",
+      "molecule_chembl_id": "CHEMBL1163"
+    },
+    {
+      "efo_id": "EFO:0000765",
+      "efo_term": "AIDS",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00433056,NCT00896051,NCT02155101,NCT02284035",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00433056%20NCT00896051%20NCT02155101%20NCT02284035"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Acquired Immunodeficiency Syndrome",
+      "mesh_id": "D000163",
+      "molecule_chembl_id": "CHEMBL1163"
+    },
+    {
+      "efo_id": "EFO:0000763",
+      "efo_term": "viral disease",
+      "indication_refs": [
+        {
+          "ref_id": "J05AE08",
+          "ref_type": "ATC",
+          "ref_url": "https://www.whocc.no/atc_ddd_index/?code=J05AE08"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Virus Diseases",
+      "mesh_id": "D014777",
+      "molecule_chembl_id": "CHEMBL1163"
+    },
+    {
+      "efo_id": "EFO:0001642",
+      "efo_term": "lymphoid neoplasm",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04184869",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04184869"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Hematologic Neoplasms",
+      "mesh_id": "D019337",
+      "molecule_chembl_id": "CHEMBL1163"
+    },
+    {
+      "efo_id": "MONDO:0100096",
+      "efo_term": "COVID-19",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04459286,NCT04468087",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04459286%20NCT04468087"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Severe Acute Respiratory Syndrome",
+      "mesh_id": "D045169",
+      "molecule_chembl_id": "CHEMBL1163"
+    },
+    {
+      "efo_id": "MONDO:0005147",
+      "efo_term": "type 1 diabetes mellitus",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01421355",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01421355"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Diabetes Mellitus, Type 1",
+      "mesh_id": "D003922",
+      "molecule_chembl_id": "CHEMBL1163"
+    },
+    {
+      "efo_id": "EFO:0004262",
+      "efo_term": "panic disorder",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02631694",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02631694"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Panic Disorder",
+      "mesh_id": "D016584",
+      "molecule_chembl_id": "CHEMBL1231871"
+    },
+    {
+      "efo_id": "EFO:0003843",
+      "efo_term": "pain",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02381795",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02381795"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Pain",
+      "mesh_id": "D010146",
+      "molecule_chembl_id": "CHEMBL1231871"
+    },
+    {
+      "efo_id": "EFO:1001219",
+      "efo_term": "trigeminal neuralgia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02473016",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02473016"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Trigeminal Neuralgia",
+      "mesh_id": "D014277",
+      "molecule_chembl_id": "CHEMBL1231871"
+    },
+    {
+      "efo_id": "EFO:1001417",
+      "efo_term": "Rhinitis, Allergic, Perennial",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00638755",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00638755"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Rhinitis, Allergic, Perennial",
+      "mesh_id": "D012221",
+      "molecule_chembl_id": "CHEMBL1231871"
+    },
+    {
+      "efo_id": "EFO:0003144",
+      "efo_term": "heart failure",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01049256",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01049256"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Heart Failure",
+      "mesh_id": "D006333",
+      "molecule_chembl_id": "CHEMBL1231871"
+    },
+    {
+      "efo_id": "EFO:0003877",
+      "efo_term": "sleep apnea",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01041924",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01041924"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Sleep Apnea Syndromes",
+      "mesh_id": "D012891",
+      "molecule_chembl_id": "CHEMBL1231871"
+    },
+    {
+      "efo_id": "HP:0030833",
+      "efo_term": "Neck pain",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00325312",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00325312"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Neck Pain",
+      "mesh_id": "D019547",
+      "molecule_chembl_id": "CHEMBL1231871"
+    },
+    {
+      "efo_id": "EFO:0009842",
+      "efo_term": "respiratory depression",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02473354",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02473354"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Respiratory Insufficiency",
+      "mesh_id": "D012131",
+      "molecule_chembl_id": "CHEMBL1231871"
+    },
+    {
+      "efo_id": "MONDO:0005277",
+      "efo_term": "migraine disorder",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01253915",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01253915"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Migraine Disorders",
+      "mesh_id": "D008881",
+      "molecule_chembl_id": "CHEMBL1231871"
+    },
+    {
+      "efo_id": "EFO:0000319",
+      "efo_term": "cardiovascular disease",
+      "indication_refs": [
+        {
+          "ref_id": "C08CA03",
+          "ref_type": "ATC",
+          "ref_url": "https://www.whocc.no/atc_ddd_index/?code=C08CA03"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Cardiovascular Diseases",
+      "mesh_id": "D002318",
+      "molecule_chembl_id": "CHEMBL1648"
+    },
+    {
+      "efo_id": "EFO:0005611",
+      "efo_term": "opioid dependence",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01895270",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01895270"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Opioid-Related Disorders",
+      "mesh_id": "D009293",
+      "molecule_chembl_id": "CHEMBL1648"
+    },
+    {
+      "efo_id": "EFO:0000537",
+      "efo_term": "hypertension",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01007994",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01007994"
+        },
+        {
+          "ref_id": "ac51d3e3-ed76-e033-e1d6-1ffbd14d94c2",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac51d3e3-ed76-e033-e1d6-1ffbd14d94c2"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Hypertension",
+      "mesh_id": "D006973",
+      "molecule_chembl_id": "CHEMBL1648"
+    },
+    {
+      "efo_id": "EFO:0003768",
+      "efo_term": "nicotine dependence",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03083353",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03083353"
+        }
+      ],
+      "max_phase_for_ind": "0.5",
+      "mesh_heading": "Tobacco Use Disorder",
+      "mesh_id": "D014029",
+      "molecule_chembl_id": "CHEMBL1648"
+    },
+    {
+      "efo_id": "EFO:0003890",
+      "efo_term": "drug dependence",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00593463",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00593463"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Substance-Related Disorders",
+      "mesh_id": "D019966",
+      "molecule_chembl_id": "CHEMBL1648"
+    },
+    {
+      "efo_id": "EFO:0004319",
+      "efo_term": "smoking cessation",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03083353",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03083353"
+        }
+      ],
+      "max_phase_for_ind": "0.5",
+      "mesh_heading": "Smoking Cessation",
+      "mesh_id": "D016540",
+      "molecule_chembl_id": "CHEMBL1648"
+    },
+    {
+      "efo_id": "MONDO:0005180",
+      "efo_term": "Parkinson disease",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00753636,NCT00909545,NCT02168842",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00753636%20NCT00909545%20NCT02168842"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Parkinson Disease",
+      "mesh_id": "D010300",
+      "molecule_chembl_id": "CHEMBL1648"
+    },
+    {
+      "efo_id": "MONDO:0004985",
+      "efo_term": "bipolar disorder",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01784666",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01784666"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Bipolar Disorder",
+      "mesh_id": "D001714",
+      "molecule_chembl_id": "CHEMBL1648"
+    },
+    {
+      "efo_id": "EFO:0000400",
+      "efo_term": "diabetes mellitus",
+      "indication_refs": [
+        {
+          "ref_id": "A10BH08",
+          "ref_type": "ATC",
+          "ref_url": "https://www.whocc.no/atc_ddd_index/?code=A10BH08"
+        },
+        {
+          "ref_id": "NCT03009513,NCT03011177",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03009513%20NCT03011177"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Diabetes Mellitus",
+      "mesh_id": "D003920",
+      "molecule_chembl_id": "CHEMBL2147777"
+    },
+    {
+      "efo_id": "MONDO:0005148",
+      "efo_term": "type 2 diabetes mellitus",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00628212,NCT00974090,NCT00998881,NCT01026194,NCT01072331,NCT01301833,NCT01798238,NCT02220907,NCT02314637,NCT02354222,NCT02354235,NCT02567994,NCT02916706,NCT02924064,NCT04431141,NCT05504226,NCT05504239",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00628212%20NCT00974090%20NCT00998881%20NCT01026194%20NCT01072331%20NCT01301833%20NCT01798238%20NCT02220907%20NCT02314637%20NCT02354222%20NCT02354235%20NCT02567994%20NCT02916706%20NCT02924064%20NCT04431141%20NCT05504226%20NCT05504239"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Diabetes Mellitus, Type 2",
+      "mesh_id": "D003924",
+      "molecule_chembl_id": "CHEMBL2147777"
+    },
+    {
+      "efo_id": "EFO:0000763",
+      "efo_term": "viral disease",
+      "indication_refs": [
+        {
+          "ref_id": "J05AJ01",
+          "ref_type": "ATC",
+          "ref_url": "https://www.whocc.no/atc_ddd_index/?code=J05AJ01"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Virus Diseases",
+      "mesh_id": "D014777",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:0000764",
+      "efo_term": "HIV infection",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00369941,NCT00443703,NCT00443729,NCT00485264,NCT00515827,NCT00518297,NCT00520897,NCT00528892,NCT00529243,NCT00531999,NCT00537394,NCT00562510,NCT00614458,NCT00618241,NCT00624195,NCT00654147,NCT00660972,NCT00665717,NCT00667433,NCT00708162,NCT00711009,NCT00729924,NCT00745823,NCT00752856,NCT00764946,NCT00765271,NCT00768989,NCT00772551,NCT00808002,NCT00811954,NCT00874523,NCT00943540,NCT00944307,NCT00976404,NCT00982553,NCT00988039,NCT01027182,NCT01047995,NCT01066962,NCT01101893,NCT01154673,NCT01159132,NCT01195467,NCT01227824,NCT01231516,NCT01288755,NCT01291459,NCT01384734,NCT01622673,NCT01717287,NCT01780831,NCT01784302,NCT01825031,NCT01841593,NCT01896921,NCT01900106,NCT02025868,NCT02097108,NCT02116660,NCT02131233,NCT02140255,NCT02302547,NCT02336074,NCT02473367,NCT03029689,NCT03195452,NCT03311945",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00369941%20NCT00443703%20NCT00443729%20NCT00485264%20NCT00515827%20NCT00518297%20NCT00520897%20NCT00528892%20NCT00529243%20NCT00531999%20NCT00537394%20NCT00562510%20NCT00614458%20NCT00618241%20NCT00624195%20NCT00654147%20NCT00660972%20NCT00665717%20NCT00667433%20NCT00708162%20NCT00711009%20NCT00729924%20NCT00745823%20NCT00752856%20NCT00764946%20NCT00765271%20NCT00768989%20NCT00772551%20NCT00808002%20NCT00811954%20NCT00874523%20NCT00943540%20NCT00944307%20NCT00976404%20NCT00982553%20NCT00988039%20NCT01027182%20NCT01047995%20NCT01066962%20NCT01101893%20NCT01154673%20NCT01159132%20NCT01195467%20NCT01227824%20NCT01231516%20NCT01288755%20NCT01291459%20NCT01384734%20NCT01622673%20NCT01717287%20NCT01780831%20NCT01784302%20NCT01825031%20NCT01841593%20NCT01896921%20NCT01900106%20NCT02025868%20NCT02097108%20NCT02116660%20NCT02131233%20NCT02140255%20NCT02302547%20NCT02336074%20NCT02473367%20NCT03029689%20NCT03195452%20NCT03311945"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "HIV Infections",
+      "mesh_id": "D015658",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:0000180",
+      "efo_term": "HIV-1 infection",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00807443,NCT01000818,NCT01352715,NCT02212379,NCT03174977,NCT03311945,NCT03333083",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00807443%20NCT01000818%20NCT01352715%20NCT02212379%20NCT03174977%20NCT03311945%20NCT03333083"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "HIV Infections",
+      "mesh_id": "D015658",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:0000544",
+      "efo_term": "infection",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00830804,NCT00984152,NCT01033760,NCT01605890,NCT01867320,NCT02150993,NCT02489487",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00830804%20NCT00984152%20NCT01033760%20NCT01605890%20NCT01867320%20NCT02150993%20NCT02489487"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Infections",
+      "mesh_id": "D007239",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:0000765",
+      "efo_term": "AIDS",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02219672,NCT02284035",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02219672%20NCT02284035"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Acquired Immunodeficiency Syndrome",
+      "mesh_id": "D000163",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:0003047",
+      "efo_term": "hepatitis C virus infection",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01241773",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01241773"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Hepatitis C",
+      "mesh_id": "D006526",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:0003929",
+      "efo_term": "relapsing-remitting multiple sclerosis",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01767701",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01767701"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Multiple Sclerosis, Relapsing-Remitting",
+      "mesh_id": "D020529",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:0000209",
+      "efo_term": "T-cell acute lymphoblastic leukemia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01000285",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01000285"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Leukemia, Biphenotypic, Acute",
+      "mesh_id": "D015456",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:0006859",
+      "efo_term": "head and neck malignant neoplasia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01275183",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01275183"
+        }
+      ],
+      "max_phase_for_ind": "0.5",
+      "mesh_heading": "Head and Neck Neoplasms",
+      "mesh_id": "D006258",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:0007316",
+      "efo_term": "Human T-lymphotropic virus 1 infectious disease",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01620736",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01620736"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "HTLV-I Infections",
+      "mesh_id": "D015490",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:1001486",
+      "efo_term": "primary biliary cirrhosis",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03954327",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03954327"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Liver Cirrhosis, Biliary",
+      "mesh_id": "D008105",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:0007527",
+      "efo_term": "tropical spastic paraparesis",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02655471",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02655471"
+        }
+      ],
+      "max_phase_for_ind": "0.5",
+      "mesh_heading": "Paraparesis, Tropical Spastic",
+      "mesh_id": "D015493",
+      "molecule_chembl_id": "CHEMBL254316"
+    },
+    {
+      "efo_id": "EFO:0000474",
+      "efo_term": "epilepsy",
+      "indication_refs": [
+        {
+          "ref_id": "N03AA02",
+          "ref_type": "ATC",
+          "ref_url": "https://www.whocc.no/atc_ddd_index/?code=N03AA02"
+        },
+        {
+          "ref_id": "NCT01284556,NCT02726867,NCT05291455,NCT05346666",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01284556%20NCT02726867%20NCT05291455%20NCT05346666"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Epilepsy",
+      "mesh_id": "D004827",
+      "molecule_chembl_id": "CHEMBL40"
+    },
+    {
+      "efo_id": "HP:0001250",
+      "efo_term": "Seizure",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01720667,NCT02550028",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01720667%20NCT02550028"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Seizures",
+      "mesh_id": "D012640",
+      "molecule_chembl_id": "CHEMBL40"
+    },
+    {
+      "efo_id": "EFO:0005799",
+      "efo_term": "neonatal abstinence syndrome",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02810782,NCT03670160",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02810782%20NCT03670160"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Neonatal Abstinence Syndrome",
+      "mesh_id": "D009357",
+      "molecule_chembl_id": "CHEMBL40"
+    },
+    {
+      "efo_id": "EFO:0005230",
+      "efo_term": "anxiety",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02374567",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02374567"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Anxiety",
+      "mesh_id": "D001007",
+      "molecule_chembl_id": "CHEMBL40"
+    },
+    {
+      "efo_id": "HP:0000726",
+      "efo_term": "Dementia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02374567",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02374567"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Dementia",
+      "mesh_id": "D003704",
+      "molecule_chembl_id": "CHEMBL40"
+    },
+    {
+      "efo_id": "EFO:0000574",
+      "efo_term": "lymphoma",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00002759",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00002759"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Lymphoma",
+      "mesh_id": "D008223",
+      "molecule_chembl_id": "CHEMBL40"
+    },
+    {
+      "efo_id": "EFO:0008526",
+      "efo_term": "status epilepticus",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02726867,NCT03025906,NCT03650270",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02726867%20NCT03025906%20NCT03650270"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Status Epilepticus",
+      "mesh_id": "D013226",
+      "molecule_chembl_id": "CHEMBL40"
+    },
+    {
+      "efo_id": "MONDO:0001475",
+      "efo_term": "neutropenia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00002759",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00002759"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Neutropenia",
+      "mesh_id": "D009503",
+      "molecule_chembl_id": "CHEMBL40"
+    },
+    {
+      "efo_id": "MONDO:0002050",
+      "efo_term": "depressive disorder",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02374567",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02374567"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Depressive Disorder",
+      "mesh_id": "D003866",
+      "molecule_chembl_id": "CHEMBL40"
+    },
+    {
+      "efo_id": "MONDO:0005090",
+      "efo_term": "schizophrenia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02374567",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02374567"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Schizophrenia",
+      "mesh_id": "D012559",
+      "molecule_chembl_id": "CHEMBL40"
+    },
+    {
+      "efo_id": "EFO:0000400",
+      "efo_term": "diabetes mellitus",
+      "indication_refs": [
+        {
+          "ref_id": "A10BK01",
+          "ref_type": "ATC",
+          "ref_url": "https://www.whocc.no/atc_ddd_index/?code=A10BK01"
+        },
+        {
+          "ref_id": "NCT01294436,NCT02096705,NCT02229396,NCT02419612,NCT02610088,NCT02719756,NCT02798757,NCT02887677,NCT02984644,NCT03269058,NCT03313752,NCT03714594,NCT03887416,NCT04170998,NCT04287387,NCT04451837,NCT04885712,NCT05066516,NCT05194592,NCT05262257,NCT05440591,NCT05915949",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01294436%20NCT02096705%20NCT02229396%20NCT02419612%20NCT02610088%20NCT02719756%20NCT02798757%20NCT02887677%20NCT02984644%20NCT03269058%20NCT03313752%20NCT03714594%20NCT03887416%20NCT04170998%20NCT04287387%20NCT04451837%20NCT04885712%20NCT05066516%20NCT05194592%20NCT05262257%20NCT05440591%20NCT05915949"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Diabetes Mellitus",
+      "mesh_id": "D003920",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0001073",
+      "efo_term": "obesity",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02313220",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02313220"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Obesity",
+      "mesh_id": "D009765",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0003144",
+      "efo_term": "heart failure",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02653482,NCT03030235,NCT03036124,NCT03619213,NCT03877224,NCT04363697,NCT04385589,NCT04707352,NCT04730947,NCT04782245,NCT04798222,NCT04860011,NCT04869124,NCT05406505,NCT05550441,NCT05676684,NCT05741658,NCT05776043,NCT06012266,NCT06012279",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02653482%20NCT03030235%20NCT03036124%20NCT03619213%20NCT03877224%20NCT04363697%20NCT04385589%20NCT04707352%20NCT04730947%20NCT04782245%20NCT04798222%20NCT04860011%20NCT04869124%20NCT05406505%20NCT05550441%20NCT05676684%20NCT05741658%20NCT05776043%20NCT06012266%20NCT06012279"
+        },
+        {
+          "ref_id": "EMEA/H/C/006006",
+          "ref_type": "EMA",
+          "ref_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dapagliflozin-viatris"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Heart Failure",
+      "mesh_id": "D006333",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0003884",
+      "efo_term": "chronic kidney disease",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03036150,NCT04492722,NCT04724837,NCT04794517,NCT04930549,NCT04991571,NCT05196347,NCT05225077,NCT05250752,NCT05343078,NCT05359263,NCT05570305,NCT05685394,NCT06350123,NCT06421870",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03036150%20NCT04492722%20NCT04724837%20NCT04794517%20NCT04930549%20NCT04991571%20NCT05196347%20NCT05225077%20NCT05250752%20NCT05343078%20NCT05359263%20NCT05570305%20NCT05685394%20NCT06350123%20NCT06421870"
+        },
+        {
+          "ref_id": "EMEA/H/C/006006",
+          "ref_type": "EMA",
+          "ref_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dapagliflozin-viatris"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Renal Insufficiency, Chronic",
+      "mesh_id": "D051436",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "HP:0001824",
+      "efo_term": "Weight loss",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02520518,NCT03180489",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02520518%20NCT03180489"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Weight Loss",
+      "mesh_id": "D015431",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:1001249",
+      "efo_term": "non-alcoholic steatohepatitis",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03723252,NCT05254626",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03723252%20NCT05254626"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Non-alcoholic Fatty Liver Disease",
+      "mesh_id": "D065626",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0000660",
+      "efo_term": "polycystic ovary syndrome",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04213677,NCT06405178",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04213677%20NCT06405178"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Polycystic Ovary Syndrome",
+      "mesh_id": "D011085",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0009104",
+      "efo_term": "hyperuricemia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03316131",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03316131"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Hyperuricemia",
+      "mesh_id": "D033461",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0000195",
+      "efo_term": "metabolic syndrome",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02113241",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02113241"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Metabolic Syndrome",
+      "mesh_id": "D024821",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0000275",
+      "efo_term": "atrial fibrillation",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04780438,NCT05852704,NCT06111443",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04780438%20NCT05852704%20NCT06111443"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Atrial Fibrillation",
+      "mesh_id": "D001281",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0000401",
+      "efo_term": "diabetic nephropathy",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04170543",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04170543"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Diabetic Nephropathies",
+      "mesh_id": "D003928",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0001645",
+      "efo_term": "coronary artery disease",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03313752",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03313752"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Coronary Disease",
+      "mesh_id": "D003327",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0002618",
+      "efo_term": "pancreatic carcinoma",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04542291",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04542291"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Pancreatic Neoplasms",
+      "mesh_id": "D010190",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:1000899",
+      "efo_term": "diastolic heart failure",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04475042",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04475042"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Heart Failure, Diastolic",
+      "mesh_id": "D054144",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "HP:0001919",
+      "efo_term": "Acute kidney injury",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04806633,NCT05468203",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04806633%20NCT05468203"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Acute Kidney Injury",
+      "mesh_id": "D058186",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "MONDO:0100096",
+      "efo_term": "COVID-19",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04350593,NCT04393246",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04350593%20NCT04393246"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Severe Acute Respiratory Syndrome",
+      "mesh_id": "D045169",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0001663",
+      "efo_term": "prostate carcinoma",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04887935",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04887935"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Prostatic Neoplasms",
+      "mesh_id": "D011471",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "MONDO:0007254",
+      "efo_term": "breast cancer",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04899349,NCT05025735,NCT06341842",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04899349%20NCT05025735%20NCT06341842"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Breast Neoplasms",
+      "mesh_id": "D001943",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0000612",
+      "efo_term": "myocardial infarction",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05424315",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05424315"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Myocardial Infarction",
+      "mesh_id": "D009203",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0001361",
+      "efo_term": "pulmonary arterial hypertension",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05179356",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05179356"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Hypertension, Pulmonary",
+      "mesh_id": "D006976",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0002687",
+      "efo_term": "ischemia reperfusion injury",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05217654",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05217654"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Reperfusion Injury",
+      "mesh_id": "D015427",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0003770",
+      "efo_term": "diabetic retinopathy",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05310916",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05310916"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Diabetic Retinopathy",
+      "mesh_id": "D003930",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0004285",
+      "efo_term": "albuminuria",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05268926",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05268926"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Albuminuria",
+      "mesh_id": "D000419",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:1000783",
+      "efo_term": "diabetic neuropathy",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05162690",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05162690"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Diabetic Neuropathies",
+      "mesh_id": "D003929",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:1002048",
+      "efo_term": "kidney failure",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05321706",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05321706"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Renal Insufficiency",
+      "mesh_id": "D051437",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "HP:0001397",
+      "efo_term": "Hepatic steatosis",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05308160",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05308160"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Fatty Liver",
+      "mesh_id": "D005234",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "MONDO:0004975",
+      "efo_term": "Alzheimer disease",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03801642",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03801642"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Alzheimer Disease",
+      "mesh_id": "D000544",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "MONDO:0005147",
+      "efo_term": "type 1 diabetes mellitus",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01498185,NCT02268214,NCT02325206,NCT02460978,NCT02518945,NCT02582814,NCT02582840,NCT03537131,NCT03704818,NCT03899402,NCT04333823,NCT04545411,NCT04956263",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01498185%20NCT02268214%20NCT02325206%20NCT02460978%20NCT02518945%20NCT02582814%20NCT02582840%20NCT03537131%20NCT03704818%20NCT03899402%20NCT04333823%20NCT04545411%20NCT04956263"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Diabetes Mellitus, Type 1",
+      "mesh_id": "D003922",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "MONDO:0005148",
+      "efo_term": "type 2 diabetes mellitus",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00162305,NCT00263276,NCT00357370,NCT00528372,NCT00528879,NCT00538174,NCT00554450,NCT00562250,NCT00643851,NCT00660907,NCT00663260,NCT00673231,NCT00680745,NCT00683878,NCT00736879,NCT00831779,NCT00839683,NCT00842556,NCT00855166,NCT00859898,NCT00904176,NCT00908271,NCT00930865,NCT00972244,NCT00976495,NCT00984867,NCT01002807,NCT01055652,NCT01068756,NCT01095653,NCT01095666,NCT01135446,NCT01137474,NCT01165268,NCT01195662,NCT01217892,NCT01257412,NCT01294423,NCT01392677,NCT01525238,NCT01535677,NCT01606007,NCT01619059,NCT01646320,NCT01662999,NCT01730534,NCT02060201,NCT02157298,NCT02223065,NCT02235298,NCT02284893,NCT02327039,NCT02338921,NCT02372955,NCT02383238,NCT02413398,NCT02426541,NCT02433678,NCT02459353,NCT02471404,NCT02475070,NCT02501616,NCT02532855,NCT02551874,NCT02558270,NCT02564926,NCT02577159,NCT02592421,NCT02608905,NCT02616666,NCT02681094,NCT02719132,NCT02722239,NCT02725593,NCT02751398,NCT02765204,NCT02811484,NCT02911792,NCT02919059,NCT02925559,NCT02965443,NCT02981069,NCT02981966,NCT03138356,NCT03152084,NCT03168295,NCT03169959,NCT03199053,NCT03202563,NCT03331289,NCT03338855,NCT03344341,NCT03377335,NCT03387683,NCT03423355,NCT03499704,NCT03565458,NCT03608358,NCT03871621,NCT03919656,NCT03959501,NCT03970044,NCT03982238,NCT03982381,NCT04004793,NCT04014192,NCT04120623,NCT04195243,NCT04196231,NCT04255238,NCT04340908,NCT04356742,NCT04445714,NCT04544319,NCT04634500,NCT04743453,NCT04796428,NCT04965935,NCT05109949,NCT05159882,NCT05226897,NCT05266404,NCT05345327,NCT05392959,NCT05411965,NCT05505994,NCT05621551,NCT05833958,NCT05886088,NCT06192108,NCT06327815,NCT06415773",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00162305%20NCT00263276%20NCT00357370%20NCT00528372%20NCT00528879%20NCT00538174%20NCT00554450%20NCT00562250%20NCT00643851%20NCT00660907%20NCT00663260%20NCT00673231%20NCT00680745%20NCT00683878%20NCT00736879%20NCT00831779%20NCT00839683%20NCT00842556%20NCT00855166%20NCT00859898%20NCT00904176%20NCT00908271%20NCT00930865%20NCT00972244%20NCT00976495%20NCT00984867%20NCT01002807%20NCT01055652%20NCT01068756%20NCT01095653%20NCT01095666%20NCT01135446%20NCT01137474%20NCT01165268%20NCT01195662%20NCT01217892%20NCT01257412%20NCT01294423%20NCT01392677%20NCT01525238%20NCT01535677%20NCT01606007%20NCT01619059%20NCT01646320%20NCT01662999%20NCT01730534%20NCT02060201%20NCT02157298%20NCT02223065%20NCT02235298%20NCT02284893%20NCT02327039%20NCT02338921%20NCT02372955%20NCT02383238%20NCT02413398%20NCT02426541%20NCT02433678%20NCT02459353%20NCT02471404%20NCT02475070%20NCT02501616%20NCT02532855%20NCT02551874%20NCT02558270%20NCT02564926%20NCT02577159%20NCT02592421%20NCT02608905%20NCT02616666%20NCT02681094%20NCT02719132%20NCT02722239%20NCT02725593%20NCT02751398%20NCT02765204%20NCT02811484%20NCT02911792%20NCT02919059%20NCT02925559%20NCT02965443%20NCT02981069%20NCT02981966%20NCT03138356%20NCT03152084%20NCT03168295%20NCT03169959%20NCT03199053%20NCT03202563%20NCT03331289%20NCT03338855%20NCT03344341%20NCT03377335%20NCT03387683%20NCT03423355%20NCT03499704%20NCT03565458%20NCT03608358%20NCT03871621%20NCT03919656%20NCT03959501%20NCT03970044%20NCT03982238%20NCT03982381%20NCT04004793%20NCT04014192%20NCT04120623%20NCT04195243%20NCT04196231%20NCT04255238%20NCT04340908%20NCT04356742%20NCT04445714%20NCT04544319%20NCT04634500%20NCT04743453%20NCT04796428%20NCT04965935%20NCT05109949%20NCT05159882%20NCT05226897%20NCT05266404%20NCT05345327%20NCT05392959%20NCT05411965%20NCT05505994%20NCT05621551%20NCT05833958%20NCT05886088%20NCT06192108%20NCT06327815%20NCT06415773"
+        },
+        {
+          "ref_id": "EMEA/H/C/006006",
+          "ref_type": "EMA",
+          "ref_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dapagliflozin-viatris"
+        },
+        {
+          "ref_id": "label/2014/202293s000lbl.pdf",
+          "ref_type": "FDA",
+          "ref_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/202293s000lbl.pdf"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Diabetes Mellitus, Type 2",
+      "mesh_id": "D003924",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "MONDO:0009067",
+      "efo_term": "cystinuria",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04818034,NCT05058859",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04818034%20NCT05058859"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Cystinuria",
+      "mesh_id": "D003555",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0001422",
+      "efo_term": "cirrhosis of liver",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05516498,NCT06269484",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05516498%20NCT06269484"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Liver Cirrhosis",
+      "mesh_id": "D008103",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0002614",
+      "efo_term": "insulin resistance",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05591235",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05591235"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Insulin Resistance",
+      "mesh_id": "D007333",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0003833",
+      "efo_term": "brain neoplasm",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05521984",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05521984"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Brain Neoplasms",
+      "mesh_id": "D001932",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0003940",
+      "efo_term": "physical activity",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02371187",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02371187"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Motor Activity",
+      "mesh_id": "D009043",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0004194",
+      "efo_term": "IGA glomerulonephritis",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03762850",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03762850"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Glomerulonephritis, IGA",
+      "mesh_id": "D005922",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:1001375",
+      "efo_term": "Myocardial Ischemia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05762952",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05762952"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Myocardial Ischemia",
+      "mesh_id": "D017202",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "MONDO:0002050",
+      "efo_term": "depressive disorder",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05792540",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05792540"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Depressive Disorder",
+      "mesh_id": "D003866",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "MONDO:0010526",
+      "efo_term": "Fabry disease",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05710367",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05710367"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Fabry Disease",
+      "mesh_id": "D000795",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0003767",
+      "efo_term": "inflammatory bowel disease",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05986136",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05986136"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Inflammatory Bowel Diseases",
+      "mesh_id": "D015212",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0005761",
+      "efo_term": "lupus nephritis",
+      "indication_refs": [
+        {
+          "ref_id": "NCT06113900",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT06113900"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Lupus Nephritis",
+      "mesh_id": "D008181",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0008585",
+      "efo_term": "ST Elevation Myocardial Infarction",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05957887,NCT06174753",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05957887%20NCT06174753"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "ST Elevation Myocardial Infarction",
+      "mesh_id": "D000072657",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0022597",
+      "efo_term": "aging",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04401904",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04401904"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Aging",
+      "mesh_id": "D000375",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "MONDO:0008315",
+      "efo_term": "prostate cancer",
+      "indication_refs": [
+        {
+          "ref_id": "NCT04887935",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT04887935"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Prostatic Neoplasms, Castration-Resistant",
+      "mesh_id": "D064129",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "MONDO:0019438",
+      "efo_term": "AL amyloidosis",
+      "indication_refs": [
+        {
+          "ref_id": "NCT06420167",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT06420167"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Amyloidosis, Familial",
+      "mesh_id": "D028226",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "MONDO:0024327",
+      "efo_term": "chronic renal failure syndrome",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05884866,NCT05944016",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05884866%20NCT05944016"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Kidney Failure, Chronic",
+      "mesh_id": "D007676",
+      "molecule_chembl_id": "CHEMBL429910"
+    },
+    {
+      "efo_id": "EFO:0000717",
+      "efo_term": "systemic scleroderma",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02363478",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02363478"
+        }
+      ],
+      "max_phase_for_ind": "0.5",
+      "mesh_heading": "Scleroderma, Systemic",
+      "mesh_id": "D012595",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "EFO:0002610",
+      "efo_term": "cocaine dependence",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01267292,NCT01641159",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01267292%20NCT01641159"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Cocaine-Related Disorders",
+      "mesh_id": "D019970",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "EFO:0003756",
+      "efo_term": "autism spectrum disorder",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01395953",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01395953"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Child Development Disorders, Pervasive",
+      "mesh_id": "D002659",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "EFO:0003758",
+      "efo_term": "autism",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00166621,NCT00873509",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00166621%20NCT00873509"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Autistic Disorder",
+      "mesh_id": "D001321",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "EFO:0003888",
+      "efo_term": "attention deficit hyperactivity disorder",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00174226",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00174226"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Attention Deficit Disorder with Hyperactivity",
+      "mesh_id": "D001289",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "EFO:0004714",
+      "efo_term": "sexual dysfunction",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02101203",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02101203"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Sexual Dysfunction, Physiological",
+      "mesh_id": "D012735",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "EFO:0005230",
+      "efo_term": "anxiety",
+      "indication_refs": [
+        {
+          "ref_id": "N05BE01",
+          "ref_type": "ATC",
+          "ref_url": "https://www.whocc.no/atc_ddd_index/?code=N05BE01"
+        },
+        {
+          "ref_id": "NCT01546896,NCT02374567",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01546896%20NCT02374567"
+        }
+      ],
+      "max_phase_for_ind": "4.0",
+      "mesh_heading": "Anxiety",
+      "mesh_id": "D001007",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "EFO:1001919",
+      "efo_term": "Spinal cord injury",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02313194,NCT04052776,NCT04105114,NCT05041322",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02313194%20NCT04052776%20NCT04105114%20NCT05041322"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Spinal Cord Injuries",
+      "mesh_id": "D013119",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "HP:0000726",
+      "efo_term": "Dementia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02374567",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02374567"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Dementia",
+      "mesh_id": "D003704",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "EFO:0007191",
+      "efo_term": "cannabis dependence",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00360191,NCT02132832",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00360191%20NCT02132832"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Marijuana Abuse",
+      "mesh_id": "D002189",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "EFO:1000948",
+      "efo_term": "gastroparesis",
+      "indication_refs": [
+        {
+          "ref_id": "NCT03587142",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT03587142"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Gastroparesis",
+      "mesh_id": "D018589",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "HP:0002104",
+      "efo_term": "Apnea",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00746954",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00746954"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Apnea",
+      "mesh_id": "D001049",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "MONDO:0002009",
+      "efo_term": "major depressive disorder",
+      "indication_refs": [
+        {
+          "ref_id": "NCT00705003,NCT00731653",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT00705003%20NCT00731653"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Depressive Disorder, Major",
+      "mesh_id": "D003865",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "HP:0002140",
+      "efo_term": "Ischemic stroke",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01833312",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01833312"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Ischemic Stroke",
+      "mesh_id": "D000083242",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "MONDO:0002050",
+      "efo_term": "depressive disorder",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02374567",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02374567"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Depressive Disorder",
+      "mesh_id": "D003866",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "EFO:0008533",
+      "efo_term": "dyspepsia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT05377619",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT05377619"
+        }
+      ],
+      "max_phase_for_ind": "1.0",
+      "mesh_heading": "Dyspepsia",
+      "mesh_id": "D004415",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "MONDO:0005090",
+      "efo_term": "schizophrenia",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02374567",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02374567"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Schizophrenia",
+      "mesh_id": "D012559",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "MONDO:0005180",
+      "efo_term": "Parkinson disease",
+      "indication_refs": [
+        {
+          "ref_id": "NCT02617017",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT02617017"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Parkinson Disease",
+      "mesh_id": "D010300",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "EFO:1001892",
+      "efo_term": "generalized anxiety disorder",
+      "indication_refs": [
+        {
+          "ref_id": "NCT06243614",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT06243614"
+        }
+      ],
+      "max_phase_for_ind": "3.0",
+      "mesh_heading": "Anxiety Disorders",
+      "mesh_id": "D001008",
+      "molecule_chembl_id": "CHEMBL49"
+    },
+    {
+      "efo_id": "MONDO:0043797",
+      "efo_term": "spinal cord injury",
+      "indication_refs": [
+        {
+          "ref_id": "NCT01484184",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/search?term=NCT01484184"
+        }
+      ],
+      "max_phase_for_ind": "2.0",
+      "mesh_heading": "Spinal Cord Injuries",
+      "mesh_id": "D013119",
+      "molecule_chembl_id": "CHEMBL49"
+    }
+  ]
+}

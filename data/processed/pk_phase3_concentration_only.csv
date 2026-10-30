@@ -1,0 +1,89 @@
+drug_name,pkdb_id,chembl_id,study_sid,group_pk,individual_pk,time_hr,value_std,unit_std,sparse_sampling,raw_time,raw_time_unit,raw_value,raw_unit,source_table
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,1.03910942573949e-09,mole / liter,True,8.0,day,1.03910942573949e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,8.696328892724991e-10,mole / liter,True,8.0,day,8.696328892724991e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,1.12588169540209e-09,mole / liter,True,8.0,day,1.12588169540209e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,1.56296207206379e-09,mole / liter,True,8.0,day,1.56296207206379e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,1.71995160845296e-09,mole / liter,True,8.0,day,1.71995160845296e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,1.4092623118990902e-09,mole / liter,True,8.0,day,1.4092623118990902e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23521, 23522, 23523]",192.0,1.14724755389219e-09,mole / liter,True,8.0,day,1.14724755389219e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23521, 23522, 23523]",192.0,9.87286606719633e-10,mole / liter,True,8.0,day,9.87286606719633e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23521, 23522, 23523]",192.0,9.44413393987846e-10,mole / liter,True,8.0,day,9.44413393987846e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",192.0,1.48223874578166e-09,mole / liter,True,8.0,day,1.48223874578166e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",192.0,1.38191825790431e-09,mole / liter,True,8.0,day,1.38191825790431e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",192.0,1.53038267526018e-09,mole / liter,True,8.0,day,1.53038267526018e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",192.0,2.4906082194882104e-09,mole / liter,True,8.0,day,2.4906082194882104e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",192.0,3.67000183944477e-09,mole / liter,True,8.0,day,3.67000183944477e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23529, 23530, 23531, 23532]",192.0,9.85730153452142e-10,mole / liter,True,8.0,day,9.85730153452142e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23529, 23530, 23531, 23532]",192.0,8.166073563641241e-10,mole / liter,True,8.0,day,8.166073563641241e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23529, 23530, 23531, 23532]",192.0,1.89660905431314e-09,mole / liter,True,8.0,day,1.89660905431314e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23529, 23530, 23531, 23532]",192.0,2.5628771746128303e-09,mole / liter,True,8.0,day,2.5628771746128303e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23533, 23534, 23535]",192.0,3.22673986713549e-09,mole / liter,True,8.0,day,3.22673986713549e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23533, 23534, 23535]",192.0,4.03980982970986e-09,mole / liter,True,8.0,day,4.03980982970986e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23533, 23534, 23535]",192.0,5.1546902304258314e-09,mole / liter,True,8.0,day,5.1546902304258314e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,23536,192.0,5.23e-08,mole / liter,True,8.0,day,5.23e-08,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,8.22567559918745e-10,mole / liter,True,24.0,day,8.22567559918745e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,6.33972089279088e-10,mole / liter,True,24.0,day,6.33972089279088e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,8.83017728779236e-10,mole / liter,True,24.0,day,8.83017728779236e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,1.03963347525581e-09,mole / liter,True,24.0,day,1.03963347525581e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,1.07974491689045e-09,mole / liter,True,24.0,day,1.07974491689045e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,9.208651191456979e-10,mole / liter,True,24.0,day,9.208651191456979e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23521, 23522, 23523]",576.0,7.79682655480576e-10,mole / liter,True,24.0,day,7.79682655480576e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23521, 23522, 23523]",576.0,7.05836849950001e-10,mole / liter,True,24.0,day,7.05836849950001e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23521, 23522, 23523]",576.0,6.19727433383436e-10,mole / liter,True,24.0,day,6.19727433383436e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",576.0,8.08662511713321e-10,mole / liter,True,24.0,day,8.08662511713321e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",576.0,8.49622972573534e-10,mole / liter,True,24.0,day,8.49622972573534e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",576.0,9.223367524700171e-10,mole / liter,True,24.0,day,9.223367524700171e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",576.0,1.8077317350808502e-09,mole / liter,True,24.0,day,1.8077317350808502e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",576.0,2.1164917267793202e-09,mole / liter,True,24.0,day,2.1164917267793202e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23529, 23530, 23531, 23532]",576.0,6.20746256454118e-10,mole / liter,True,24.0,day,6.20746256454118e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23529, 23530, 23531, 23532]",576.0,7.25269956668574e-10,mole / liter,True,24.0,day,7.25269956668574e-10,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23529, 23530, 23531, 23532]",576.0,1.3233379662530602e-09,mole / liter,True,24.0,day,1.3233379662530602e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23529, 23530, 23531, 23532]",576.0,1.3499217015603101e-09,mole / liter,True,24.0,day,1.3499217015603101e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23533, 23534, 23535]",576.0,2.22077015477306e-09,mole / liter,True,24.0,day,2.22077015477306e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23533, 23534, 23535]",576.0,2.36299030860277e-09,mole / liter,True,24.0,day,2.36299030860277e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,"[23533, 23534, 23535]",576.0,2.83706377706642e-09,mole / liter,True,24.0,day,2.83706377706642e-09,mole / liter,scatters
+losartan,losartan,CHEMBL191,PKDB00897,,23536,576.0,2.22e-08,mole / liter,True,24.0,day,2.22e-08,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,1.03910942573949e-09,mole / liter,True,8.0,day,1.03910942573949e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,8.696328892724991e-10,mole / liter,True,8.0,day,8.696328892724991e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,1.12588169540209e-09,mole / liter,True,8.0,day,1.12588169540209e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,1.56296207206379e-09,mole / liter,True,8.0,day,1.56296207206379e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,1.71995160845296e-09,mole / liter,True,8.0,day,1.71995160845296e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",192.0,1.4092623118990902e-09,mole / liter,True,8.0,day,1.4092623118990902e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23521, 23522, 23523]",192.0,1.14724755389219e-09,mole / liter,True,8.0,day,1.14724755389219e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23521, 23522, 23523]",192.0,9.87286606719633e-10,mole / liter,True,8.0,day,9.87286606719633e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23521, 23522, 23523]",192.0,9.44413393987846e-10,mole / liter,True,8.0,day,9.44413393987846e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",192.0,1.48223874578166e-09,mole / liter,True,8.0,day,1.48223874578166e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",192.0,1.38191825790431e-09,mole / liter,True,8.0,day,1.38191825790431e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",192.0,1.53038267526018e-09,mole / liter,True,8.0,day,1.53038267526018e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",192.0,2.4906082194882104e-09,mole / liter,True,8.0,day,2.4906082194882104e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",192.0,3.67000183944477e-09,mole / liter,True,8.0,day,3.67000183944477e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23529, 23530, 23531, 23532]",192.0,9.85730153452142e-10,mole / liter,True,8.0,day,9.85730153452142e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23529, 23530, 23531, 23532]",192.0,8.166073563641241e-10,mole / liter,True,8.0,day,8.166073563641241e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23529, 23530, 23531, 23532]",192.0,1.89660905431314e-09,mole / liter,True,8.0,day,1.89660905431314e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23529, 23530, 23531, 23532]",192.0,2.5628771746128303e-09,mole / liter,True,8.0,day,2.5628771746128303e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23533, 23534, 23535]",192.0,3.22673986713549e-09,mole / liter,True,8.0,day,3.22673986713549e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23533, 23534, 23535]",192.0,4.03980982970986e-09,mole / liter,True,8.0,day,4.03980982970986e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23533, 23534, 23535]",192.0,5.1546902304258314e-09,mole / liter,True,8.0,day,5.1546902304258314e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,23536,192.0,5.23e-08,mole / liter,True,8.0,day,5.23e-08,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,8.22567559918745e-10,mole / liter,True,24.0,day,8.22567559918745e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,6.33972089279088e-10,mole / liter,True,24.0,day,6.33972089279088e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,8.83017728779236e-10,mole / liter,True,24.0,day,8.83017728779236e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,1.03963347525581e-09,mole / liter,True,24.0,day,1.03963347525581e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,1.07974491689045e-09,mole / liter,True,24.0,day,1.07974491689045e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23515, 23516, 23517, 23518, 23519, 23520]",576.0,9.208651191456979e-10,mole / liter,True,24.0,day,9.208651191456979e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23521, 23522, 23523]",576.0,7.79682655480576e-10,mole / liter,True,24.0,day,7.79682655480576e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23521, 23522, 23523]",576.0,7.05836849950001e-10,mole / liter,True,24.0,day,7.05836849950001e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23521, 23522, 23523]",576.0,6.19727433383436e-10,mole / liter,True,24.0,day,6.19727433383436e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",576.0,8.08662511713321e-10,mole / liter,True,24.0,day,8.08662511713321e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",576.0,8.49622972573534e-10,mole / liter,True,24.0,day,8.49622972573534e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",576.0,9.223367524700171e-10,mole / liter,True,24.0,day,9.223367524700171e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",576.0,1.8077317350808502e-09,mole / liter,True,24.0,day,1.8077317350808502e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23524, 23525, 23526, 23527, 23528]",576.0,2.1164917267793202e-09,mole / liter,True,24.0,day,2.1164917267793202e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23529, 23530, 23531, 23532]",576.0,6.20746256454118e-10,mole / liter,True,24.0,day,6.20746256454118e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23529, 23530, 23531, 23532]",576.0,7.25269956668574e-10,mole / liter,True,24.0,day,7.25269956668574e-10,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23529, 23530, 23531, 23532]",576.0,1.3233379662530602e-09,mole / liter,True,24.0,day,1.3233379662530602e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23529, 23530, 23531, 23532]",576.0,1.3499217015603101e-09,mole / liter,True,24.0,day,1.3499217015603101e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23533, 23534, 23535]",576.0,2.22077015477306e-09,mole / liter,True,24.0,day,2.22077015477306e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23533, 23534, 23535]",576.0,2.36299030860277e-09,mole / liter,True,24.0,day,2.36299030860277e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,"[23533, 23534, 23535]",576.0,2.83706377706642e-09,mole / liter,True,24.0,day,2.83706377706642e-09,mole / liter,scatters
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,PKDB00897,,23536,576.0,2.22e-08,mole / liter,True,24.0,day,2.22e-08,mole / liter,scatters

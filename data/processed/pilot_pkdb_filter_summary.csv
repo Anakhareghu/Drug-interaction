@@ -1,0 +1,15 @@
+pkdb_sid,pkdb_label,chembl_id,studies_count,timecourses_count,outputs_count,scatters_count,filter_uuid
+isradipine,isradipine,CHEMBL1648,0,0,0,0,2986d217-0618-4a0b-8031-264572a3d4a8
+m6g,morphine-6-glucuronide,CHEMBL1330,0,0,0,0,d0dbd2d8-61f8-4ad2-b4fa-b70932e464cd
+nmor,normorphine,CHEMBL1227,0,0,0,0,c262c27f-3a55-492d-ba62-85d19f3093c2
+phenobarbitone,phenobarbital,CHEMBL40,1,0,114,4,1ad1cc56-2d27-4ca5-b707-9ccd3895b5ed
+atazanavir,atazanavir,CHEMBL1163,0,0,0,0,4ef6049e-6ac7-41d4-88ab-a241065783ce
+buspirone,buspirone,CHEMBL49,0,0,0,0,b6aa23aa-9de8-46be-9250-d69955f42e8d
+ezetimibe,ezetimibe,CHEMBL1138,0,0,0,0,5db53870-12b1-4f9a-8111-854eb3e765a5
+saxagliptin,saxagliptin,CHEMBL385517,1,4,118,0,cd540ab9-1f44-426a-acd1-0572778e7f18
+canagliflozin,canagliflozin,CHEMBL2048484,12,199,3114,0,c691a165-58a5-453d-bf51-bb9d0bca7947
+teneligliptin,teneligliptin,CHEMBL2147777,0,0,0,0,7ecfec96-9e4c-49b5-b7a7-ac7889f10521
+dapagliflozin,dapagliflozin,CHEMBL429910,20,262,3453,0,fb86464b-226f-42ec-b8ef-7d87902a4156
+raltegravir,raltegravir,CHEMBL254316,0,0,0,0,c82b78e6-41d2-482c-92a7-803e8481c435
+methacetin,methacetin,CHEMBL3183230,0,0,0,0,3bc8fe78-c99f-492a-8928-05c33b04313e
+co2,carbon dioxide,CHEMBL1231871,0,0,0,0,f25ece8a-f997-4411-93eb-dedfc0794e11

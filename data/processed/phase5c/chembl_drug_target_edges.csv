@@ -1,0 +1,223 @@
+drug_name,molecule_chembl_id,target_chembl_id,target_name,target_type,organism,uniprot_accession,evidence_type,mechanism_action,max_pchembl,n_bioassays
+cefamandole,CHEMBL1433,CHEMBL354,Escherichia coli,ORGANISM,Escherichia coli,N/A,bioactivity,BIOACTIVITY,7.0,1
+cefamandole,CHEMBL1433,CHEMBL359,Bacillus subtilis,ORGANISM,Bacillus subtilis,N/A,bioactivity,BIOACTIVITY,6.9,1
+cefamandole,CHEMBL1433,CHEMBL364,Plasmodium falciparum,ORGANISM,Plasmodium falciparum,N/A,bioactivity,BIOACTIVITY,5.3,2
+indomethacin,CHEMBL6,CHEMBL1293226,Lysine-specific demethylase 4E,SINGLE PROTEIN,Homo sapiens,B2RXH2,bioactivity,BIOACTIVITY,5.0,1
+indomethacin,CHEMBL6,CHEMBL1293294,Ras-related protein Rab-9A,SINGLE PROTEIN,Homo sapiens,P51151,bioactivity,BIOACTIVITY,5.2,1
+indomethacin,CHEMBL6,CHEMBL1641347,Solute carrier family 22 member 6,SINGLE PROTEIN,Homo sapiens,Q4U2R8,bioactivity,BIOACTIVITY,5.52,1
+indomethacin,CHEMBL6,CHEMBL1641348,Organic anion transporter 3,SINGLE PROTEIN,Homo sapiens,Q8TCC7,bioactivity,BIOACTIVITY,5.22,1
+indomethacin,CHEMBL6,CHEMBL1777665,Solute carrier family 22 member 6,SINGLE PROTEIN,Rattus norvegicus,O35956,bioactivity,BIOACTIVITY,5.38,2
+indomethacin,CHEMBL6,CHEMBL1835,Thromboxane-A synthase,SINGLE PROTEIN,Homo sapiens,P24557,bioactivity,BIOACTIVITY,7.0,1
+indomethacin,CHEMBL6,CHEMBL1871,Androgen receptor,SINGLE PROTEIN,Homo sapiens,P10275,bioactivity,BIOACTIVITY,9.85,1
+indomethacin,CHEMBL6,CHEMBL1900,Aldo-keto reductase family 1 member B1,SINGLE PROTEIN,Homo sapiens,P15121,bioactivity,BIOACTIVITY,5.22,1
+indomethacin,CHEMBL6,CHEMBL2094253,Cyclooxygenase,PROTEIN FAMILY,Homo sapiens,P35354;P23219,mechanism+bioactivity,INHIBITOR,8.0,1
+indomethacin,CHEMBL6,CHEMBL2095157,Cyclooxygenase,PROTEIN FAMILY,Rattus norvegicus,P35355;Q63921,bioactivity,BIOACTIVITY,8.54,8
+indomethacin,CHEMBL6,CHEMBL2096674,Cyclooxygenase,PROTEIN FAMILY,Bos taurus,O62664;O62698,bioactivity,BIOACTIVITY,7.96,9
+indomethacin,CHEMBL6,CHEMBL2111349,Prostaglandin G/H synthase (cyclooxygenase),PROTEIN FAMILY,Mus musculus,P22437;Q05769,bioactivity,BIOACTIVITY,7.7,1
+indomethacin,CHEMBL6,CHEMBL2111358,Prostaglandin G/H synthase (cyclooxygenase),PROTEIN FAMILY,Ovis aries,P05979;P79208,bioactivity,BIOACTIVITY,6.82,2
+indomethacin,CHEMBL6,CHEMBL215,Polyunsaturated fatty acid 5-lipoxygenase,SINGLE PROTEIN,Homo sapiens,P09917,bioactivity,BIOACTIVITY,5.16,1
+indomethacin,CHEMBL6,CHEMBL2157,Interleukin-8,SINGLE PROTEIN,Homo sapiens,P10145,bioactivity,BIOACTIVITY,7.3,1
+indomethacin,CHEMBL6,CHEMBL221,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Homo sapiens,P23219,bioactivity,BIOACTIVITY,9.85,76
+indomethacin,CHEMBL6,CHEMBL230,Prostaglandin G/H synthase 2,SINGLE PROTEIN,Homo sapiens,P35354,bioactivity,BIOACTIVITY,9.85,113
+indomethacin,CHEMBL6,CHEMBL2366941,Zingiber officinale,ORGANISM,Zingiber officinale,N/A,bioactivity,BIOACTIVITY,5.31,1
+indomethacin,CHEMBL6,CHEMBL256,Adenosine receptor A3,SINGLE PROTEIN,Homo sapiens,P0DMS8,bioactivity,BIOACTIVITY,5.76,1
+indomethacin,CHEMBL6,CHEMBL2622,Aldo-keto reductase family 1 member B1,SINGLE PROTEIN,Rattus norvegicus,P07943,bioactivity,BIOACTIVITY,5.44,1
+indomethacin,CHEMBL6,CHEMBL2649,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Mus musculus,P22437,bioactivity,BIOACTIVITY,8.7,1
+indomethacin,CHEMBL6,CHEMBL2842,Serine/threonine-protein kinase mTOR,SINGLE PROTEIN,Homo sapiens,P42345,bioactivity,BIOACTIVITY,5.33,1
+indomethacin,CHEMBL6,CHEMBL2860,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Bos taurus,O62664,bioactivity,BIOACTIVITY,8.39,5
+indomethacin,CHEMBL6,CHEMBL2949,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Ovis aries,P05979,bioactivity,BIOACTIVITY,8.4,76
+indomethacin,CHEMBL6,CHEMBL2977,Prostaglandin G/H synthase 2,SINGLE PROTEIN,Rattus norvegicus,P35355,bioactivity,BIOACTIVITY,8.0,3
+indomethacin,CHEMBL6,CHEMBL3081,Aldo-keto reductase family 1 member B1,SINGLE PROTEIN,Bos taurus,P16116,bioactivity,BIOACTIVITY,5.3,1
+indomethacin,CHEMBL6,CHEMBL3356,Cytochrome P450 1A2,SINGLE PROTEIN,Homo sapiens,P05177,bioactivity,BIOACTIVITY,5.0,1
+indomethacin,CHEMBL6,CHEMBL3464,"Nitric oxide synthase, inducible",SINGLE PROTEIN,Mus musculus,P29477,bioactivity,BIOACTIVITY,5.35,1
+indomethacin,CHEMBL6,CHEMBL372,Homo sapiens,ORGANISM,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.6,10
+indomethacin,CHEMBL6,CHEMBL375,Mus musculus,ORGANISM,Mus musculus,N/A,bioactivity,BIOACTIVITY,6.62,6
+indomethacin,CHEMBL6,CHEMBL376,Rattus norvegicus,ORGANISM,Rattus norvegicus,N/A,bioactivity,BIOACTIVITY,6.1,1
+indomethacin,CHEMBL6,CHEMBL3879801,NON-PROTEIN TARGET,NON-MOLECULAR,Unknown,N/A,bioactivity,BIOACTIVITY,6.85,2
+indomethacin,CHEMBL6,CHEMBL4042,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Rattus norvegicus,Q63921,bioactivity,BIOACTIVITY,8.22,4
+indomethacin,CHEMBL6,CHEMBL4102,Prostaglandin G/H synthase 2,SINGLE PROTEIN,Ovis aries,P79208,bioactivity,BIOACTIVITY,7.06,23
+indomethacin,CHEMBL6,CHEMBL4261,Hypoxia-inducible factor 1-alpha,SINGLE PROTEIN,Homo sapiens,Q16665,bioactivity,BIOACTIVITY,5.2,6
+indomethacin,CHEMBL6,CHEMBL4296519,Platelet,CELL-LINE,Unknown,N/A,bioactivity,BIOACTIVITY,7.0,4
+indomethacin,CHEMBL6,CHEMBL4321,Prostaglandin G/H synthase 2,SINGLE PROTEIN,Mus musculus,Q05769,bioactivity,BIOACTIVITY,8.19,8
+indomethacin,CHEMBL6,CHEMBL4334,Prostaglandin-H2 D-isomerase,SINGLE PROTEIN,Mus musculus,O09114,bioactivity,BIOACTIVITY,6.3,1
+indomethacin,CHEMBL6,CHEMBL4523354,Nicotinate phosphoribosyltransferase,SINGLE PROTEIN,Homo sapiens,Q6XQN6,bioactivity,BIOACTIVITY,9.82,1
+indomethacin,CHEMBL6,CHEMBL4681,Aldo-keto reductase family 1 member C3,SINGLE PROTEIN,Homo sapiens,P42330,bioactivity,BIOACTIVITY,7.0,9
+indomethacin,CHEMBL6,CHEMBL5071,Prostaglandin D2 receptor 2,SINGLE PROTEIN,Homo sapiens,Q9Y5Y4,bioactivity,BIOACTIVITY,7.3,3
+indomethacin,CHEMBL6,CHEMBL5162,Neuropeptide S receptor,SINGLE PROTEIN,Homo sapiens,Q6W5P4,bioactivity,BIOACTIVITY,5.8,1
+indomethacin,CHEMBL6,CHEMBL5291668,Canine coronavirus,ORGANISM,Canine coronavirus,N/A,bioactivity,BIOACTIVITY,5.3,1
+indomethacin,CHEMBL6,CHEMBL612545,Unchecked,UNCHECKED,Unknown,N/A,bioactivity,BIOACTIVITY,8.3,15
+indomethacin,CHEMBL6,CHEMBL612557,RAW264.7,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,7.28,10
+indomethacin,CHEMBL6,CHEMBL612853,Entamoeba histolytica,ORGANISM,Entamoeba histolytica,N/A,bioactivity,BIOACTIVITY,6.66,1
+indomethacin,CHEMBL6,CHEMBL613416,Blood,TISSUE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.92,2
+indomethacin,CHEMBL6,CHEMBL614245,THP-1,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,8.44,2
+indomethacin,CHEMBL6,CHEMBL614723,Mononuclear cell line,CELL-LINE,Unknown,N/A,bioactivity,BIOACTIVITY,6.52,1
+indomethacin,CHEMBL6,CHEMBL614781,BV-2,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,5.15,1
+indomethacin,CHEMBL6,CHEMBL6174,Cytochrome c oxidase subunit 2,SINGLE PROTEIN,Homo sapiens,P00403,bioactivity,BIOACTIVITY,7.16,2
+phenobarbital,CHEMBL40,CHEMBL2095171,"Sodium channel alpha subunits; brain (Types I, II, III)",PROTEIN FAMILY,Rattus norvegicus,P04775;P04774;P08104,bioactivity,BIOACTIVITY,5.6,1
+quinidine,CHEMBL481,CHEMBL1075463,HGC-27,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.15,1
+quinidine,CHEMBL481,CHEMBL1075518,NCI-H1650,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.17,1
+quinidine,CHEMBL481,CHEMBL1075536,NCI-H2228,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.84,3
+quinidine,CHEMBL481,CHEMBL1743122,Solute carrier family 22 member 2,SINGLE PROTEIN,Homo sapiens,O15244,bioactivity,BIOACTIVITY,5.57,1
+quinidine,CHEMBL481,CHEMBL1743126,Multidrug and toxin extrusion protein 1,SINGLE PROTEIN,Homo sapiens,Q96FL8,bioactivity,BIOACTIVITY,5.68,3
+quinidine,CHEMBL481,CHEMBL1743127,Multidrug and toxin extrusion protein 2,SINGLE PROTEIN,Homo sapiens,Q86VL8,bioactivity,BIOACTIVITY,5.1,1
+quinidine,CHEMBL481,CHEMBL1821,Muscarinic acetylcholine receptor M4,SINGLE PROTEIN,Homo sapiens,P08173,bioactivity,BIOACTIVITY,6.66,2
+quinidine,CHEMBL481,CHEMBL1916,Alpha-2C adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P18825,bioactivity,BIOACTIVITY,6.34,2
+quinidine,CHEMBL481,CHEMBL220,Acetylcholinesterase,SINGLE PROTEIN,Homo sapiens,P22303,bioactivity,BIOACTIVITY,7.3,2
+quinidine,CHEMBL481,CHEMBL2366077,NCI-H82,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.65,1
+quinidine,CHEMBL481,CHEMBL2366102,NCI-H526,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.31,1
+quinidine,CHEMBL481,CHEMBL2366149,NCI-H1417,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.01,1
+quinidine,CHEMBL481,CHEMBL332,Interstitial collagenase,SINGLE PROTEIN,Homo sapiens,P03956,bioactivity,BIOACTIVITY,5.22,1
+quinidine,CHEMBL481,CHEMBL383,HL-60,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.5,2
+quinidine,CHEMBL481,CHEMBL384,HT-29,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.66,8
+quinidine,CHEMBL481,CHEMBL386,L1210,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,5.92,2
+quinidine,CHEMBL481,CHEMBL387,MCF7,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.8,16
+quinidine,CHEMBL481,CHEMBL3879801,NON-PROTEIN TARGET,NON-MOLECULAR,Unknown,N/A,bioactivity,BIOACTIVITY,8.0,8
+quinidine,CHEMBL481,CHEMBL390,PC-3,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,8.4,4
+quinidine,CHEMBL481,CHEMBL392,A549,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.5,18
+quinidine,CHEMBL481,CHEMBL394,HCT-116,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,8.36,12
+quinidine,CHEMBL481,CHEMBL395,HepG2,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.05,3
+quinidine,CHEMBL481,CHEMBL396,NCI-H460,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.82,4
+quinidine,CHEMBL481,CHEMBL398,KB,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.2,7
+quinidine,CHEMBL481,CHEMBL399,HeLa,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.5,3
+quinidine,CHEMBL481,CHEMBL400,MDA-MB-231,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.87,2
+quinidine,CHEMBL481,CHEMBL4296507,U2932,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.36,1
+quinidine,CHEMBL481,CHEMBL4523578,NCI-H211,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.55,1
+quinidine,CHEMBL481,CHEMBL4780,Acetylcholinesterase,SINGLE PROTEIN,Torpedo californica,P04058,bioactivity,BIOACTIVITY,7.58,1
+quinidine,CHEMBL481,CHEMBL5209893,H69AR,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.6,1
+quinidine,CHEMBL481,CHEMBL612255,NCI-H1299,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.66,5
+quinidine,CHEMBL481,CHEMBL612262,SW-620,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,8.29,4
+quinidine,CHEMBL481,CHEMBL612263,HCT-15,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.57,1
+quinidine,CHEMBL481,CHEMBL612440,NCI-H446,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,11.0,4
+quinidine,CHEMBL481,CHEMBL612517,RPMI 8402,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.24,1
+quinidine,CHEMBL481,CHEMBL612518,LNCaP,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,8.05,1
+quinidine,CHEMBL481,CHEMBL612544,SW480,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.16,7
+quinidine,CHEMBL481,CHEMBL612545,Unchecked,UNCHECKED,Unknown,N/A,bioactivity,BIOACTIVITY,6.13,4
+quinidine,CHEMBL481,CHEMBL613102,786-0,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.65,1
+quinidine,CHEMBL481,CHEMBL613508,DU-145,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.7,5
+quinidine,CHEMBL481,CHEMBL613531,T84,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,8.16,2
+quinidine,CHEMBL481,CHEMBL613834,SK-BR-3,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.3,1
+quinidine,CHEMBL481,CHEMBL613859,A-375,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,8.4,1
+quinidine,CHEMBL481,CHEMBL613984,IGROV-1,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.52,1
+quinidine,CHEMBL481,CHEMBL614004,A2780,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.42,1
+quinidine,CHEMBL481,CHEMBL614021,Malme-3M,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.7,1
+quinidine,CHEMBL481,CHEMBL614039,Huh-7,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.75,1
+quinidine,CHEMBL481,CHEMBL614069,A-431,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.39,1
+quinidine,CHEMBL481,CHEMBL614097,LS174T,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.16,2
+quinidine,CHEMBL481,CHEMBL614102,PC-9,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.42,1
+quinidine,CHEMBL481,CHEMBL614188,NB-4,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.0,1
+quinidine,CHEMBL481,CHEMBL614348,NCI-H1975,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.47,1
+quinidine,CHEMBL481,CHEMBL614536,CAPAN-1,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.95,2
+quinidine,CHEMBL481,CHEMBL614561,COLO 205,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.0,1
+quinidine,CHEMBL481,CHEMBL614697,MDA-MB-435,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.94,2
+quinidine,CHEMBL481,CHEMBL614721,LoVo,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.3,3
+quinidine,CHEMBL481,CHEMBL614725,MIA PaCa-2,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.88,1
+quinidine,CHEMBL481,CHEMBL614740,NCI-H226,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.37,1
+quinidine,CHEMBL481,CHEMBL614805,NCI-H69,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.66,1
+quinidine,CHEMBL481,CHEMBL614879,RKO,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.16,2
+quinidine,CHEMBL481,CHEMBL614917,SK-MEL-2,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.0,1
+remifentanil,CHEMBL1201179,CHEMBL1824,Receptor tyrosine-protein kinase erbB-2,SINGLE PROTEIN,Homo sapiens,P04626,mechanism+bioactivity,INHIBITOR,8.52,7
+remifentanil,CHEMBL1201179,CHEMBL203,Epidermal growth factor receptor,SINGLE PROTEIN,Homo sapiens,P00533,mechanism+bioactivity,INHIBITOR,8.3,7
+remifentanil,CHEMBL1201179,CHEMBL614197,NCI-N87,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.33,1
+remifentanil,CHEMBL1201179,CHEMBL614529,BT-474,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.7,4
+remifentanil,CHEMBL1201179,CHEMBL614828,HN5,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.82,2
+theophylline,CHEMBL178,CHEMBL1075501,MEL-JUSO,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.54,1
+theophylline,CHEMBL178,CHEMBL1075518,NCI-H1650,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.32,1
+theophylline,CHEMBL178,CHEMBL1293224,Microtubule-associated protein tau,SINGLE PROTEIN,Homo sapiens,P10636,bioactivity,BIOACTIVITY,5.35,2
+theophylline,CHEMBL178,CHEMBL1293231,Nuclear receptor ROR-gamma,SINGLE PROTEIN,Mus musculus,P51450,bioactivity,BIOACTIVITY,7.2,4
+theophylline,CHEMBL178,CHEMBL1293248,4'-phosphopantetheinyl transferase ffp,SINGLE PROTEIN,Bacillus subtilis,Q9F4F7,bioactivity,BIOACTIVITY,5.5,1
+theophylline,CHEMBL178,CHEMBL1806,DNA topoisomerase 2-alpha,SINGLE PROTEIN,Homo sapiens,P11388,mechanism+bioactivity,INHIBITOR,8.0,1
+theophylline,CHEMBL178,CHEMBL1865,Protein deacetylase HDAC6,SINGLE PROTEIN,Homo sapiens,Q9UBN7,bioactivity,BIOACTIVITY,7.7,1
+theophylline,CHEMBL178,CHEMBL1889,Vasopressin V1a receptor,SINGLE PROTEIN,Homo sapiens,P37288,bioactivity,BIOACTIVITY,5.44,1
+theophylline,CHEMBL178,CHEMBL2034,Glucocorticoid receptor,SINGLE PROTEIN,Homo sapiens,P04150,bioactivity,BIOACTIVITY,6.96,1
+theophylline,CHEMBL178,CHEMBL206,Estrogen receptor,SINGLE PROTEIN,Homo sapiens,P03372,bioactivity,BIOACTIVITY,5.41,1
+theophylline,CHEMBL178,CHEMBL208,Progesterone receptor,SINGLE PROTEIN,Homo sapiens,P06401,bioactivity,BIOACTIVITY,5.13,1
+theophylline,CHEMBL178,CHEMBL2093861,Menin/Histone-lysine N-methyltransferase MLL,PROTEIN-PROTEIN INTERACTION,Homo sapiens,O00255;Q03164,bioactivity,BIOACTIVITY,5.55,1
+theophylline,CHEMBL178,CHEMBL230,Prostaglandin G/H synthase 2,SINGLE PROTEIN,Homo sapiens,P35354,bioactivity,BIOACTIVITY,5.55,1
+theophylline,CHEMBL178,CHEMBL2311221,DNA,NUCLEIC-ACID,Homo sapiens,N/A,mechanism,INHIBITOR,,0
+theophylline,CHEMBL178,CHEMBL3004,Multidrug resistance-associated protein 1,SINGLE PROTEIN,Homo sapiens,P33527,bioactivity,BIOACTIVITY,7.16,3
+theophylline,CHEMBL178,CHEMBL3192,Histone deacetylase 8,SINGLE PROTEIN,Homo sapiens,Q9BY41,bioactivity,BIOACTIVITY,6.66,1
+theophylline,CHEMBL178,CHEMBL325,Histone deacetylase 1,SINGLE PROTEIN,Homo sapiens,Q13547,bioactivity,BIOACTIVITY,7.33,1
+theophylline,CHEMBL178,CHEMBL333,72 kDa type IV collagenase,SINGLE PROTEIN,Homo sapiens,P08253,bioactivity,BIOACTIVITY,5.72,1
+theophylline,CHEMBL178,CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,SINGLE PROTEIN,Homo sapiens,O75469,bioactivity,BIOACTIVITY,5.03,1
+theophylline,CHEMBL178,CHEMBL364,Plasmodium falciparum,ORGANISM,Plasmodium falciparum,N/A,bioactivity,BIOACTIVITY,6.81,2
+theophylline,CHEMBL178,CHEMBL381,B16,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,8.05,3
+theophylline,CHEMBL178,CHEMBL383,HL-60,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,8.3,7
+theophylline,CHEMBL178,CHEMBL384,HT-29,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.88,4
+theophylline,CHEMBL178,CHEMBL385,K562,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.82,5
+theophylline,CHEMBL178,CHEMBL386,L1210,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,7.52,3
+theophylline,CHEMBL178,CHEMBL387,MCF7,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.41,12
+theophylline,CHEMBL178,CHEMBL3879801,NON-PROTEIN TARGET,NON-MOLECULAR,Unknown,N/A,bioactivity,BIOACTIVITY,7.7,5
+theophylline,CHEMBL178,CHEMBL389,P388,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,8.52,3
+theophylline,CHEMBL178,CHEMBL390,PC-3,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.58,2
+theophylline,CHEMBL178,CHEMBL392,A549,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.17,5
+theophylline,CHEMBL178,CHEMBL394,HCT-116,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.9,2
+theophylline,CHEMBL178,CHEMBL395,HepG2,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.67,2
+theophylline,CHEMBL178,CHEMBL396,NCI-H460,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,8.46,2
+theophylline,CHEMBL178,CHEMBL397,Jurkat,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.08,1
+theophylline,CHEMBL178,CHEMBL398,KB,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.19,3
+theophylline,CHEMBL178,CHEMBL399,HeLa,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.0,2
+theophylline,CHEMBL178,CHEMBL400,MDA-MB-231,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.28,2
+theophylline,CHEMBL178,CHEMBL4185,Xaa-Pro dipeptidase,SINGLE PROTEIN,Homo sapiens,P12955,bioactivity,BIOACTIVITY,6.52,1
+theophylline,CHEMBL178,CHEMBL4302,ATP-dependent translocase ABCB1,SINGLE PROTEIN,Homo sapiens,P08183,bioactivity,BIOACTIVITY,5.6,1
+theophylline,CHEMBL178,CHEMBL4513123,CT26.WT,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,6.9,2
+theophylline,CHEMBL178,CHEMBL4616,Growth hormone secretagogue receptor type 1,SINGLE PROTEIN,Homo sapiens,Q92847,bioactivity,BIOACTIVITY,5.29,1
+theophylline,CHEMBL178,CHEMBL5514,Huntingtin,SINGLE PROTEIN,Homo sapiens,P42858,bioactivity,BIOACTIVITY,5.65,1
+theophylline,CHEMBL178,CHEMBL5619,DNA repair nuclease/redox regulator APEX1,SINGLE PROTEIN,Homo sapiens,P27695,bioactivity,BIOACTIVITY,5.0,1
+theophylline,CHEMBL178,CHEMBL612518,LNCaP,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.0,1
+theophylline,CHEMBL178,CHEMBL612545,Unchecked,UNCHECKED,Unknown,N/A,bioactivity,BIOACTIVITY,8.21,29
+theophylline,CHEMBL178,CHEMBL612554,NSCLC,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,8.41,1
+theophylline,CHEMBL178,CHEMBL612589,4T1,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,7.39,2
+theophylline,CHEMBL178,CHEMBL612653,Plasmodium berghei,ORGANISM,Plasmodium berghei,N/A,bioactivity,BIOACTIVITY,5.52,1
+theophylline,CHEMBL178,CHEMBL612816,YOSHIDA,CELL-LINE,Rattus norvegicus,N/A,bioactivity,BIOACTIVITY,8.13,1
+theophylline,CHEMBL178,CHEMBL612879,Leishmania major,ORGANISM,Leishmania major,N/A,bioactivity,BIOACTIVITY,6.66,2
+theophylline,CHEMBL178,CHEMBL612881,Leishmania tropica,ORGANISM,Leishmania tropica,N/A,bioactivity,BIOACTIVITY,5.55,1
+theophylline,CHEMBL178,CHEMBL613503,A2058,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.48,1
+theophylline,CHEMBL178,CHEMBL613508,DU-145,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.61,3
+theophylline,CHEMBL178,CHEMBL613532,WALKER,CELL-LINE,Rattus norvegicus,N/A,bioactivity,BIOACTIVITY,7.33,1
+theophylline,CHEMBL178,CHEMBL613827,MES-SA/Dx5,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.85,2
+theophylline,CHEMBL178,CHEMBL613829,NCI/ADR-RES,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.7,3
+theophylline,CHEMBL178,CHEMBL613977,SF-268,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.22,1
+theophylline,CHEMBL178,CHEMBL614004,A2780,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.93,1
+theophylline,CHEMBL178,CHEMBL614088,Lewis lung carcinoma cell line,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,7.21,1
+theophylline,CHEMBL178,CHEMBL614129,MDA-MB-361,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.77,3
+theophylline,CHEMBL178,CHEMBL614139,PANC-1,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.33,1
+theophylline,CHEMBL178,CHEMBL614144,RD,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.61,2
+theophylline,CHEMBL178,CHEMBL614213,OVCAR-3,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.33,1
+theophylline,CHEMBL178,CHEMBL614218,P388/ADR,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,7.4,3
+theophylline,CHEMBL178,CHEMBL614247,U-87 MG,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.55,1
+theophylline,CHEMBL178,CHEMBL614343,MES-SA,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.68,3
+theophylline,CHEMBL178,CHEMBL614348,NCI-H1975,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.88,1
+theophylline,CHEMBL178,CHEMBL614519,ACHN,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.2,1
+theophylline,CHEMBL178,CHEMBL614590,KB 3-1,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,8.15,2
+theophylline,CHEMBL178,CHEMBL614647,WiDr,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.62,1
+theophylline,CHEMBL178,CHEMBL614697,MDA-MB-435,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.1,3
+theophylline,CHEMBL178,CHEMBL614720,L5178Y,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,6.52,4
+theophylline,CHEMBL178,CHEMBL614805,NCI-H69,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.0,1
+theophylline,CHEMBL178,CHEMBL614818,HEK293,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,5.92,1
+theophylline,CHEMBL178,CHEMBL614822,NIH3T3,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,6.0,1
+theophylline,CHEMBL178,CHEMBL614923,SK-MES-1,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,6.77,1
+theophylline,CHEMBL178,CHEMBL615023,U2OS,CELL-LINE,Homo sapiens,N/A,bioactivity,BIOACTIVITY,7.21,1
+xanomeline,CHEMBL286290,CHEMBL1821,Muscarinic acetylcholine receptor M4,SINGLE PROTEIN,Homo sapiens,P08173,mechanism+bioactivity,AGONIST,8.22,14
+xanomeline,CHEMBL286290,CHEMBL1833,5-hydroxytryptamine receptor 2B,SINGLE PROTEIN,Homo sapiens,P41595,bioactivity,BIOACTIVITY,7.7,1
+xanomeline,CHEMBL286290,CHEMBL1867,Alpha-2A adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P08913,bioactivity,BIOACTIVITY,5.86,1
+xanomeline,CHEMBL286290,CHEMBL1907609,Muscarinic acetylcholine receptor,PROTEIN FAMILY,Rattus norvegicus,P08482;P08483;P08485;P08911;P10980,bioactivity,BIOACTIVITY,8.01,2
+xanomeline,CHEMBL286290,CHEMBL1940,Voltage-dependent L-type calcium channel subunit alpha-1C,SINGLE PROTEIN,Homo sapiens,Q13936,bioactivity,BIOACTIVITY,5.0,1
+xanomeline,CHEMBL286290,CHEMBL1951,Amine oxidase [flavin-containing] A,SINGLE PROTEIN,Homo sapiens,P21397,bioactivity,BIOACTIVITY,5.02,1
+xanomeline,CHEMBL286290,CHEMBL2035,Muscarinic acetylcholine receptor M5,SINGLE PROTEIN,Homo sapiens,P08912,bioactivity,BIOACTIVITY,8.03,9
+xanomeline,CHEMBL286290,CHEMBL2056,D(1A) dopamine receptor,SINGLE PROTEIN,Homo sapiens,P21728,bioactivity,BIOACTIVITY,5.91,1
+xanomeline,CHEMBL286290,CHEMBL211,Muscarinic acetylcholine receptor M2,SINGLE PROTEIN,Homo sapiens,P08172,bioactivity,BIOACTIVITY,8.09,20
+xanomeline,CHEMBL286290,CHEMBL2111417,Muscarinic acetylcholine receptor M1/M5 chimeric protein,CHIMERIC PROTEIN,Homo sapiens,P11229;P08912,bioactivity,BIOACTIVITY,6.5,6
+xanomeline,CHEMBL286290,CHEMBL214,5-hydroxytryptamine receptor 1A,SINGLE PROTEIN,Homo sapiens,P08908,bioactivity,BIOACTIVITY,6.61,1
+xanomeline,CHEMBL286290,CHEMBL216,Muscarinic acetylcholine receptor M1,SINGLE PROTEIN,Homo sapiens,P11229,mechanism+bioactivity,AGONIST,8.8,28
+xanomeline,CHEMBL286290,CHEMBL222,Sodium-dependent noradrenaline transporter,SINGLE PROTEIN,Homo sapiens,P23975,bioactivity,BIOACTIVITY,5.56,1
+xanomeline,CHEMBL286290,CHEMBL234,D(3) dopamine receptor,SINGLE PROTEIN,Homo sapiens,P35462,bioactivity,BIOACTIVITY,6.56,1
+xanomeline,CHEMBL286290,CHEMBL238,Sodium-dependent dopamine transporter,SINGLE PROTEIN,Homo sapiens,Q01959,bioactivity,BIOACTIVITY,5.47,1
+xanomeline,CHEMBL286290,CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,SINGLE PROTEIN,Homo sapiens,Q12809,bioactivity,BIOACTIVITY,5.89,1
+xanomeline,CHEMBL286290,CHEMBL245,Muscarinic acetylcholine receptor M3,SINGLE PROTEIN,Homo sapiens,P20309,bioactivity,BIOACTIVITY,8.11,6
+xanomeline,CHEMBL286290,CHEMBL264,Histamine H3 receptor,SINGLE PROTEIN,Homo sapiens,Q9Y5N1,bioactivity,BIOACTIVITY,5.44,1
+xanomeline,CHEMBL286290,CHEMBL276,Muscarinic acetylcholine receptor M1,SINGLE PROTEIN,Rattus norvegicus,P08482,bioactivity,BIOACTIVITY,8.7,9
+xanomeline,CHEMBL286290,CHEMBL309,Muscarinic acetylcholine receptor M2,SINGLE PROTEIN,Rattus norvegicus,P10980,bioactivity,BIOACTIVITY,7.8,1
+xanomeline,CHEMBL286290,CHEMBL3733,Muscarinic acetylcholine receptor M1,SINGLE PROTEIN,Mus musculus,P12657,bioactivity,BIOACTIVITY,5.24,1
+xanomeline,CHEMBL286290,CHEMBL374,Oryctolagus cuniculus,ORGANISM,Oryctolagus cuniculus,N/A,bioactivity,BIOACTIVITY,11.0,1
+xanomeline,CHEMBL286290,CHEMBL4828,Synaptic vesicular amine transporter,SINGLE PROTEIN,Rattus norvegicus,Q01827,bioactivity,BIOACTIVITY,5.75,1
+xanomeline,CHEMBL286290,CHEMBL614518,A9,CELL-LINE,Mus musculus,N/A,bioactivity,BIOACTIVITY,5.16,1

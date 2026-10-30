@@ -1,0 +1,10 @@
+drug_name,pkdb_id,chembl_id,number_of_observations,number_of_time_points,min_time_hr,max_time_hr,concentration_unit,sparse_sampling_flag,numerically_comparable
+metoprolol,metoprolol,CHEMBL13,68,16,0.0,144.0,g; gram / kilogram,False,True
+omeprazole,omeprazole,CHEMBL1503,162,9,0.0,151.0,becquerel; g; gram / kilogram,False,True
+midazolam,midazolam,CHEMBL655,186,8,0.0,24.0,becquerel; g; gram / kilogram,False,True
+simvastatin,simvastatin,CHEMBL1064,74,4,0.0,168.0,g; gram / kilogram,False,True
+losartan,losartan,CHEMBL191,112,3,0.0,576.0,g; mole / liter,True,True
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,102,3,0.0,576.0,g; mole / liter,True,True
+talinolol,talinolol,CHEMBL152067,37,2,0.0,192.0,g; ml,True,True
+chlorzoxazone,chlorzoxazone,CHEMBL1371,52,3,0.0,24.0,becquerel; g,False,True
+rifampicin,rifampicin,CHEMBL374478,41,3,0.0,6.0,g; gram / kilogram,False,True

@@ -1,0 +1,37 @@
+drug_name,pkdb_id,chembl_id,total_raw_obs,cleaned_obs,invalid_removed,time_conversions,conc_conversions,unique_studies,unique_groups,unique_individuals,min_time_hr,max_time_hr,status
+midazolam,midazolam,CHEMBL655,241,187,54,234,241,49,0,0,0.0,24.0,processed
+omeprazole,omeprazole,CHEMBL1503,199,163,36,170,199,35,0,0,0.0,151.0,processed
+D-glucose,glucose,CHEMBL1222250,149,73,76,93,149,23,0,0,0.0,12.0,processed
+1-hydroxymidazolam,1-hydroxymidazolam,CHEMBL1188,93,76,17,92,93,19,0,0,0.0,0.0,processed
+aldosterone,aldosterone,CHEMBL273453,195,174,21,181,195,9,0,1,0.0,0.0,processed
+losartan,losartan,CHEMBL191,121,112,9,116,121,20,0,6,0.0,576.0,processed
+enalapril,enalapril,CHEMBL578,51,40,11,41,51,23,0,0,0.0,4.0,processed
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,110,102,8,105,110,18,0,6,0.0,576.0,processed
+torasemide,torasemide,CHEMBL1148,44,44,0,44,44,16,0,0,0.0,0.0,processed
+digoxin,digoxin,CHEMBL1751,61,59,2,61,61,10,0,0,0.0,0.07,processed
+empagliflozin,empagliflozin,CHEMBL2107830,54,35,19,37,54,13,0,0,0.0,12.0,processed
+dapagliflozin,dapagliflozin,CHEMBL429910,94,52,42,58,94,16,0,0,0.0,1.0,processed
+enalaprilat,enalaprilat,CHEMBL577,55,43,12,44,55,27,0,0,0.0,0.0,processed
+repaglinide,repaglinide,CHEMBL1272,25,25,0,25,25,3,0,0,0.0,0.0,processed
+simvastatin,simvastatin,CHEMBL1064,81,74,7,79,81,37,0,0,0.0,168.0,processed
+talinolol,talinolol,CHEMBL152067,74,60,14,62,74,20,0,1,0.0,192.0,processed
+rosuvastatin,rosuvastatin,CHEMBL1496,19,17,2,17,19,2,0,0,0.0,0.0,processed
+canagliflozin,canagliflozin,CHEMBL2048484,69,30,39,44,69,10,0,0,0.0,0.0,processed
+tolbutamide,tolbutamide,CHEMBL782,16,16,0,16,16,2,0,0,0.0,0.0,processed
+memantine,memantine,CHEMBL807,10,10,0,10,10,1,0,0,0.0,0.0,processed
+aliskiren,aliskiren,CHEMBL1639,40,14,26,17,40,10,0,0,0.0,0.0,processed
+chlorzoxazone,chlorzoxazone,CHEMBL1371,60,52,8,52,60,23,0,0,0.0,24.0,processed
+ramipril,ramipril,CHEMBL1168,431,409,22,416,431,11,0,4,0.0,24.0,processed
+furosemide,furosemide,CHEMBL35,16,12,4,12,16,3,0,0,0.0,0.0,processed
+rifampicin,rifampicin,CHEMBL374478,70,41,29,60,70,16,0,0,0.0,6.0,processed
+metoprolol,metoprolol,CHEMBL13,156,151,5,151,156,12,0,9,0.0,144.0,processed
+lisinopril,lisinopril,CHEMBL1237,40,35,5,37,40,15,0,0,0.0,0.0,processed
+hydrochlorothiazide,hydrochlorothiazide,CHEMBL435,44,35,9,38,44,12,0,0,0.0,0.0,processed
+glimepiride,glimepiride,CHEMBL1481,41,36,5,36,41,18,0,0,0.0,0.0,processed
+warfarin,warfarin,CHEMBL1464,47,45,2,47,47,7,0,0,0.0,0.0,processed
+captopril,captopril,CHEMBL1560,31,26,5,26,31,17,0,0,0.0,0.0,processed
+cimetidine,cimetidine,CHEMBL30,21,14,7,19,21,7,0,0,0.0,2.0,processed
+erythromycin,erythromycin,CHEMBL532,6,5,1,6,6,3,0,0,0.0,0.0,processed
+verapamil,verapamil,CHEMBL6966,21,16,5,17,21,6,0,0,0.0,0.0,processed
+diazepam,diazepam,CHEMBL12,32,30,2,32,32,18,0,0,0.0,0.0,processed
+rapamycin (sirolimus),rapamycin,CHEMBL413,21,12,9,12,21,4,0,0,0.0,0.0,processed

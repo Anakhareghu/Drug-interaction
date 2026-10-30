@@ -1,0 +1,11 @@
+metric,value
+dose_svd_rank,7.0
+dose_svd_pc1_var_pct,96.5795
+dose_svd_pc2_cum_var_pct,98.9156
+dose_svd_pc3_cum_var_pct,99.9583
+peak_svd_rank,7.0
+peak_svd_pc1_var_pct,81.3647
+peak_svd_pc2_cum_var_pct,93.8192
+peak_svd_pc3_cum_var_pct,96.8626
+dose_dmd_r3_rel_err_pct,15.1225
+peak_dmd_r3_rel_err_pct,27.2243

@@ -1,0 +1,7 @@
+pk_representation,target_representation,n_pairs,spearman_rho,spearman_p_two_tailed,pearson_r,pearson_p_two_tailed,n_permutations,mantel_p_value,coupling_status
+SVD Peak Distance,Target Jaccard Distance,21,-0.1521,0.4655,0.1987,0.4565,10000,0.4565,EXPLORATORY_WEAK
+SVD Peak Distance,Target Cosine Distance,21,-0.1503,0.4879,0.1637,0.5414,10000,0.5414,EXPLORATORY_WEAK
+DTW Peak Distance,Target Jaccard Distance,21,-0.0035,0.9866,0.1133,0.7678,10000,0.7678,EXPLORATORY_WEAK
+DTW Peak Distance,Target Cosine Distance,21,0.007,0.977,0.1189,0.7271,10000,0.7271,EXPLORATORY_WEAK
+SVD Dose Distance,Target Jaccard Distance,21,0.5179,0.0287,0.2333,0.3053,10000,0.3053,EXPLORATORY_WEAK
+SVD Dose Distance,Target Cosine Distance,21,0.5092,0.0365,0.2616,0.3107,10000,0.3107,EXPLORATORY_WEAK

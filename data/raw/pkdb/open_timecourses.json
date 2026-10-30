@@ -1,0 +1,9 @@
+{
+  "source": "PK-DB media files (open-licence studies)",
+  "description": "Concentration-time data parsed from publicly accessible TSV files for open-licence studies. Note: most TSV files require authentication (dot-prefixed). Only non-restricted files included.",
+  "access_note": "The pkdata/outputs and pkdata/timecourses API endpoints return 0 records without authentication. This dataset was assembled from directly accessible TSV media files for open-licence studies only.",
+  "tsv_files_accessed": 0,
+  "tsv_files_restricted": 0,
+  "count": 0,
+  "data": []
+}

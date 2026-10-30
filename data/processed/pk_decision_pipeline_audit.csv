@@ -1,0 +1,7 @@
+stage_number,stage_name,description,obs_count,drug_count,pass_rate_pct
+1,PK-DB Source,All observations extracted from PK-DB API / filter archives across candidate drugs,3184,36,100.0
+2,Measurement Type,Observation records with measurement labels (excluding non-measurement headers),834,9,26.2
+3,Plasma Concentration?,"Genuine plasma concentration C(t) in mass/molar SI units (mole/L, mg/L)",88,2,10.6
+4,Time > 0?,Post-dose kinetic time points (t > 0 hr),88,2,100.0
+5,Valid Numerical Concentration?,Finite positive numerical concentration values (C > 0),88,2,100.0
+6,Sufficient Time Points?,"Categorized by time-series granularity (Cat A >= 3 pts, Cat B = 2 pts, Cat C = 1 pt)",88,2,100.0

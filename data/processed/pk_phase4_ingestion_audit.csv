@@ -1,0 +1,7 @@
+drug_name,chembl_id,valid_observations,unique_subjects,unique_timepoints,min_time_hr,max_time_hr,concentration_unit,biological_matrix,route,excluded_records,chembl_mapped,validation_passed
+indomethacin,CHEMBL6,66,6,11,0.25,8.0,mg/L,plasma,intravenous,0,True,True
+phenobarbital,CHEMBL40,155,59,118,1.0,389.8,mg/L,serum,intravenous,589,True,True
+quinidine,CHEMBL481,361,136,309,0.13,8095.5,mg/L,serum,oral,1110,True,True
+remifentanil,CHEMBL1201179,1992,65,618,0.025,3.8342,mg/L,plasma,intravenous,115,True,True
+tetracycline,CHEMBL460,76,20,4,1.0,6.0,mg/L,serum,oral,4,True,False
+theophylline,CHEMBL178,123,12,78,0.0,24.65,mg/L,plasma,oral,9,True,True

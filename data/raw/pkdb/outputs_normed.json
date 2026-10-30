@@ -1,0 +1,32 @@
+{
+  "source": "PK-DB REST API",
+  "endpoint": "https://pk-db.com/api/v1/pkdata/outputs/?normed=true",
+  "description": "Normed PK measurement outputs. Each record is one measurement point for a substance in a study. Time-series are reconstructed by grouping on (study_sid, substance, group_pk/individual_pk).",
+  "fields": [
+    "study_sid",
+    "study_name",
+    "output_pk",
+    "raw_pk",
+    "normed",
+    "substance",
+    "substance_label",
+    "measurement_type",
+    "measurement_type_label",
+    "time",
+    "time_unit",
+    "value",
+    "mean",
+    "median",
+    "min",
+    "max",
+    "sd",
+    "se",
+    "cv",
+    "unit",
+    "tissue",
+    "group_pk",
+    "individual_pk"
+  ],
+  "count": 0,
+  "data": []
+}

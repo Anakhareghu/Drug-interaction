@@ -1,0 +1,25 @@
+pkdb_sid,pkdb_label,chembl_id,mapping_method,confidence,inchikey,chebi_id,pubchem_id,pkdb_mass,pkdb_formula
+isradipine,isradipine,CHEMBL1648,direct_xref,high,HMJIYCCIJYRONP-UHFFFAOYSA-N,CHEBI:6073,3784,371.388,C19H21N3O5
+m6g,morphine-6-glucuronide,CHEMBL1330,direct_xref,high,GNJCUHZOSOYIEC-GAROZEBRSA-N,CHEBI:80581,5360621,461.4618,C23H27NO9
+nmor,normorphine,CHEMBL1227,direct_xref,high,ONBWJWYUHXVEJS-ZTYRTETDSA-N,CHEBI:7633,5462508,271.312,C16H17NO3
+nmg,normorphine-glucuronide,,unmapped,none,,,,447.4,C22H25NO9
+phenobarbitone,phenobarbital,CHEMBL40,direct_xref,high,DDBREPKUVSBGFI-UHFFFAOYSA-N,CHEBI:8069,4763,232.2353,C12H12N2O3
+placebo,placebo,,unmapped,none,,,,,
+atazanavir,atazanavir,CHEMBL1163,direct_xref,high,AXRYRYVKAWYZBR-GASGPIRDSA-N,CHEBI:37924,148192,704.8555,C38H52N6O7
+buspirone,buspirone,CHEMBL49,direct_xref,high,QWCRAEMEVRGPNT-UHFFFAOYSA-N,CHEBI:3223,2477,385.504,C21H31N5O2
+ezetimibe,ezetimibe,CHEMBL1138,direct_xref,high,OLNTVTPDXPETLC-XPWALMASSA-N,CHEBI:49040,150311,409.4252,C24H21F2NO3
+saxagliptin,saxagliptin,CHEMBL385517,direct_xref,high,QGJUIPDUBHWZPV-SGTAVMJGSA-N,CHEBI:71272,11243969,315.41,C18H25N3O2
+canagliflozin,canagliflozin,CHEMBL2048484,direct_xref,high,XTNGUQKDFGDXSJ-ZXGKGEBGSA-N,CHEBI:73274,24812758,444.518,C24H25FO5S
+m5,M5,,unmapped,none,TZIBMGFJORCASO-DUGGDNAASA-N,,,620.6,
+m7,M7,,unmapped,none,TYOYRLJPOYQWCE-OGMAXQODSA-N,,,620.6,
+m9,M9,,unmapped,none,IXYKXBFQESXJOP-WNTZTFLTSA-N,,,460.5,
+teneligliptin,teneligliptin,CHEMBL2147777,direct_xref,high,WGRQANOPCQRCME-PMACEKPBSA-N,CHEBI:136042,11949652,426.58,C22H30N6OS
+dapagliflozin,dapagliflozin,CHEMBL429910,direct_xref,high,JVHXJTBJCFBINQ-ADAARDCZSA-N,CHEBI:85078,9887712,408.873,C21H25ClO6
+dapagliflozin-3-o-glucuronide,dapagliflozin 3-o-glucuronide,,unmapped,none,ZYZULHSUKTZGTR-PTNNFGGUSA-N,,,585.0,C27H33ClO12
+raltegravir,raltegravir,CHEMBL254316,direct_xref,high,CZFFBEXEKNGXKS-UHFFFAOYSA-N,CHEBI:82960,54671008,444.423,C20H21FN6O5
+nicotine,nicotine,,unmapped,none,,CHEBI:18723,,,
+brussel-sprouts,brussel sprouts,,unmapped,none,,,,,
+methacetin,methacetin,CHEMBL3183230,direct_xref,high,XVAIDCNLVLTVFM-UHFFFAOYSA-N,CHEBI:139354,5827,165.189,C9H11NO2
+13cmet,13C-methacetin,,unmapped,none,XVAIDCNLVLTVFM-VQEHIDDOSA-N,CHEBI:139355,9793926,166.184,C8[13C]H11NO2
+co2,carbon dioxide,CHEMBL1231871,direct_xref,high,CURLTUGMZLYLDI-UHFFFAOYSA-N,CHEBI:16526,280,44.01,CO2
+13cco2,13C-carbon dioxide,,unmapped,none,CURLTUGMZLYLDI-OUBTZVSYSA-N,CHEBI:139538,10129882,45.001,[13C]O2

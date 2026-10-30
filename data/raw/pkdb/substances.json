@@ -1,0 +1,4618 @@
+{
+  "source": "PK-DB REST API",
+  "endpoint": "https://pk-db.com/api/v1/info_nodes/?ntype=substance",
+  "description": "All PK-DB substance info_nodes with cross-references",
+  "fields": [
+    "sid",
+    "name",
+    "label",
+    "ntype",
+    "dtype",
+    "description",
+    "synonyms",
+    "parents",
+    "annotations",
+    "xrefs",
+    "substance"
+  ],
+  "count": 60,
+  "data": [
+    {
+      "sid": "tp-plus-tb-plus-px-plus-caf",
+      "name": "tp+tb+px+caf",
+      "label": "tp+tb+px+caf",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Sum of caffeine metabolites: tp+tb+px+caf",
+      "synonyms": [],
+      "parents": [
+        {
+          "sid": "caf",
+          "name": "caffeine",
+          "label": "caffeine (137X)"
+        },
+        {
+          "sid": "px",
+          "name": "paraxanthine",
+          "label": "paraxanthine (17X)"
+        },
+        {
+          "sid": "tb",
+          "name": "theobromine",
+          "label": "theobromine (37X)"
+        },
+        {
+          "sid": "tp",
+          "name": "theophylline",
+          "label": "theophylline (13X)"
+        }
+      ],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "17u-over-17u-plus-px-plus-1x-plus-1u-plus-afmu",
+      "name": "17U/(17U+px+1X+1U+AFMU)",
+      "label": "17U/(17U+px+1X+1U+AFMU)",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Caffeine metabolic ratio.",
+      "synonyms": [],
+      "parents": [
+        {
+          "sid": "17u",
+          "name": "17U",
+          "label": "1,7-dimethyluric acid (17U)"
+        },
+        {
+          "sid": "1u",
+          "name": "1U",
+          "label": "1-methyluric acid (1U)"
+        },
+        {
+          "sid": "1x",
+          "name": "1X",
+          "label": "1-methylxanthine (1X)"
+        },
+        {
+          "sid": "afmu",
+          "name": "AFMU",
+          "label": "5-Acetylamino-6-formylamino-3-methyluracil (AFMU)"
+        },
+        {
+          "sid": "px",
+          "name": "paraxanthine",
+          "label": "paraxanthine (17X)"
+        }
+      ],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "isradipine",
+      "name": "isradipine",
+      "label": "isradipine",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "A dihydropyridine calcium channel blockers with antihypertensive and vasodilator activities. Isradipine blocks the calcium entry through the calcium ion channels of coronary and peripheral vascular smooth muscle, thereby dilating coronary arteries and peripheral arterioles.",
+      "synonyms": [
+        "3,5-Pyridinedicarboxylic Acid, 4-(2,1,3-benzoxadiazol-4-yl)-1,4-dihydro-2,6-dimethyl-, Methyl 1-methylethyl Ester",
+        "DynaCirc (TN)",
+        "Dynacirc",
+        "ISRADIPINE",
+        "Isopropyl methyl(+-)-4-(4-benzofurazanyl)-1,4-dihydro-2,6-dimethyl-3,5-pyridinedicarboxylate",
+        "Isradipine",
+        "Lomir",
+        "dynacrine",
+        "isradipin",
+        "isrodipine"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Isradipine",
+          "relation": "BQB_IS",
+          "term": "CHEBI:6073",
+          "collection": "chebi",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:6073"
+        },
+        {
+          "label": "Isradipine",
+          "relation": "BQB_IS",
+          "term": "C47577",
+          "collection": "ncit",
+          "description": "A dihydropyridine calcium channel blockers with antihypertensive and vasodilator activities. Isradipine blocks the calcium entry through the calcium ion channels of coronary and peripheral vascular smooth muscle, thereby dilating coronary arteries and peripheral arterioles. This increases oxygen delivery due to an increased blood flow and reduces oxygen requirements due to decrease in total peripheral resistance. (NCI05)",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C47577"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "HMJIYCCIJYRONP-UHFFFAOYSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=HMJIYCCIJYRONP-UHFFFAOYSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "chembl",
+          "accession": "CHEMBL1648",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL1648"
+        },
+        {
+          "name": "pubchem_dotf",
+          "accession": "12013580",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/12013580"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB00270",
+          "url": "http://www.drugbank.ca/drugs/DB00270"
+        },
+        {
+          "name": "emolecules",
+          "accession": "901996",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=901996"
+        },
+        {
+          "name": "HMDB",
+          "accession": "HMDB0014415",
+          "url": "http://www.hmdb.ca/metabolites/HMDB0014415"
+        },
+        {
+          "name": "chemicalbook",
+          "accession": "CB2268682",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB2268682"
+        },
+        {
+          "name": "molport",
+          "accession": "MolPort-003-848-292",
+          "url": "https://www.molport.com/shop/molecule-link/MolPort-003-848-292"
+        },
+        {
+          "name": "brenda",
+          "accession": "196830",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=196830"
+        },
+        {
+          "name": "pharmgkb",
+          "accession": "PA450131",
+          "url": "https://www.pharmgkb.org/drug/PA450131"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J33.142B",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J33.142B"
+        },
+        {
+          "name": "gtopdb",
+          "accession": "4488",
+          "url": "http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4488"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J356.393F",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J356.393F"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J356.392H",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J356.392H"
+        },
+        {
+          "name": "pubchem",
+          "accession": "3784",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/3784"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL34555",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL34555"
+        },
+        {
+          "name": "lincs",
+          "accession": "LSM-1897",
+          "url": "http://identifiers.org/lincs.smallmolecule/LSM-1897"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14804055",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14804055"
+        },
+        {
+          "name": "actor",
+          "accession": "75695-93-1",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=75695-93-1"
+        },
+        {
+          "name": "selleck",
+          "accession": "Isradipine(Dynacirc)",
+          "url": "http://www.selleckchem.com/products/Isradipine(Dynacirc)"
+        },
+        {
+          "name": "actor",
+          "accession": "88977-22-4",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=88977-22-4"
+        },
+        {
+          "name": "dailymed",
+          "accession": "ISRADIPINE",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&labeltype=human&query=ACTIVEMOIETY:(ISRADIPINE"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "ISRADIPINE",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=ISRADIPINE"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "ISRADIPINE",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22ISRADIPINE%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "PN 200-110",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22PN%20200-110%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "PN-200-110",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22PN-200-110%22"
+        },
+        {
+          "name": "chebi",
+          "accession": "6073",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A6073"
+        },
+        {
+          "name": "MedChemExpress",
+          "accession": "HY-B0233",
+          "url": "https://www.medchemexpress.com/HY-B0233"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "YO1UK1S598",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=YO1UK1S598"
+        },
+        {
+          "name": "comptox",
+          "accession": "DTXSID4023179",
+          "url": "https://comptox.epa.gov/dashboard/DTXSID4023179"
+        },
+        {
+          "name": "Drug_Central",
+          "accession": "1511",
+          "url": "http://drugcentral.org/drugcard/1511"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "DYNACIRC",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22DYNACIRC%22"
+        },
+        {
+          "name": "KEGG",
+          "accession": "D00349",
+          "url": "http://www.kegg.jp/entry/D00349"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 371.388,
+        "charge": 0.0,
+        "formula": "C19H21N3O5"
+      }
+    },
+    {
+      "sid": "m6g",
+      "name": "morphine-6-glucuronide",
+      "label": "morphine-6-glucuronide",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Metabolite of morphine. Morphine-6-glucuronide belongs to the class of organic compounds known as morphinans.",
+      "synonyms": [
+        "Morphine-6-glucuronide"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Morphine-6-glucuronide",
+          "relation": "BQB_IS",
+          "term": "CHEBI:80581",
+          "collection": "chebi",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:80581"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "5360621",
+          "collection": "pubchem.compound",
+          "description": null,
+          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5360621"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "GNJCUHZOSOYIEC-GAROZEBRSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=GNJCUHZOSOYIEC-GAROZEBRSA-N"
+        },
+        {
+          "label": "Morphine Glucuronide",
+          "relation": "BQB_IS_VERSION_OF",
+          "term": "C166899",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C166899"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "brenda",
+          "accession": "57508",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=57508"
+        },
+        {
+          "name": "brenda",
+          "accession": "158496",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=158496"
+        },
+        {
+          "name": "metabolights",
+          "accession": "MTBLC80581",
+          "url": "http://www.ebi.ac.uk/metabolights/MTBLC80581"
+        },
+        {
+          "name": "chebi",
+          "accession": "80581",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A80581"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB06409",
+          "url": "http://www.drugbank.ca/drugs/DB06409"
+        },
+        {
+          "name": "brenda",
+          "accession": "149720",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=149720"
+        },
+        {
+          "name": "brenda",
+          "accession": "211673",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=211673"
+        },
+        {
+          "name": "HMDB",
+          "accession": "HMDB0041937",
+          "url": "http://www.hmdb.ca/metabolites/HMDB0041937"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL152647",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL152647"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "64Y9KYM60R",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=64Y9KYM60R"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J277.761D",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J277.761D"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "MORPHINE GLUCURONIDE",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22MORPHINE%20GLUCURONIDE%22"
+        },
+        {
+          "name": "zinc",
+          "accession": "ZINC000014089740",
+          "url": "http://zinc15.docking.org/substances/ZINC000014089740"
+        },
+        {
+          "name": "comptox",
+          "accession": "DTXSID40174158",
+          "url": "https://comptox.epa.gov/dashboard/DTXSID40174158"
+        },
+        {
+          "name": "pubchem",
+          "accession": "5360621",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/5360621"
+        },
+        {
+          "name": "actor",
+          "accession": "20290-10-2",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=20290-10-2"
+        },
+        {
+          "name": "actor",
+          "accession": "155755-06-9",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=155755-06-9"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14858183",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14858183"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14784697",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14784697"
+        },
+        {
+          "name": "chembl",
+          "accession": "CHEMBL1330",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL1330"
+        },
+        {
+          "name": "kegg_ligand",
+          "accession": "C16578",
+          "url": "http://www.genome.jp/dbget-bin/www_bget?C16578"
+        },
+        {
+          "name": "KEGG",
+          "accession": "C16578",
+          "url": "http://www.kegg.jp/entry/C16578"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 461.4618,
+        "charge": 0.0,
+        "formula": "C23H27NO9"
+      }
+    },
+    {
+      "sid": "m3g-plus-m6g",
+      "name": "m3g+m6g",
+      "label": "m3g+m6g",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Sum of morphine metabolites. Used in CYP2D6 phenotyping.",
+      "synonyms": [
+        "M-G",
+        "morphine-glucuronides"
+      ],
+      "parents": [
+        {
+          "sid": "m3g",
+          "name": "morphine-3-glucuronide",
+          "label": "morphine-3-glucuronide"
+        },
+        {
+          "sid": "m6g",
+          "name": "morphine-6-glucuronide",
+          "label": "morphine-6-glucuronide"
+        }
+      ],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "mor-plus-m3g-plus-m6g",
+      "name": "mor+m3g+m6g",
+      "label": "mor+m3g+m6g",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Sum of morphine metabolites. Used in CYP2D6 phenotyping.",
+      "synonyms": [],
+      "parents": [
+        {
+          "sid": "m3g",
+          "name": "morphine-3-glucuronide",
+          "label": "morphine-3-glucuronide"
+        },
+        {
+          "sid": "m6g",
+          "name": "morphine-6-glucuronide",
+          "label": "morphine-6-glucuronide"
+        },
+        {
+          "sid": "mor",
+          "name": "morphine",
+          "label": "morphine"
+        }
+      ],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "nmor",
+      "name": "normorphine",
+      "label": "normorphine",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Normorphine is a morphinane alkaloid.",
+      "synonyms": [
+        "NORMORPHINE",
+        "Normorphine"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Normorphine",
+          "relation": "BQB_IS",
+          "term": "CHEBI:7633",
+          "collection": "chebi",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:7633"
+        },
+        {
+          "label": "Normorphine",
+          "relation": "BQB_IS",
+          "term": "C170234",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C170234"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "5462508",
+          "collection": "pubchem.compound",
+          "description": null,
+          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5462508"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "ONBWJWYUHXVEJS-ZTYRTETDSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=ONBWJWYUHXVEJS-ZTYRTETDSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "chembl",
+          "accession": "CHEMBL1227",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL1227"
+        },
+        {
+          "name": "kegg_ligand",
+          "accession": "C11785",
+          "url": "http://www.genome.jp/dbget-bin/www_bget?C11785"
+        },
+        {
+          "name": "emolecules",
+          "accession": "10144106",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=10144106"
+        },
+        {
+          "name": "pubchem",
+          "accession": "5462508",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/5462508"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14774987",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14774987"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "XUI1Y24IMI",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=XUI1Y24IMI"
+        },
+        {
+          "name": "zinc",
+          "accession": "ZINC000004102208",
+          "url": "http://zinc15.docking.org/substances/ZINC000004102208"
+        },
+        {
+          "name": "metabolights",
+          "accession": "MTBLC7633",
+          "url": "http://www.ebi.ac.uk/metabolights/MTBLC7633"
+        },
+        {
+          "name": "brenda",
+          "accession": "20436",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=20436"
+        },
+        {
+          "name": "chebi",
+          "accession": "7633",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A7633"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL26387",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL26387"
+        },
+        {
+          "name": "gtopdb",
+          "accession": "1630",
+          "url": "http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=1630"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J5.905F",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J5.905F"
+        },
+        {
+          "name": "KEGG",
+          "accession": "C11785",
+          "url": "http://www.kegg.jp/entry/C11785"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 271.312,
+        "charge": 0.0,
+        "formula": "C16H17NO3"
+      }
+    },
+    {
+      "sid": "nmg",
+      "name": "normorphine-glucuronide",
+      "label": "normorphine-glucuronide",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Metabolite of normorphine.",
+      "synonyms": [],
+      "parents": [],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": 447.4,
+        "charge": null,
+        "formula": "C22H25NO9"
+      }
+    },
+    {
+      "sid": "mor-over-m6g",
+      "name": "mor/m6g",
+      "label": "morphine/morphine-6-glucuronide",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Morphine/morphine-6-glucuronide ratio. Used in phenotyping.",
+      "synonyms": [],
+      "parents": [
+        {
+          "sid": "m6g",
+          "name": "morphine-6-glucuronide",
+          "label": "morphine-6-glucuronide"
+        },
+        {
+          "sid": "mor",
+          "name": "morphine",
+          "label": "morphine"
+        }
+      ],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "phenobarbitone",
+      "name": "phenobarbitone",
+      "label": "phenobarbital",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "A long-acting barbituric acid derivative with antipsychotic property. Phenobarbital binds to and activates the gamma-aminobutyric acid (GABA)-A receptor, thereby mimicking the inhibitory actions of GABA in the brain.",
+      "synonyms": [
+        "5-Phenyl-5-ethylbarbituric acid",
+        "5-ethyl-5-phenyl-2,4,6(1H,3H,5H)-pyrimidinetrione",
+        "5-ethyl-5-phenylpyrimidine-2,4,6(1H,3H,5H)-trione",
+        "Luminal",
+        "PHENO",
+        "PHENOBARBITAL",
+        "PHENYLETHYLMALONYLUREA",
+        "Phenobarbital",
+        "Phenobarbitol",
+        "Phenobarbitone",
+        "Phenobarbituric Acid",
+        "Phenylethylbarbiturate",
+        "Phenylethylbarbituric Acid",
+        "Phenylethylbarbitursaeure",
+        "Phenylethylmalonylurea",
+        "phenobarbital",
+        "phenobarbitol",
+        "5-Ethyl-5-phenyl-2,4,6(1H,3H,5H)-pyrimidinetrione",
+        "5-Ethyl-5-phenyl-pyrimidine-2,4,6-trione",
+        "5-Ethyl-5-phenylbarbituric acid",
+        "Phenylaethylbarbitursaeure"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "phenobarbital",
+          "relation": "BQB_IS",
+          "term": "CHEBI:8069",
+          "collection": "chebi",
+          "description": "A member of the class of barbiturates, the structure of which is that of barbituric acid substituted at C-5 by ethyl and phenyl groups.",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:8069"
+        },
+        {
+          "label": "Phenobarbital",
+          "relation": "BQB_IS",
+          "term": "C739",
+          "collection": "ncit",
+          "description": "A long-acting barbituric acid derivative with antipsychotic property. Phenobarbital binds to and activates the gamma-aminobutyric acid (GABA)-A receptor, thereby mimicking the inhibitory actions of GABA in the brain.  The activation effects of the phenobarbital-receptor-ionophore complex include increased frequency of chloride channel openings, membrane hyperpolarization and ultimately synaptic inhibition and decreased neuronal excitability. In addition, this agent inhibits glutamate induced depolarization.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C739"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "DDBREPKUVSBGFI-UHFFFAOYSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=DDBREPKUVSBGFI-UHFFFAOYSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL16583",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL16583"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J4.499G",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J4.499G"
+        },
+        {
+          "name": "nmrshiftdb2",
+          "accession": "10017815",
+          "url": "http://nmrshiftdb.org/molecule/10017815"
+        },
+        {
+          "name": "HMDB",
+          "accession": "HMDB0015305",
+          "url": "http://www.hmdb.ca/metabolites/HMDB0015305"
+        },
+        {
+          "name": "brenda",
+          "accession": "94712",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=94712"
+        },
+        {
+          "name": "brenda",
+          "accession": "1475",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=1475"
+        },
+        {
+          "name": "brenda",
+          "accession": "15913",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=15913"
+        },
+        {
+          "name": "zinc",
+          "accession": "ZINC000095588079",
+          "url": "http://zinc15.docking.org/substances/ZINC000095588079"
+        },
+        {
+          "name": "bindingdb",
+          "accession": "50021437",
+          "url": "http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50021437"
+        },
+        {
+          "name": "comptox",
+          "accession": "DTXSID5021122",
+          "url": "https://comptox.epa.gov/dashboard/DTXSID5021122"
+        },
+        {
+          "name": "Drug_Central",
+          "accession": "2134",
+          "url": "http://drugcentral.org/drugcard/2134"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "PHENOBARBITAL SODIUM",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22PHENOBARBITAL%20SODIUM%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "GARDENAL",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22GARDENAL%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "PHENOBARBITAL",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22PHENOBARBITAL%22"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "PHENOBARBITAL SODIUM",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=PHENOBARBITAL%20SODIUM"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "PHENOBARBITAL",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=PHENOBARBITAL"
+        },
+        {
+          "name": "pdb",
+          "accession": "UQA",
+          "url": "http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/UQA"
+        },
+        {
+          "name": "dailymed",
+          "accession": "PHENOBARBITAL",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&labeltype=human&query=ACTIVEMOIETY:(PHENOBARBITAL"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "LUMINAL",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22LUMINAL%22"
+        },
+        {
+          "name": "mcule",
+          "accession": "MCULE-1782264021",
+          "url": "https://mcule.com/MCULE-1782264021"
+        },
+        {
+          "name": "pubchem",
+          "accession": "4763",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/4763"
+        },
+        {
+          "name": "atlas",
+          "accession": "phenobarbital",
+          "url": "http://www.ebi.ac.uk/gxa/query?conditionQuery=phenobarbital"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "YQE403BP4D",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=YQE403BP4D"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14822944",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14822944"
+        },
+        {
+          "name": "actor",
+          "accession": "50-06-6",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=50-06-6"
+        },
+        {
+          "name": "actor",
+          "accession": "11097-06-6",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=11097-06-6"
+        },
+        {
+          "name": "pharmgkb",
+          "accession": "PA450911",
+          "url": "https://www.pharmgkb.org/drug/PA450911"
+        },
+        {
+          "name": "emolecules",
+          "accession": "975043",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=975043"
+        },
+        {
+          "name": "chembl",
+          "accession": "CHEMBL40",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL40"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB01174",
+          "url": "http://www.drugbank.ca/drugs/DB01174"
+        },
+        {
+          "name": "kegg_ligand",
+          "accession": "C07434",
+          "url": "http://www.genome.jp/dbget-bin/www_bget?C07434"
+        },
+        {
+          "name": "gtopdb",
+          "accession": "2804",
+          "url": "http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2804"
+        },
+        {
+          "name": "chebi",
+          "accession": "8069",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A8069"
+        },
+        {
+          "name": "DrugBank",
+          "accession": "DB01174",
+          "url": "https://go.drugbank.com/drugs/DB01174"
+        },
+        {
+          "name": "KEGG",
+          "accession": "C07434",
+          "url": "http://www.kegg.jp/entry/C07434"
+        },
+        {
+          "name": "KEGG",
+          "accession": "D00506",
+          "url": "http://www.kegg.jp/entry/D00506"
+        },
+        {
+          "name": "Patent",
+          "accession": "US1025872",
+          "url": "https://www.google.com/patents/US1025872"
+        },
+        {
+          "name": "Wikipedia",
+          "accession": "Phenobarbital",
+          "url": "http://en.wikipedia.org/wiki/Phenobarbital"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 232.2353,
+        "charge": 0.0,
+        "formula": "C12H12N2O3"
+      }
+    },
+    {
+      "sid": "mor-over-m3g",
+      "name": "mor/m3g",
+      "label": "morphine/morphine-3-glucuronide",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Morphine/morphine-3-glucuronide ratio. Used in phenotyping.",
+      "synonyms": [],
+      "parents": [
+        {
+          "sid": "m3g",
+          "name": "morphine-3-glucuronide",
+          "label": "morphine-3-glucuronide"
+        },
+        {
+          "sid": "mor",
+          "name": "morphine",
+          "label": "morphine"
+        }
+      ],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "cod-over-mor",
+      "name": "cod/mor",
+      "label": "codeine/morphine",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Codeine/morphine ratio. Used in CYP2D6 phenotyping.",
+      "synonyms": [],
+      "parents": [
+        {
+          "sid": "cod",
+          "name": "codeine",
+          "label": "codeine"
+        },
+        {
+          "sid": "mor",
+          "name": "morphine",
+          "label": "morphine"
+        }
+      ],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "mor-over-cod",
+      "name": "mor/cod",
+      "label": "morphine/codeine",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Morphine/codeine ratio. Used in CYP2D6 phenotyping.",
+      "synonyms": [],
+      "parents": [
+        {
+          "sid": "cod",
+          "name": "codeine",
+          "label": "codeine"
+        },
+        {
+          "sid": "mor",
+          "name": "morphine",
+          "label": "morphine"
+        }
+      ],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "mor-plus-m3g-plus-m6g-over-cod-plus-c6g",
+      "name": "(mor+m3g+m6g)/(cod+c6g)",
+      "label": "(mor+m3g+m6g)/(cod+c6g)",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Metabolic ratio. Used in CYP2D6 phenotyping.",
+      "synonyms": [],
+      "parents": [
+        {
+          "sid": "c6g",
+          "name": "codeine-6-glucuronide",
+          "label": "codeine-6-glucuronide"
+        },
+        {
+          "sid": "cod",
+          "name": "codeine",
+          "label": "codeine"
+        },
+        {
+          "sid": "m3g",
+          "name": "morphine-3-glucuronide",
+          "label": "morphine-3-glucuronide"
+        },
+        {
+          "sid": "m6g",
+          "name": "morphine-6-glucuronide",
+          "label": "morphine-6-glucuronide"
+        },
+        {
+          "sid": "mor",
+          "name": "morphine",
+          "label": "morphine"
+        }
+      ],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "placebo",
+      "name": "placebo",
+      "label": "placebo",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "An inactive substance, treatment or procedure that is intended to provide baseline measurements for the experimental protocol of a clinical trial. A placebo is a substance or treatment which is designed to have no therapeutic value. Common placebos include inert tablets (like sugar pills), inert injections (like saline), sham surgery, and other procedures.",
+      "synonyms": [
+        "PLCB",
+        "Placebo",
+        "placebo",
+        "placebo therapy",
+        "sham therapy"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Placebo",
+          "relation": "BQB_IS",
+          "term": "C753",
+          "collection": "ncit",
+          "description": "An inactive substance, treatment or procedure that is intended to provide baseline measurements for the experimental protocol of a clinical trial.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C753"
+        },
+        {
+          "label": "placebo",
+          "relation": "BQB_IS",
+          "term": "0001674",
+          "collection": "efo",
+          "description": "An inactive substance, treatment or procedure that is intended to provide baseline measurements for the experimental protocol of a clinical trial.",
+          "url": "http://purl.bioontology.org/ontology/EFO/efo:EFO_0001674"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "NCIt",
+          "accession": "C753",
+          "url": "http://purl.obolibrary.org/obo/NCIT_C753"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "nr-substance",
+      "name": "NR",
+      "label": "Not reported (substance)",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Substance was not reported.",
+      "synonyms": [],
+      "parents": [],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "beta-blocker",
+      "name": "beta-blocker",
+      "label": "beta-blocker",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Beta-blocker are a class of medications that are predominantly used to manage abnormal heart rhythms, and to protect the heart from a second heart attack (myocardial infarction) after a first heart attack (secondary prevention).",
+      "synonyms": [],
+      "parents": [],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "atazanavir",
+      "name": "atazanavir",
+      "label": "atazanavir",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "An aza-dipeptide analogue with a bis-aryl substituent on the (hydroxethyl)hydrazine moiety with activity against both wild type and mutant forms of HIV protease. Atazanavir does not elevate serum lipids, a common problem with other protease inhibitors.",
+      "synonyms": [
+        "ATAZANAVIR",
+        "ATZ",
+        "Atazanavir",
+        "atazanavir",
+        "atazanavirum",
+        "dimethyl (3S,8S,9S,12S)-9-benzyl-3,12-di-tert-butyl-8-hydroxy-4,11-dioxo-6-[4-(2-pyridyl)benzyl]-2,5,6,10,13-pentaazatetradecanedioate"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "atazanavir",
+          "relation": "BQB_IS",
+          "term": "CHEBI:37924",
+          "collection": "chebi",
+          "description": "A heavily substituted carbohydrazide that is an antiretroviral drug of the protease inhibitor (PI) class used to treat infection of human immunodeficiency virus (HIV).",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:37924"
+        },
+        {
+          "label": "Atazanavir",
+          "relation": "BQB_IS",
+          "term": "C66872",
+          "collection": "ncit",
+          "description": "An aza-dipeptide analogue with a bis-aryl substituent on the (hydroxethyl)hydrazine moiety with activity against both wild type and mutant forms of HIV protease. Atazanavir does not elevate serum lipids, a common problem with other protease inhibitors.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C66872"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "AXRYRYVKAWYZBR-GASGPIRDSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=AXRYRYVKAWYZBR-GASGPIRDSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "chembl",
+          "accession": "CHEMBL1163",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL1163"
+        },
+        {
+          "name": "pdb",
+          "accession": "DR7",
+          "url": "http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/DR7"
+        },
+        {
+          "name": "chebi",
+          "accession": "37924",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A37924"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB01072",
+          "url": "http://www.drugbank.ca/drugs/DB01072"
+        },
+        {
+          "name": "emolecules",
+          "accession": "32176608",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=32176608"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "QZU4H47A3S",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=QZU4H47A3S"
+        },
+        {
+          "name": "actor",
+          "accession": "198904-31-3",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=198904-31-3"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14790731",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14790731"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14766361",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14766361"
+        },
+        {
+          "name": "gtopdb",
+          "accession": "11138",
+          "url": "http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=11138"
+        },
+        {
+          "name": "zinc",
+          "accession": "ZINC000003941496",
+          "url": "http://zinc15.docking.org/substances/ZINC000003941496"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "ATAZANAVIR",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=ATAZANAVIR"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "REYATAZ",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=REYATAZ"
+        },
+        {
+          "name": "bindingdb",
+          "accession": "13934",
+          "url": "http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=13934"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "ATAZANAVIR SULFATE",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=ATAZANAVIR%20SULFATE"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "BMS-232632",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22BMS-232632%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "BMS-232632-05",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22BMS-232632-05%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "CGP-73547",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22CGP-73547%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "ATAZANAVIR",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22ATAZANAVIR%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "ATAZANAVIR SULFATE",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22ATAZANAVIR%20SULFATE%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "REYATAZ",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22REYATAZ%22"
+        },
+        {
+          "name": "MedChemExpress",
+          "accession": "HY-17367",
+          "url": "https://www.medchemexpress.com/HY-17367"
+        },
+        {
+          "name": "comptox",
+          "accession": "DTXSID9048691",
+          "url": "https://comptox.epa.gov/dashboard/DTXSID9048691"
+        },
+        {
+          "name": "drugcentral",
+          "accession": "254",
+          "url": "http://drugcentral.org/drugcard/254"
+        },
+        {
+          "name": "dailymed",
+          "accession": "ATAZANAVIR",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&labeltype=human&query=ACTIVEMOIETY:(ATAZANAVIR"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL41696",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL41696"
+        },
+        {
+          "name": "molport",
+          "accession": "MolPort-003-986-575",
+          "url": "https://www.molport.com/shop/molecule-link/MolPort-003-986-575"
+        },
+        {
+          "name": "pubchem",
+          "accession": "148192",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/148192"
+        },
+        {
+          "name": "brenda",
+          "accession": "2379",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=2379"
+        },
+        {
+          "name": "pharmgkb",
+          "accession": "PA10251",
+          "url": "https://www.pharmgkb.org/drug/PA10251"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J1.006.724C",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J1.006.724C"
+        },
+        {
+          "name": "hmdb",
+          "accession": "HMDB0015205",
+          "url": "http://www.hmdb.ca/metabolites/HMDB0015205"
+        },
+        {
+          "name": "DrugBank",
+          "accession": "DB01072",
+          "url": "https://go.drugbank.com/drugs/DB01072"
+        },
+        {
+          "name": "KEGG",
+          "accession": "D07471",
+          "url": "http://www.kegg.jp/entry/D07471"
+        },
+        {
+          "name": "Wikipedia",
+          "accession": "Atazanavir",
+          "url": "http://en.wikipedia.org/wiki/Atazanavir"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 704.8555,
+        "charge": 0.0,
+        "formula": "C38H52N6O7"
+      }
+    },
+    {
+      "sid": "buspirone",
+      "name": "buspirone",
+      "label": "buspirone",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Buspirone, sold under the brand name Buspar among others, is a medication primarily used to treat anxiety disorders, particularly generalized anxiety disorder. An anxiolytic agent chemically and pharmacologically unrelated to benzodiazepines, barbiturates, or other sedative/hypnotic drugs.",
+      "synonyms": [
+        "8-(4-(4-(2-Pyrimidinyl)-1-piperizinyl)butyl)-8-azaspiro(4,5)decane-7,9-dione",
+        "8-[4-(4-pyrimidin-2-ylpiperazin-1-yl)butyl]-8-azaspiro[4.5]decane-7,9-dione",
+        "BUSPIRONE",
+        "Buspirone",
+        "buspirona",
+        "buspirone",
+        "buspironum"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "buspirone",
+          "relation": "BQB_IS",
+          "term": "CHEBI:3223",
+          "collection": "chebi",
+          "description": "An azaspiro compound that is 8-azaspiro[4.5]decane-7,9-dione substituted at the nitrogen atom by a 4-(piperazin-1-yl)butyl group which in turn is substituted by a pyrimidin-2-yl group at the N(4) position.",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:3223"
+        },
+        {
+          "label": "Buspirone",
+          "relation": "BQB_IS",
+          "term": "C62013",
+          "collection": "ncit",
+          "description": "An anxiolytic agent chemically and pharmacologically unrelated to benzodiazepines, barbiturates, or other sedative/hypnotic drugs.  Although its exact mechanism of action is unknown, buspirone may exert its anti-anxiety effects via serotonin (5-HT1A) and dopamine receptors (D2) and may indirectly affect other neurotransmitter systems. Unlike typical benzodiazepine anxiolytics, this agent does not exert anticonvulsant or muscle relaxant effects and lacks prominent sedative effects.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C62013"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "QWCRAEMEVRGPNT-UHFFFAOYSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=QWCRAEMEVRGPNT-UHFFFAOYSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "pubchem",
+          "accession": "2477",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/2477"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "TK65WKS8HL",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=TK65WKS8HL"
+        },
+        {
+          "name": "lincs",
+          "accession": "LSM-4105",
+          "url": "http://identifiers.org/lincs.smallmolecule/LSM-4105"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14902734",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14902734"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL16398",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL16398"
+        },
+        {
+          "name": "actor",
+          "accession": "36505-84-7",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=36505-84-7"
+        },
+        {
+          "name": "bindingdb",
+          "accession": "50001859",
+          "url": "http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50001859"
+        },
+        {
+          "name": "Drug_Central",
+          "accession": "437",
+          "url": "http://drugcentral.org/drugcard/437"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "BUSPAR",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=BUSPAR"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "BUSPIRONE",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=BUSPIRONE"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "BUSPIRONE HYDROCHLORIDE",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=BUSPIRONE%20HYDROCHLORIDE"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "MJ 9022-1",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22MJ%209022-1%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "MJ-9022-1",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22MJ-9022-1%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "APD-405",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22APD-405%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "APD405",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22APD405%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "GEN-BUSPIRONE",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22GEN-BUSPIRONE%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "BUSPAR",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22BUSPAR%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "BUSPIRONE",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22BUSPIRONE%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "BUSPIRONE HYDROCHLORIDE",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22BUSPIRONE%20HYDROCHLORIDE%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "BCI-024",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22BCI-024%22"
+        },
+        {
+          "name": "comptox",
+          "accession": "DTXSID2022707",
+          "url": "https://comptox.epa.gov/dashboard/DTXSID2022707"
+        },
+        {
+          "name": "zinc",
+          "accession": "ZINC000001530571",
+          "url": "http://zinc15.docking.org/substances/ZINC000001530571"
+        },
+        {
+          "name": "dailymed",
+          "accession": "BUSPIRONE",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&labeltype=human&query=ACTIVEMOIETY:(BUSPIRONE"
+        },
+        {
+          "name": "mcule",
+          "accession": "MCULE-1919697845",
+          "url": "https://mcule.com/MCULE-1919697845"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J19.752A",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J19.752A"
+        },
+        {
+          "name": "brenda",
+          "accession": "145959",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=145959"
+        },
+        {
+          "name": "brenda",
+          "accession": "145045",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=145045"
+        },
+        {
+          "name": "brenda",
+          "accession": "167768",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=167768"
+        },
+        {
+          "name": "pharmgkb",
+          "accession": "PA448689",
+          "url": "https://www.pharmgkb.org/drug/PA448689"
+        },
+        {
+          "name": "kegg_ligand",
+          "accession": "C06861",
+          "url": "http://www.genome.jp/dbget-bin/www_bget?C06861"
+        },
+        {
+          "name": "chemicalbook",
+          "accession": "CB93118899",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB93118899"
+        },
+        {
+          "name": "chemicalbook",
+          "accession": "CB1367137",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB1367137"
+        },
+        {
+          "name": "chemicalbook",
+          "accession": "CB63118898",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB63118898"
+        },
+        {
+          "name": "chemicalbook",
+          "accession": "CB73118901",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB73118901"
+        },
+        {
+          "name": "HMDB",
+          "accession": "HMDB0014633",
+          "url": "http://www.hmdb.ca/metabolites/HMDB0014633"
+        },
+        {
+          "name": "chembl",
+          "accession": "CHEMBL49",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL49"
+        },
+        {
+          "name": "pubchem_dotf",
+          "accession": "24714738",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/24714738"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB00490",
+          "url": "http://www.drugbank.ca/drugs/DB00490"
+        },
+        {
+          "name": "gtopdb",
+          "accession": "36",
+          "url": "http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=36"
+        },
+        {
+          "name": "chebi",
+          "accession": "3223",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A3223"
+        },
+        {
+          "name": "emolecules",
+          "accession": "1933757",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=1933757"
+        },
+        {
+          "name": "DrugBank",
+          "accession": "DB00490",
+          "url": "https://go.drugbank.com/drugs/DB00490"
+        },
+        {
+          "name": "KEGG",
+          "accession": "C06861",
+          "url": "http://www.kegg.jp/entry/C06861"
+        },
+        {
+          "name": "KEGG",
+          "accession": "D07593",
+          "url": "http://www.kegg.jp/entry/D07593"
+        },
+        {
+          "name": "Patent",
+          "accession": "DE2057845",
+          "url": "https://www.google.com/patents/DE2057845"
+        },
+        {
+          "name": "Patent",
+          "accession": "US3717634",
+          "url": "https://www.google.com/patents/US3717634"
+        },
+        {
+          "name": "Wikipedia",
+          "accession": "Buspirone",
+          "url": "http://en.wikipedia.org/wiki/Buspirone"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 385.504,
+        "charge": 0.0,
+        "formula": "C21H31N5O2"
+      }
+    },
+    {
+      "sid": "ezetimibe",
+      "name": "ezetimibe",
+      "label": "ezetimibe",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "An azetidinone derivative and a cholesterol absorption inhibitor with lipid-lowering activity. Ezetimibe appears to interact physically with cholesterol transporters at the brush border of the small intestine and inhibits the intestinal absorption of cholesterol and related phytosterols. As a result, ezetimibe causes a decrease in the level of blood cholesterol or an increase in the clearance of cholesterol from the bloodstream.",
+      "synonyms": [
+        "(3R,4S)-1-(4-fluorophenyl)-3-[(3S)-3-(4-fluorophenyl)-3-hydroxypropyl]-4-(4-hydroxyphenyl)azetidin-2-one",
+        "1-(4-fluorophenyl)-3(R)-[3-(4-fluorophenyl)-3(S)-hydroxypropyl]-4(S)-(4-hydroxyphenyl)-2-azetidinone",
+        "EZETIMIBE",
+        "Ezedoc",
+        "Ezetimibe",
+        "Ezetrol",
+        "Zetia",
+        "ezetimiba",
+        "ezetimibe",
+        "ezetimibum"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "ezetimibe",
+          "relation": "BQB_IS",
+          "term": "CHEBI:49040",
+          "collection": "chebi",
+          "description": "A beta-lactam that is azetidin-2-one which is substituted at 1, 3, and 4 by p-fluorophenyl, 3-(p-fluorophenyl)-3-hydroxypropyl, and  4-hydroxyphenyl groups, respectively (the 3R,3'S,4S enantiomer).",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:49040"
+        },
+        {
+          "label": "Ezetimibe",
+          "relation": "BQB_IS",
+          "term": "C47529",
+          "collection": "ncit",
+          "description": "An azetidinone derivative and a cholesterol absorption inhibitor with lipid-lowering activity. Ezetimibe appears to interact physically with cholesterol transporters at the brush border of the small intestine and inhibits the intestinal absorption of cholesterol and related phytosterols. As a result, ezetimibe causes a decrease in the level of blood cholesterol or an increase in the clearance of cholesterol from the bloodstream. Overall, the following effects observed are a reduction of hepatic cholesterol stores and a reduction of total cholesterol, LDL cholesterol, and other triglycerides in the blood.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C47529"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "OLNTVTPDXPETLC-XPWALMASSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=OLNTVTPDXPETLC-XPWALMASSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "comptox",
+          "accession": "DTXSID1044223",
+          "url": "https://comptox.epa.gov/dashboard/DTXSID1044223"
+        },
+        {
+          "name": "molport",
+          "accession": "MolPort-005-938-627",
+          "url": "https://www.molport.com/shop/molecule-link/MolPort-005-938-627"
+        },
+        {
+          "name": "chemicalbook",
+          "accession": "CB7380787",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB7380787"
+        },
+        {
+          "name": "brenda",
+          "accession": "151435",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=151435"
+        },
+        {
+          "name": "HMDB",
+          "accession": "HMDB0015108",
+          "url": "http://www.hmdb.ca/metabolites/HMDB0015108"
+        },
+        {
+          "name": "pharmgkb",
+          "accession": "PA10816",
+          "url": "https://www.pharmgkb.org/drug/PA10816"
+        },
+        {
+          "name": "mcule",
+          "accession": "MCULE-4417284526",
+          "url": "https://mcule.com/MCULE-4417284526"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J900.924H",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J900.924H"
+        },
+        {
+          "name": "gtopdb",
+          "accession": "6816",
+          "url": "http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=6816"
+        },
+        {
+          "name": "pubchem",
+          "accession": "150311",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/150311"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "EOR26LQQ24",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=EOR26LQQ24"
+        },
+        {
+          "name": "lincs",
+          "accession": "LSM-5536",
+          "url": "http://identifiers.org/lincs.smallmolecule/LSM-5536"
+        },
+        {
+          "name": "actor",
+          "accession": "163222-33-1",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=163222-33-1"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14879623",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14879623"
+        },
+        {
+          "name": "selleck",
+          "accession": "Ezetimibe(Zetia)",
+          "url": "http://www.selleckchem.com/products/Ezetimibe(Zetia)"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14928749",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14928749"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL2871",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL2871"
+        },
+        {
+          "name": "zinc",
+          "accession": "ZINC000003810860",
+          "url": "http://zinc15.docking.org/substances/ZINC000003810860"
+        },
+        {
+          "name": "dailymed",
+          "accession": "EZETIMIBE",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&labeltype=human&query=ACTIVEMOIETY:(EZETIMIBE"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "EZETIMIBE",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=EZETIMIBE"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "ZETIA",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=ZETIA"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "SCH58235",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22SCH58235%22"
+        },
+        {
+          "name": "Drug_Central",
+          "accession": "1125",
+          "url": "http://drugcentral.org/drugcard/1125"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "MK0653",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22MK0653%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "EZETIMIBE",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22EZETIMIBE%22"
+        },
+        {
+          "name": "pdb",
+          "accession": "H56",
+          "url": "http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/H56"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "ZETIA",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22ZETIA%22"
+        },
+        {
+          "name": "MedChemExpress",
+          "accession": "HY-17376",
+          "url": "https://www.medchemexpress.com/HY-17376"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "SCH-58235",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22SCH-58235%22"
+        },
+        {
+          "name": "chebi",
+          "accession": "49040",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A49040"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB00973",
+          "url": "http://www.drugbank.ca/drugs/DB00973"
+        },
+        {
+          "name": "pubchem_dotf",
+          "accession": "12014979",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/12014979"
+        },
+        {
+          "name": "chembl",
+          "accession": "CHEMBL1138",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL1138"
+        },
+        {
+          "name": "emolecules",
+          "accession": "2736798",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=2736798"
+        },
+        {
+          "name": "DrugBank",
+          "accession": "DB00973",
+          "url": "https://go.drugbank.com/drugs/DB00973"
+        },
+        {
+          "name": "KEGG",
+          "accession": "D01966",
+          "url": "http://www.kegg.jp/entry/D01966"
+        },
+        {
+          "name": "Wikipedia",
+          "accession": "Ezetimibe",
+          "url": "http://en.wikipedia.org/wiki/Ezetimibe"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 409.4252,
+        "charge": 0.0,
+        "formula": "C24H21F2NO3"
+      }
+    },
+    {
+      "sid": "saxagliptin",
+      "name": "saxagliptin",
+      "label": "saxagliptin",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "A potent, selective and competitive, cyanopyrrolidine-based, orally bioavailable inhibitor of dipeptidyl peptidase 4 (DPP-4), with hypoglycemic activity. Saxagliptin is metabolized into an, although less potent, active mono-hydroxy metabolite.",
+      "synonyms": [
+        "(1S,3S,5S)-2-((2S)-Amino(3-hydroxytricyclo(3.3.1.13,7)dec-1-yl)acetyl)-2-azabicyclo(3.1.0)hexane-3-carbonitrile",
+        "(1S,3S,5S)-2-[(2S)-2-amino-2-(3-hydroxyadamantan-1-yl)acetyl]-2-azabicyclo[3.1.0]hexane-3-carbonitrile",
+        "BMS 477118",
+        "BMS-477118",
+        "BMS-477118-11",
+        "SAXAGLIPTIN",
+        "Saxagliptin",
+        "Saxagliptin Hydrate",
+        "Saxagliptin Monohydrate",
+        "saxagliptin"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "saxagliptin",
+          "relation": "BQB_IS",
+          "term": "CHEBI:71272",
+          "collection": "chebi",
+          "description": "A monocarboxylic acid amide obtained by formal condensation of the carboxy group of (2S)-amino(3-hydroxyadamantan-1-yl)acetic acid with the amino group of (1S,3S,5S)-2-azabicyclo[3.1.0]hexane-3-carbonitrile. Used in its monohydrate form for the treatment of Type II diabetes.",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:71272"
+        },
+        {
+          "label": "Saxagliptin",
+          "relation": "BQB_IS",
+          "term": "C75983",
+          "collection": "ncit",
+          "description": "A potent, selective and competitive, cyanopyrrolidine-based, orally bioavailable inhibitor of dipeptidyl peptidase 4 (DPP-4), with hypoglycemic activity. Saxagliptin is metabolized into an, although less potent, active mono-hydroxy metabolite.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C75983"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "QGJUIPDUBHWZPV-SGTAVMJGSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=QGJUIPDUBHWZPV-SGTAVMJGSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "pubchem",
+          "accession": "11243969",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/11243969"
+        },
+        {
+          "name": "chebi",
+          "accession": "71272",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A71272"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL17168",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL17168"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "16328544",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/16328544"
+        },
+        {
+          "name": "selleck",
+          "accession": "Saxagliptin(Onglyza)",
+          "url": "http://www.selleckchem.com/products/Saxagliptin(Onglyza)"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "16675586",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/16675586"
+        },
+        {
+          "name": "actor",
+          "accession": "361442-04-8",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=361442-04-8"
+        },
+        {
+          "name": "brenda",
+          "accession": "2058",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=2058"
+        },
+        {
+          "name": "brenda",
+          "accession": "39903",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=39903"
+        },
+        {
+          "name": "lincs",
+          "accession": "LSM-45955",
+          "url": "http://identifiers.org/lincs.smallmolecule/LSM-45955"
+        },
+        {
+          "name": "brenda",
+          "accession": "39011",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=39011"
+        },
+        {
+          "name": "pharmgkb",
+          "accession": "PA165958362",
+          "url": "https://www.pharmgkb.org/drug/PA165958362"
+        },
+        {
+          "name": "brenda",
+          "accession": "138960",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=138960"
+        },
+        {
+          "name": "HMDB",
+          "accession": "HMDB0015634",
+          "url": "http://www.hmdb.ca/metabolites/HMDB0015634"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB06335",
+          "url": "http://www.drugbank.ca/drugs/DB06335"
+        },
+        {
+          "name": "pubchem_dotf",
+          "accession": "57304394",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/57304394"
+        },
+        {
+          "name": "chembl",
+          "accession": "CHEMBL385517",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL385517"
+        },
+        {
+          "name": "emolecules",
+          "accession": "36518228",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=36518228"
+        },
+        {
+          "name": "dailymed",
+          "accession": "SAXAGLIPTIN",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&labeltype=human&query=ACTIVEMOIETY:(SAXAGLIPTIN"
+        },
+        {
+          "name": "Drug_Central",
+          "accession": "4114",
+          "url": "http://drugcentral.org/drugcard/4114"
+        },
+        {
+          "name": "comptox",
+          "accession": "DTXSID7048580",
+          "url": "https://comptox.epa.gov/dashboard/DTXSID7048580"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "8I7IO46IVQ",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=8I7IO46IVQ"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "SAXAGLIPTIN",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22SAXAGLIPTIN%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "SAXAGLIPTIN MONOHYDRATE",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22SAXAGLIPTIN%20MONOHYDRATE%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "BMS-477118",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22BMS-477118%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "ONGLYZA",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22ONGLYZA%22"
+        },
+        {
+          "name": "bindingdb",
+          "accession": "11542",
+          "url": "http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=11542"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "SAXAGLIPTIN",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=SAXAGLIPTIN"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "ONGLYZA",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=ONGLYZA"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "SAXAGLIPTIN ANHYDROUS",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=SAXAGLIPTIN%20ANHYDROUS"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "SAXAGLIPTIN HYDROCHLORIDE",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=SAXAGLIPTIN%20HYDROCHLORIDE"
+        },
+        {
+          "name": "molport",
+          "accession": "MolPort-021-783-241",
+          "url": "https://www.molport.com/shop/molecule-link/MolPort-021-783-241"
+        },
+        {
+          "name": "bindingdb",
+          "accession": "50225074",
+          "url": "http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50225074"
+        },
+        {
+          "name": "gtopdb",
+          "accession": "6316",
+          "url": "http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=6316"
+        },
+        {
+          "name": "DrugBank",
+          "accession": "DB06335",
+          "url": "https://go.drugbank.com/drugs/DB06335"
+        },
+        {
+          "name": "KEGG",
+          "accession": "D08996",
+          "url": "http://www.kegg.jp/entry/D08996"
+        },
+        {
+          "name": "Patent",
+          "accession": "US2005222242",
+          "url": "https://www.google.com/patents/US2005222242"
+        },
+        {
+          "name": "Patent",
+          "accession": "US2007172525",
+          "url": "https://www.google.com/patents/US2007172525"
+        },
+        {
+          "name": "Patent",
+          "accession": "WO2007078726",
+          "url": "https://www.google.com/patents/WO2007078726"
+        },
+        {
+          "name": "Patent",
+          "accession": "WO2009022009",
+          "url": "https://www.google.com/patents/WO2009022009"
+        },
+        {
+          "name": "Patent",
+          "accession": "WO2011125011",
+          "url": "https://www.google.com/patents/WO2011125011"
+        },
+        {
+          "name": "Wikipedia",
+          "accession": "Saxagliptin",
+          "url": "http://en.wikipedia.org/wiki/Saxagliptin"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 315.41,
+        "charge": 0.0,
+        "formula": "C18H25N3O2"
+      }
+    },
+    {
+      "sid": "canagliflozin",
+      "name": "canagliflozin",
+      "label": "canagliflozin",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "A C-glucoside with a thiophene ring that is an orally available inhibitor of sodium-glucose transporter 2 (SGLT2) with antihyperglycemic activity. Canagliflozin is also able to reduce body weight and has a low risk for hypoglycemia.",
+      "synonyms": [
+        "(1S)-1,5-anhydro-1-(3-{[5-(4-fluorophenyl)-2-thienyl]methyl}-4-methylphenyl)-D-glucitol",
+        "1-(Glucopyranosyl)-4-methyl-3-(5-(4-fluorophenyl)-2-thienylmethyl)benzene",
+        "CANAGLIFLOZIN",
+        "Canagliflozin",
+        "Capagliflozin",
+        "JNJ-24831754-ZAE",
+        "JNJ-28431754",
+        "JNJ-28431754-AAA",
+        "TA-7284",
+        "canagliflozin"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "24812758",
+          "collection": "pubchem.compound",
+          "description": null,
+          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/24812758"
+        },
+        {
+          "label": "canagliflozin",
+          "relation": "BQB_IS",
+          "term": "CHEBI:73274",
+          "collection": "chebi",
+          "description": "A C-glycosyl compound that is used (in its hemihydrate form) for treatment of type II diabetes via inhibition of sodium-glucose transport protein subtype 2.",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:73274"
+        },
+        {
+          "label": "Canagliflozin",
+          "relation": "BQB_IS",
+          "term": "C91018",
+          "collection": "ncit",
+          "description": "A C-glucoside with a thiophene ring that is an orally available inhibitor of sodium-glucose transporter 2 (SGLT2) with antihyperglycemic activity. Canagliflozin is also able to reduce body weight and has a low risk for hypoglycemia.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C91018"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "XTNGUQKDFGDXSJ-ZXGKGEBGSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=XTNGUQKDFGDXSJ-ZXGKGEBGSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "pubchem_dotf",
+          "accession": "125299338",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/125299338"
+        },
+        {
+          "name": "Drug_Central",
+          "accession": "4758",
+          "url": "http://drugcentral.org/drugcard/4758"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J2.830.773J",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.830.773J"
+        },
+        {
+          "name": "dailymed",
+          "accession": "CANAGLIFLOZIN",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&labeltype=human&query=ACTIVEMOIETY:(CANAGLIFLOZIN"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "INVOKANA",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=INVOKANA"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "CANAGLIFLOZIN ANHYDROUS",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=CANAGLIFLOZIN%20ANHYDROUS"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "CANAGLIFLOZIN",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=CANAGLIFLOZIN"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "INVOKANA",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22INVOKANA%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "JNJ-28431754",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22JNJ-28431754%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "CANAGLIFLOZIN",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22CANAGLIFLOZIN%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "TA-7284",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22TA-7284%22"
+        },
+        {
+          "name": "MedChemExpress",
+          "accession": "HY-10451",
+          "url": "https://www.medchemexpress.com/HY-10451"
+        },
+        {
+          "name": "gtopdb",
+          "accession": "4582",
+          "url": "http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4582"
+        },
+        {
+          "name": "bindingdb",
+          "accession": "50386885",
+          "url": "http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50386885"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL157162",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL157162"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "49811874",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/49811874"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB08907",
+          "url": "http://www.drugbank.ca/drugs/DB08907"
+        },
+        {
+          "name": "pubchem",
+          "accession": "24812758",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/24812758"
+        },
+        {
+          "name": "selleck",
+          "accession": "canagliflozin",
+          "url": "http://www.selleckchem.com/products/canagliflozin"
+        },
+        {
+          "name": "chebi",
+          "accession": "73274",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A73274"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "6S49DGR869",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=6S49DGR869"
+        },
+        {
+          "name": "chembl",
+          "accession": "CHEMBL2048484",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL2048484"
+        },
+        {
+          "name": "pdb",
+          "accession": "L3R",
+          "url": "http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/L3R"
+        },
+        {
+          "name": "zinc",
+          "accession": "ZINC000043207238",
+          "url": "http://zinc15.docking.org/substances/ZINC000043207238"
+        },
+        {
+          "name": "lincs",
+          "accession": "LSM-45965",
+          "url": "http://identifiers.org/lincs.smallmolecule/LSM-45965"
+        },
+        {
+          "name": "Patent",
+          "accession": "US2008146515",
+          "url": "https://www.google.com/patents/US2008146515"
+        },
+        {
+          "name": "Patent",
+          "accession": "US2010099883",
+          "url": "https://www.google.com/patents/US2010099883"
+        },
+        {
+          "name": "Patent",
+          "accession": "US2012289694",
+          "url": "https://www.google.com/patents/US2012289694"
+        },
+        {
+          "name": "Patent",
+          "accession": "WO2009035969",
+          "url": "https://www.google.com/patents/WO2009035969"
+        },
+        {
+          "name": "Patent",
+          "accession": "WO2011142478",
+          "url": "https://www.google.com/patents/WO2011142478"
+        },
+        {
+          "name": "Wikipedia",
+          "accession": "Canagliflozin",
+          "url": "http://en.wikipedia.org/wiki/Canagliflozin"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 444.518,
+        "charge": 0.0,
+        "formula": "C24H25FO5S"
+      }
+    },
+    {
+      "sid": "m5",
+      "name": "M5",
+      "label": "M5",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "M5. A metabolite of canagliflozin.",
+      "synonyms": [
+        "Canagliflozin-glucuronide (M5)"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "169502150",
+          "collection": "pubchem.compound",
+          "description": null,
+          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/169502150"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "TZIBMGFJORCASO-DUGGDNAASA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=TZIBMGFJORCASO-DUGGDNAASA-N"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": 620.6,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "m7",
+      "name": "M7",
+      "label": "M7",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "M7. A metabolite of canagliflozin.",
+      "synonyms": [
+        "Canagliflozin-glucuronide (M7)"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "169502148",
+          "collection": "pubchem.compound",
+          "description": null,
+          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/169502148"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "TYOYRLJPOYQWCE-OGMAXQODSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=TYOYRLJPOYQWCE-OGMAXQODSA-N"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": 620.6,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "m9",
+      "name": "M9",
+      "label": "M9",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "M9. A metabolite of canagliflozin.",
+      "synonyms": [
+        "Canagliflozin metabolite (M9)"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "121428312",
+          "collection": "pubchem.compound",
+          "description": null,
+          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/121428312"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "IXYKXBFQESXJOP-WNTZTFLTSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=IXYKXBFQESXJOP-WNTZTFLTSA-N"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": 460.5,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "total-canagliflozin",
+      "name": "total canagliflozin",
+      "label": "total canagliflozin",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Sum of unchanged canagliflozin, M5, M7, M9 and other metabolites. Used for comparison with total radioactivity.",
+      "synonyms": [
+        "canagliflozin total"
+      ],
+      "parents": [],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "teneligliptin",
+      "name": "teneligliptin",
+      "label": "teneligliptin",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Teneligliptin is a long-acting, orally bioavailable,pyrrolidine-based inhibitor of dipeptidyl peptidase 4 (DPP-4),with hypoglycemic activity. Teneligliptin may also reduce plasma triglyceridelevels through a sustained increase in GLP-1 levels.",
+      "synonyms": [
+        "((2S,4S)-4-(4-(3-Methyl-1-Phenyl-1H-Pyrazol-5-yl)Piperazin-1-yl)Pyrrolidin-2-yl)(1,3-Thiazolidin-3-yl)Methanone",
+        "TENELIGLIPTIN",
+        "Teneligliptin",
+        "tenelia",
+        "teneligliptin",
+        "teneligliptin hydrobromide",
+        "teneligliptin hydrobromide hydrate"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "teneligliptin",
+          "relation": "BQB_IS",
+          "term": "CHEBI:136042",
+          "collection": "chebi",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:136042"
+        },
+        {
+          "label": "Teneligliptin",
+          "relation": "BQB_IS",
+          "term": "C87623",
+          "collection": "ncit",
+          "description": "A long-acting, orally bioavailable, pyrrolidine-based inhibitor of dipeptidyl peptidase 4 (DPP-4), with hypoglycemic activity. Teneligliptin may also reduce plasma triglyceride levels through a sustained increase in GLP-1 levels.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C87623"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "WGRQANOPCQRCME-PMACEKPBSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=WGRQANOPCQRCME-PMACEKPBSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL161778",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL161778"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "17390993",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/17390993"
+        },
+        {
+          "name": "pdb",
+          "accession": "M51",
+          "url": "http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/M51"
+        },
+        {
+          "name": "actor",
+          "accession": "760937-92-6",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=760937-92-6"
+        },
+        {
+          "name": "chembl",
+          "accession": "CHEMBL2147777",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL2147777"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "28ZHI4CF9C",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=28ZHI4CF9C"
+        },
+        {
+          "name": "gtopdb",
+          "accession": "9906",
+          "url": "http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=9906"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB11950",
+          "url": "http://www.drugbank.ca/drugs/DB11950"
+        },
+        {
+          "name": "molport",
+          "accession": "MolPort-039-139-824",
+          "url": "https://www.molport.com/shop/molecule-link/MolPort-039-139-824"
+        },
+        {
+          "name": "lincs",
+          "accession": "LSM-45594",
+          "url": "http://identifiers.org/lincs.smallmolecule/LSM-45594"
+        },
+        {
+          "name": "chemicalbook",
+          "accession": "CB11518541",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB11518541"
+        },
+        {
+          "name": "chebi",
+          "accession": "136042",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A136042"
+        },
+        {
+          "name": "MedChemExpress",
+          "accession": "HY-14806",
+          "url": "https://www.medchemexpress.com/HY-14806"
+        },
+        {
+          "name": "zinc",
+          "accession": "ZINC000036520254",
+          "url": "http://zinc15.docking.org/substances/ZINC000036520254"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J2.689.304F",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.689.304F"
+        },
+        {
+          "name": "bindingdb",
+          "accession": "50391565",
+          "url": "http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50391565"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "TENELIGLIPTIN",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22TENELIGLIPTIN%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "MP-513",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22MP-513%22"
+        },
+        {
+          "name": "Drug_Central",
+          "accession": "4895",
+          "url": "http://drugcentral.org/drugcard/4895"
+        },
+        {
+          "name": "pubchem",
+          "accession": "11949652",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/11949652"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 426.58,
+        "charge": 0.0,
+        "formula": "C22H30N6OS"
+      }
+    },
+    {
+      "sid": "dapagliflozin",
+      "name": "dapagliflozin",
+      "label": "dapagliflozin",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Dapagliflozin. A selective sodium-glucose co-transporter subtype 2 (SGLT2) inhibitor with antihyperglycemic activity. Dapagliflozin selectively and potently inhibits SGLT2 compared to SGLT1, which is the cotransporter of glucose in the gut.",
+      "synonyms": [
+        "(1S)-1,5-anhydro-1-[4-chloro-3-(4-ethoxybenzyl)phenyl]-D-glucitol",
+        "(2S,3R,4R,5S,6R)-2-(4-Chloro-3-(4-ethoxybenzyl)phenyl)-6- (hydroxymethyl)tetrahydro-2H-pyran-3,4,5-triol",
+        "BMS 512148",
+        "BMS-512148",
+        "BMS-512148-05",
+        "D-Glucitol, 1,5-anhydro-1-C-[4-chloro-3-[(4-ethoxyphenyl)methyl]phenyl]-, (1S)-, Compd. with (2S)-1,2-propanediol, Hydrate (1:1:1)",
+        "DAPAGLIFLOZIN",
+        "Dapagliflozin",
+        "dapagliflozin"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "dapagliflozin",
+          "relation": "BQB_IS",
+          "term": "CHEBI:85078",
+          "collection": "chebi",
+          "description": "A C-glycosyl comprising beta-D-glucose in which the anomeric hydroxy group is replaced by a 4-chloro-3-(4-ethoxybenzyl)phenyl group. Used (in the form of its propanediol monohydrate) to improve glycemic control, along with diet and exercise, in adults with type 2 diabetes.",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:85078"
+        },
+        {
+          "label": "Dapagliflozin",
+          "relation": "BQB_IS",
+          "term": "C78126",
+          "collection": "ncit",
+          "description": "A selective sodium-glucose co-transporter subtype 2 (SGLT2) inhibitor with antihyperglycemic activity. Dapagliflozin selectively and potently inhibits SGLT2 compared to SGLT1, which is the cotransporter of glucose in the gut.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C78126"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "JVHXJTBJCFBINQ-ADAARDCZSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=JVHXJTBJCFBINQ-ADAARDCZSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "molport",
+          "accession": "MolPort-009-682-875",
+          "url": "https://www.molport.com/shop/molecule-link/MolPort-009-682-875"
+        },
+        {
+          "name": "gtopdb",
+          "accession": "4594",
+          "url": "http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4594"
+        },
+        {
+          "name": "bindingdb",
+          "accession": "20880",
+          "url": "http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=20880"
+        },
+        {
+          "name": "chemicalbook",
+          "accession": "CB91011730",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB91011730"
+        },
+        {
+          "name": "zinc",
+          "accession": "ZINC000003819138",
+          "url": "http://zinc15.docking.org/substances/ZINC000003819138"
+        },
+        {
+          "name": "Drug_Central",
+          "accession": "4304",
+          "url": "http://drugcentral.org/drugcard/4304"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB06292",
+          "url": "http://www.drugbank.ca/drugs/DB06292"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J2.928.717A",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.928.717A"
+        },
+        {
+          "name": "chebi",
+          "accession": "85078",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A85078"
+        },
+        {
+          "name": "MedChemExpress",
+          "accession": "HY-10450",
+          "url": "https://www.medchemexpress.com/HY-10450"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "DAPAGLIFLOZIN",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22DAPAGLIFLOZIN%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "BMS-512148",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22BMS-512148%22"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "FARXIGA",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=FARXIGA"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "DAPAGLIFLOZIN",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=DAPAGLIFLOZIN"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "DAPAGLIFLOZIN PROPANEDIOL",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=DAPAGLIFLOZIN%20PROPANEDIOL"
+        },
+        {
+          "name": "dailymed",
+          "accession": "DAPAGLIFLOZIN",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&labeltype=human&query=ACTIVEMOIETY:(DAPAGLIFLOZIN"
+        },
+        {
+          "name": "actor",
+          "accession": "461432-26-8",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=461432-26-8"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "1ULL0QJ8UC",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=1ULL0QJ8UC"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "15451267",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/15451267"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14855234",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14855234"
+        },
+        {
+          "name": "pubchem",
+          "accession": "9887712",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/9887712"
+        },
+        {
+          "name": "selleck",
+          "accession": "Dapagliflozin",
+          "url": "http://www.selleckchem.com/products/Dapagliflozin"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL157820",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL157820"
+        },
+        {
+          "name": "pubchem_dotf",
+          "accession": "57304407",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/57304407"
+        },
+        {
+          "name": "chembl",
+          "accession": "CHEMBL429910",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL429910"
+        },
+        {
+          "name": "emolecules",
+          "accession": "32278060",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=32278060"
+        },
+        {
+          "name": "DrugBank",
+          "accession": "DB06292",
+          "url": "https://go.drugbank.com/drugs/DB06292"
+        },
+        {
+          "name": "KEGG",
+          "accession": "D08897",
+          "url": "http://www.kegg.jp/entry/D08897"
+        },
+        {
+          "name": "PMCID",
+          "accession": "PMC10706647",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10706647"
+        },
+        {
+          "name": "Wikipedia",
+          "accession": "Dapagliflozin",
+          "url": "http://en.wikipedia.org/wiki/Dapagliflozin"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 408.873,
+        "charge": 0.0,
+        "formula": "C21H25ClO6"
+      }
+    },
+    {
+      "sid": "dapagliflozin-3-o-glucuronide",
+      "name": "dapagliflozin 3-o-glucuronide",
+      "label": "dapagliflozin 3-o-glucuronide",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Dapagliflozin 3-O-glucuronide. A metabolite of Dapagliflozin.",
+      "synonyms": [
+        "Dapagliflozin M-15 metabolite",
+        "M15"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "91617971",
+          "collection": "pubchem.compound",
+          "description": null,
+          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/91617971"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "ZYZULHSUKTZGTR-PTNNFGGUSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=ZYZULHSUKTZGTR-PTNNFGGUSA-N"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": 585.0,
+        "charge": null,
+        "formula": "C27H33ClO12"
+      }
+    },
+    {
+      "sid": "dapagliflozin-2-o-glucuronide",
+      "name": "dapagliflozin 2-o-glucuronide",
+      "label": "dapagliflozin 2-o-glucuronide",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Dapagliflozin 2-O-glucuronide. A metabolite of Dapagliflozin.",
+      "synonyms": [],
+      "parents": [],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "dapagliflozin-plus-dapagliflozin-3-o-glucuronide",
+      "name": "dapagliflozin + dapagliflozin-3-o-glucuronide",
+      "label": "dapagliflozin + dapagliflozin-3-o-glucuronide",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Sum of dapagliflozin and dapagliflozin-3-o-glucuronide.",
+      "synonyms": [],
+      "parents": [],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "total-dapagliflozin",
+      "name": "total dapagliflozin",
+      "label": "total dapagliflozin",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Sum of unchanged dapagliflozin, dapagliflozin-3-o-glucuronide, dapagliflozin-2-o-glucuronide and other metabolites. Used for comparison with total radioactivity.",
+      "synonyms": [
+        "dapagliflozin total"
+      ],
+      "parents": [],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "raltegravir",
+      "name": "raltegravir",
+      "label": "raltegravir",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Raltegravir. A small molecule with activity against human immunodeficiency virus (HIV). Raltegravir is an integrase inhibitor that blocks the integration of the viral genome into the host DNA, a critical step in the pathogenesis of HIV.",
+      "synonyms": [
+        "MK 0518",
+        "MK-0518",
+        "MK0518",
+        "N-(2-(4-(4-Fluorobenzylcarbamoyl)-5-hydroxy-1-methyl-6-oxo-1,6-dihydropyrimidin-2-yl)propan-2-yl)-5-methyl-1,3,4-oxadiazole-2-carboxamide",
+        "N-(4-fluorobenzyl)-5-hydroxy-1-methyl-2-(2-{[(5-methyl-1,3,4-oxadiazol-2-yl)carbonyl]amino}propan-2-yl)-6-oxo-1,6-dihydropyrimidine-4-carboxamide",
+        "RALTEGRAVIR",
+        "Raltegravir",
+        "raltegravir",
+        "raltegravirum"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "raltegravir",
+          "relation": "BQB_IS",
+          "term": "CHEBI:82960",
+          "collection": "chebi",
+          "description": "A pyrimidone that is pyrimidin-4(3H)-one in which the hydrogens at positions 2, 3, 5 and 6 are replaced by 2-[(5-methyl-1,3,4-oxadiazole-2-carbonyl)amino]propan-2-yl, methyl, hydroxy, and N-[(4-fluorophenyl)methyl]aminoacyl groups, respectively. It is an antiretroviral drug used for treatment of HIV infection.",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:82960"
+        },
+        {
+          "label": "Raltegravir",
+          "relation": "BQB_IS",
+          "term": "C72837",
+          "collection": "ncit",
+          "description": "A small molecule with activity against human immunodeficiency virus (HIV). Raltegravir is an integrase inhibitor that blocks the integration of the viral genome into the host DNA, a critical step in the pathogenesis of HIV.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C72837"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "CZFFBEXEKNGXKS-UHFFFAOYSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=CZFFBEXEKNGXKS-UHFFFAOYSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "chebi",
+          "accession": "82960",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A82960"
+        },
+        {
+          "name": "dailymed",
+          "accession": "RALTEGRAVIR",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&labeltype=human&query=ACTIVEMOIETY:(RALTEGRAVIR"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "RALTEGRAVIR POTASSIUM",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=RALTEGRAVIR%20POTASSIUM"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "RALTEGRAVIR",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=RALTEGRAVIR"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "ISENTRESS",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=ISENTRESS"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "ISENTRESS",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22ISENTRESS%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "RALTEGRAVIR POTASSIUM",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22RALTEGRAVIR%20POTASSIUM%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "MK-0518",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22MK-0518%22"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "RALTEGRAVIR",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22RALTEGRAVIR%22"
+        },
+        {
+          "name": "MedChemExpress",
+          "accession": "HY-10353",
+          "url": "https://www.medchemexpress.com/HY-10353"
+        },
+        {
+          "name": "comptox",
+          "accession": "DTXSID2048660",
+          "url": "https://comptox.epa.gov/dashboard/DTXSID2048660"
+        },
+        {
+          "name": "Drug_Central",
+          "accession": "2352",
+          "url": "http://drugcentral.org/drugcard/2352"
+        },
+        {
+          "name": "zinc",
+          "accession": "ZINC000013831130",
+          "url": "http://zinc15.docking.org/substances/ZINC000013831130"
+        },
+        {
+          "name": "pubchem",
+          "accession": "54671008",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/54671008"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "22VKV8053U",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=22VKV8053U"
+        },
+        {
+          "name": "lincs",
+          "accession": "LSM-5233",
+          "url": "http://identifiers.org/lincs.smallmolecule/LSM-5233"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "16707449",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/16707449"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL51817",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL51817"
+        },
+        {
+          "name": "selleck",
+          "accession": "Raltegravir-(MK-0518)",
+          "url": "http://www.selleckchem.com/products/Raltegravir-(MK-0518)"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB06817",
+          "url": "http://www.drugbank.ca/drugs/DB06817"
+        },
+        {
+          "name": "brenda",
+          "accession": "41559",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=41559"
+        },
+        {
+          "name": "molport",
+          "accession": "MolPort-003-987-726",
+          "url": "https://www.molport.com/shop/molecule-link/MolPort-003-987-726"
+        },
+        {
+          "name": "chemicalbook",
+          "accession": "CB61456530",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB61456530"
+        },
+        {
+          "name": "bindingdb",
+          "accession": "25351",
+          "url": "http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=25351"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J2.509.696G",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.509.696G"
+        },
+        {
+          "name": "mcule",
+          "accession": "MCULE-4916399246",
+          "url": "https://mcule.com/MCULE-4916399246"
+        },
+        {
+          "name": "chembl",
+          "accession": "CHEMBL254316",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL254316"
+        },
+        {
+          "name": "pdb",
+          "accession": "RLT",
+          "url": "http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/RLT"
+        },
+        {
+          "name": "emolecules",
+          "accession": "32278017",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=32278017"
+        },
+        {
+          "name": "Chemspider",
+          "accession": "16445111",
+          "url": "http://www.chemspider.com/Chemical-Structure.16445111.html"
+        },
+        {
+          "name": "DrugBank",
+          "accession": "DB06817",
+          "url": "https://go.drugbank.com/drugs/DB06817"
+        },
+        {
+          "name": "KEGG",
+          "accession": "D06676",
+          "url": "http://www.kegg.jp/entry/D06676"
+        },
+        {
+          "name": "PDBeChem",
+          "accession": "RLT",
+          "url": "https://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/RLT"
+        },
+        {
+          "name": "PMCID",
+          "accession": "PMC6809206",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6809206"
+        },
+        {
+          "name": "Wikipedia",
+          "accession": "Raltegravir",
+          "url": "http://en.wikipedia.org/wiki/Raltegravir"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 444.423,
+        "charge": 0.0,
+        "formula": "C20H21FN6O5"
+      }
+    },
+    {
+      "sid": "coffee",
+      "name": "coffee",
+      "label": "coffee",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species.",
+      "synonyms": [
+        "Coffee"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Coffee",
+          "relation": "BQB_IS",
+          "term": "0004379",
+          "collection": "omit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/omit/terms?short_form=OMIT_0004379"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "tea",
+      "name": "tea",
+      "label": "tea",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured or fresh leaves of the Camellia sinensis, an evergreen shrub (bush) native to East Asia.",
+      "synonyms": [
+        "Tea"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Tea",
+          "relation": "BQB_IS",
+          "term": "0014519",
+          "collection": "omit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/omit/terms?short_form=OMIT_0014519"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "green-tea",
+      "name": "green tea",
+      "label": "green tea",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Tea derived from the dried leaves of the plant Camellia sinensis with potential antioxidant, chemopreventive, and lipid-lowering activities. Green tea contains polyphenols that are believed to be responsible for its chemopreventive effect. The polyphenol fraction contains mainly Epigallocatechin-3-gallate (EGCG) and other catechins, such as epicatechin (EC), gallocatechin gallate (GCG), epigallocatechin (EGC), and epicatechin gallate (ECG).",
+      "synonyms": [
+        "GREEN TEA LEAF",
+        "Green Tea"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Green Tea",
+          "relation": "BQB_IS",
+          "term": "C67048",
+          "collection": "ncit",
+          "description": "Tea derived from the dried leaves of the plant Camellia sinensis with potential antioxidant, chemopreventive, and lipid-lowering activities. Green tea contains polyphenols that are believed to be responsible for its chemopreventive effect. The polyphenol fraction contains mainly Epigallocatechin-3-gallate (EGCG) and other catechins, such as epicatechin (EC), gallocatechin gallate (GCG), epigallocatechin (EGC), and epicatechin gallate (ECG). Green tea polyphenols act as antioxidants and free radical scavengers and may affect enzymes involved in cellular replication and tumor angiogenesis by modulating angiogenic factors, such as vascular endothelial growth factor (VEGF).",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C67048"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "dietary-supplement",
+      "name": "dietary supplement",
+      "label": "dietary supplement",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Oral preparations containing dietary ingredient(s) intended to supplement the diet. Dietary ingredients include vitamins, minerals, herbs, amino acids, extracts and metabolites.",
+      "synonyms": [
+        "DIETARY SUPPLEMENT",
+        "Dietary Supplement",
+        "Dietary Supplements",
+        "Nutritional Supplement",
+        "Supplement",
+        "Supplements",
+        "dietary supplement",
+        "nutritional supplement",
+        "supplemental nutrition"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Dietary Supplement",
+          "relation": "BQB_IS",
+          "term": "C1505",
+          "collection": "ncit",
+          "description": "Oral preparations containing dietary ingredient(s) intended to supplement the diet.  Dietary ingredients include vitamins, minerals, herbs, amino acids, extracts and metabolites.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C1505"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "cod-plus-c6g-plus-ncod",
+      "name": "cod+c6g+ncod",
+      "label": "cod+c6g+ncod",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Sum of codeine metabolites, total codeine consisting of conjugated and non-conjugated codeine. Used in CYP2D6 phenotyping.",
+      "synonyms": [],
+      "parents": [
+        {
+          "sid": "c6g",
+          "name": "codeine-6-glucuronide",
+          "label": "codeine-6-glucuronide"
+        },
+        {
+          "sid": "cod",
+          "name": "codeine",
+          "label": "codeine"
+        },
+        {
+          "sid": "ncod",
+          "name": "norcodeine",
+          "label": "norcodeine"
+        }
+      ],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "herbal-dietary-supplement",
+      "name": "herbal dietary supplement",
+      "label": "herbal dietary supplement",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Herbal dietary supplements. Oral preparations containing herbal ingredient(s) intended to supplement the diet.",
+      "synonyms": [
+        "Herbal Supplement",
+        "herbal supplement"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Herbal Supplement",
+          "relation": "BQB_IS",
+          "term": "C93221",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C93221"
+        },
+        {
+          "label": "Dietary Supplement",
+          "relation": "BQB_IS_VERSION_OF",
+          "term": "C1505",
+          "collection": "ncit",
+          "description": "Oral preparations containing dietary ingredient(s) intended to supplement the diet.  Dietary ingredients include vitamins, minerals, herbs, amino acids, extracts and metabolites.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C1505"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "kola-nuts",
+      "name": "kola nuts",
+      "label": "kola nuts",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Seeds used for infusions or hot drinks of the plant classified under the species Cola",
+      "synonyms": [],
+      "parents": [],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "poppy-seed",
+      "name": "poppy seed",
+      "label": "poppy seed",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "A seed from an opium poppy plant (Papaver somniferum)",
+      "synonyms": [
+        "POPPY SEED",
+        "Poppy Seed",
+        "Ying Su Qiao",
+        "Ying Su Zi"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "227409002",
+          "collection": "snomedct",
+          "description": null,
+          "url": "https://browser.ihtsdotools.org/?perspective=full&conceptId1=227409002"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "FOODON:03000025",
+          "collection": "foodon",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/foodon/terms?obo_id=FOODON:03000025"
+        },
+        {
+          "label": "Poppy Seed",
+          "relation": "BQB_IS",
+          "term": "C73910",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C73910"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "nicotine",
+      "name": "nicotine",
+      "label": "nicotine",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "A plant alkaloid, found in the tobacco plant, and addictive central nervous system (CNS) stimulant that causes either ganglionic stimulation in low doses or ganglionic blockage in high doses. Nicotine acts as an agonist at the nicotinic cholinergic receptors in the autonomic ganglia, at neuromuscular junctions, and in the adrenal medulla and the brain.",
+      "synonyms": [
+        "(+-)-3-(1-Methyl-2-pyrrolidinyl)pyridine",
+        "(+-)-nicotine",
+        "(-)-Nicotine",
+        "(R,S)-nicotine",
+        "(RS)-nicotine",
+        "(S)-3-(1-Methyl-2-pyrrolidinyl)pyridine",
+        "1-Methyl-2-(3-pyridyl)pyrrolidine",
+        "NIC",
+        "NICOTINE",
+        "Nicotine",
+        "beta-Pyridyl-alpha-N-methylpyrrolidine",
+        "nicotin",
+        "nicotine",
+        "nikotin",
+        "rac-3-(1-methylpyrrolidin-2-yl)pyridine"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Nicotine",
+          "relation": "BQB_IS",
+          "term": "C691",
+          "collection": "ncit",
+          "description": "A plant alkaloid, found in the tobacco plant, and addictive central nervous system (CNS) stimulant that causes either ganglionic stimulation in low doses or ganglionic blockage in high doses. Nicotine acts as an agonist at the nicotinic cholinergic receptors in the autonomic ganglia, at neuromuscular junctions, and in the adrenal medulla and the brain. Nicotine's CNS-stimulating activities may be mediated through the release of several neurotransmitters, including acetylcholine, beta-endorphin, dopamine, norepinephrine, serotonin, and ACTH. As a result, peripheral vasoconstriction, tachycardia, and elevated blood pressure may be observed with nicotine intake. This agent may also stimulate the chemoreceptor trigger zone, thereby inducing nausea and vomiting.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C691"
+        },
+        {
+          "label": "nicotine",
+          "relation": "BQB_IS",
+          "term": "CHEBI:18723",
+          "collection": "chebi",
+          "description": "A racemate composed of equimolar amounts of (R)- and (S)-nicotine.",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:18723"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "DrugBank",
+          "accession": "DB00184",
+          "url": "https://go.drugbank.com/drugs/DB00184"
+        },
+        {
+          "name": "HMDB",
+          "accession": "HMDB0014330",
+          "url": "http://www.hmdb.ca/metabolites/HMDB0014330"
+        },
+        {
+          "name": "KEGG",
+          "accession": "C16150",
+          "url": "http://www.kegg.jp/entry/C16150"
+        },
+        {
+          "name": "KNApSAcK",
+          "accession": "C00002057",
+          "url": "http://www.knapsackfamily.com/knapsack_core/information.php?word=C00002057"
+        },
+        {
+          "name": "Wikipedia",
+          "accession": "Nicotine",
+          "url": "http://en.wikipedia.org/wiki/Nicotine"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "cocoa",
+      "name": "cocoa",
+      "label": "cocoa",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "The powdered form of cocoa bean solids remaining after cocoa butter, the fat component, is extracted from chocolate liquor, roasted cocoa beans that have been ground into a liquid state.",
+      "synonyms": [],
+      "parents": [],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "coke",
+      "name": "coke",
+      "label": "coke",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Coca-Cola, or Coke, is a carbonated soft drink manufactured by The Coca-Cola Company.",
+      "synonyms": [
+        "Coca-Cola",
+        "coca cola"
+      ],
+      "parents": [],
+      "annotations": [],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "chocolate",
+      "name": "chocolate",
+      "label": "chocolate",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "NChocolate is a preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, which may also be used as a flavoring ingredient in other foods.",
+      "synonyms": [
+        "Chocolate"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Chocolate",
+          "relation": "BQB_IS",
+          "term": "C68655",
+          "collection": "ncit",
+          "description": "A food or ingredient made from ground and roasted beans of the cacao.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C68655"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "curcuminoids",
+      "name": "curcuminoids",
+      "label": "curcuminoids",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "A curcuminoid is a linear diarylheptanoid, with molecules such as curcumin or derivatives of curcumin with different chemical groups that have been formed to increase solubility of curcumins and make them suitable for drug formulation. These compounds are natural phenols and produce a pronounced yellow color.",
+      "synonyms": [
+        "CURCUMINOIDS",
+        "Curcuminoid",
+        "Curcuminoids"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Curcuminoid",
+          "relation": "BQB_IS",
+          "term": "C125480",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C125480"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "grapefruit",
+      "name": "grapefruit",
+      "label": "grapefruit",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "The sour to semi-sweet fruit of Citrus x paradisi. Grapefruit can have interactions with drugs, often increasing the effective potency of compounds. See also 'grapefruit juice'.",
+      "synonyms": [
+        "GRAPEFRUIT",
+        "Grapefruit"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Grapefruit",
+          "relation": "BQB_IS",
+          "term": "C71974",
+          "collection": "ncit",
+          "description": "The sour to semi-sweet fruit of Citrus x paradisi. Grapefruit can have interactions with drugs, often increasing the effective potency of compounds.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C71974"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "grapefruit-juice",
+      "name": "grapefruit juice",
+      "label": "grapefruit juice",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Grapefruit juice is the juice from grapefruits. It is rich in vitamin C and ranges from sweet-tart to very sour. Grapefruit juice is important in medicine because of its interactions with many common drugs including caffeine and medications.",
+      "synonyms": [
+        "GRAPEFRUIT JUICE",
+        "Grapefruit Juice"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Grapefruit Juice",
+          "relation": "BQB_IS",
+          "term": "C71961",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C71961"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "apple-juice",
+      "name": "apple juice",
+      "label": "apple juice",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Apple juice is the juice from apples. Apple juice is a fruit juice made by the maceration and pressing of an apple.",
+      "synonyms": [],
+      "parents": [],
+      "annotations": [
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "FOODON:00001059",
+          "collection": "foodon",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/foodon/terms?obo_id=FOODON:00001059"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "226491003",
+          "collection": "snomedct",
+          "description": null,
+          "url": "https://browser.ihtsdotools.org/?perspective=full&conceptId1=226491003"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "orange-juice",
+      "name": "orange juice",
+      "label": "orange juice",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Orange juice is the juice from oranges.",
+      "synonyms": [
+        "ORANGE JUICE",
+        "Orange Juice"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Orange Juice",
+          "relation": "BQB_IS",
+          "term": "C66257",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C66257"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "citrus-juice",
+      "name": "citrus juice",
+      "label": "citrus juice",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Citrus juice is the juice from citrus fruits.",
+      "synonyms": [
+        "CITRUS JUICE",
+        "Citrus Juice"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Citrus Juice",
+          "relation": "BQB_IS",
+          "term": "C71962",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C71962"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "FOODON:03305742",
+          "collection": "foodon",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/foodon/terms?obo_id=FOODON:03305742"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "citrus-fruit",
+      "name": "citrus fruit",
+      "label": "citrus fruit",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Citrus fruit.",
+      "synonyms": [
+        "CITRUS FRUIT",
+        "Citrus Fruit"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Citrus Fruit",
+          "relation": "BQB_IS",
+          "term": "C71965",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C71965"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "watercress",
+      "name": "watercress",
+      "label": "watercress",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Watercress or yellowcress is a species of aquatic flowering plant in the cabbage family Brassicaceae. Its botanical name is Nasturtium officinale.",
+      "synonyms": [
+        "Indian cress",
+        "Nasturtium officinale",
+        "WATERCRESS",
+        "Watercress",
+        "watercress"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Watercress",
+          "relation": "BQB_IS",
+          "term": "C75666",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C75666"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "cabbage",
+      "name": "cabbage",
+      "label": "cabbage",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "Cabbage (comprising several cultivars of Brassica oleracea) is a leafy green, red (purple), or white (pale green) biennial plant grown as an annual vegetable crop for its dense-leaved heads.",
+      "synonyms": [
+        "CABBAGE",
+        "Cabbage"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Cabbage",
+          "relation": "BQB_IS",
+          "term": "C71999",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C71999"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "brussel-sprouts",
+      "name": "brussel sprouts",
+      "label": "brussel sprouts",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "The Brussels sprout is a member of the Gemmifera Group of cabbages (Brassica oleracea), grown for its edible buds.",
+      "synonyms": [
+        "Brussels sprouts yellows phytoplasma"
+      ],
+      "parents": [
+        {
+          "sid": "cabbage",
+          "name": "cabbage",
+          "label": "cabbage"
+        }
+      ],
+      "annotations": [
+        {
+          "label": "Brussels sprouts yellows phytoplasma",
+          "relation": "BQB_IS",
+          "term": "657506",
+          "collection": "taxonomy",
+          "description": null,
+          "url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=657506"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "GC_ID",
+          "accession": "11",
+          "url": "https://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=cgencodes#SG11"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "pomegranate-juice",
+      "name": "pomegranate-juice",
+      "label": "pomegranate-juice",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "A natural juice isolated from the fruit of the plant Punica granatum with antioxidant, potential antineoplastic, and chemopreventive activities.",
+      "synonyms": [
+        "POMEGRANATE JUICE",
+        "Pomegranate Juice"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "Pomegranate Juice",
+          "relation": "BQB_IS",
+          "term": "C26665",
+          "collection": "ncit",
+          "description": "A natural juice isolated from the fruit of the plant Punica granatum with antioxidant, potential antineoplastic, and chemopreventive activities.  Pomegranate juice contains flavonoids which promote differentiation and apoptosis in tumor cells by down-regulating vascular endothelial growth factor (VEGF) and stimulating migration inhibitory factor (MIF), thereby inhibiting angiogenesis. The flavonoids in pomegranate juice also scavenge reactive oxygen species (ROS) and, in some cell types, may prevent ROS-mediated cell injury and death. (NCI04)",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C26665"
+        },
+        {
+          "label": "Pomegranate",
+          "relation": "BQB_IS_VERSION_OF",
+          "term": "C73929",
+          "collection": "ncit",
+          "description": null,
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C73929"
+        }
+      ],
+      "xrefs": [],
+      "measurement_type": null,
+      "substance": {
+        "mass": null,
+        "charge": null,
+        "formula": null
+      }
+    },
+    {
+      "sid": "methacetin",
+      "name": "methacetin",
+      "label": "methacetin",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "A member of the class of acetamides that is paracetamol in which the hydrogen of phenolic hydroxy group has been replaced by a methyl group.",
+      "synonyms": [
+        "4'-methoxyacetanilide",
+        "4-(acetylamino)anisole",
+        "4-methoxyacetanilide",
+        "N-(4-methoxyphenyl)acetamide",
+        "N-(4-methoxyphenyl)acetic acid amide",
+        "N-acetyl-p-anisidine",
+        "N-acetyl-p-methoxyaniline",
+        "NSC 4687",
+        "aceto-p-anisidide",
+        "acetyl-p-anisidine",
+        "methacetin",
+        "p-acetanisidine",
+        "p-methoxyacetanilide"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "methacetin",
+          "relation": "BQB_IS",
+          "term": "CHEBI:139354",
+          "collection": "chebi",
+          "description": "A member of the class of acetamides that is paracetamol in which the hydrogen of phenolic hydroxy group has been replaced by a methyl group.",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:139354"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "XVAIDCNLVLTVFM-UHFFFAOYSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=XVAIDCNLVLTVFM-UHFFFAOYSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "emolecules",
+          "accession": "507273",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=507273"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14940752",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14940752"
+        },
+        {
+          "name": "actor",
+          "accession": "51-66-1",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=51-66-1"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "13E468TFHP",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=13E468TFHP"
+        },
+        {
+          "name": "brenda",
+          "accession": "111338",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=111338"
+        },
+        {
+          "name": "chemicalbook",
+          "accession": "CB6310310",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB6310310"
+        },
+        {
+          "name": "brenda",
+          "accession": "36660",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=36660"
+        },
+        {
+          "name": "brenda",
+          "accession": "111272",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=111272"
+        },
+        {
+          "name": "brenda",
+          "accession": "32921",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=32921"
+        },
+        {
+          "name": "brenda",
+          "accession": "145350",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=145350"
+        },
+        {
+          "name": "brenda",
+          "accession": "145749",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=145749"
+        },
+        {
+          "name": "brenda",
+          "accession": "50924",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=50924"
+        },
+        {
+          "name": "brenda",
+          "accession": "143155",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=143155"
+        },
+        {
+          "name": "brenda",
+          "accession": "57494",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=57494"
+        },
+        {
+          "name": "chebi",
+          "accession": "139354",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A139354"
+        },
+        {
+          "name": "zinc",
+          "accession": "ZINC000000142828",
+          "url": "http://zinc15.docking.org/substances/ZINC000000142828"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL17955676",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL17955676"
+        },
+        {
+          "name": "molport",
+          "accession": "MolPort-001-023-630",
+          "url": "https://www.molport.com/shop/molecule-link/MolPort-001-023-630"
+        },
+        {
+          "name": "chembl",
+          "accession": "CHEMBL3183230",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL3183230"
+        },
+        {
+          "name": "pdb",
+          "accession": "T9V",
+          "url": "http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/T9V"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J4.122J",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J4.122J"
+        },
+        {
+          "name": "comptox",
+          "accession": "DTXSID6026325",
+          "url": "https://comptox.epa.gov/dashboard/DTXSID6026325"
+        },
+        {
+          "name": "pubchem",
+          "accession": "5827",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/5827"
+        },
+        {
+          "name": "mcule",
+          "accession": "MCULE-5011233430",
+          "url": "https://mcule.com/MCULE-5011233430"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL171415",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL171415"
+        },
+        {
+          "name": "nmrshiftdb2",
+          "accession": "89598",
+          "url": "http://nmrshiftdb.org/molecule/89598"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 165.189,
+        "charge": 0.0,
+        "formula": "C9H11NO2"
+      }
+    },
+    {
+      "sid": "13cmet",
+      "name": "13C-methacetin",
+      "label": "13C-methacetin",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "A (13)C-modified compound that is methacetin which has (13)C as the predominant isotope of the methoxy carbon. In normal subjects, methacetin is rapidly metabolised in the liver, being dealkylated by hepatic CYP1A2 to give paracetamol (acetaminophen), the methyl of the methoxy group is eliminated as CO2.",
+      "synonyms": [
+        "(13)C-MBT",
+        "(13)C-methacetin",
+        "N-{4-[((13)C)methyloxy]phenyl}acetamide",
+        "[(13)C]methacetin",
+        "methacetin C-13",
+        "methacetin methoxy-C-13",
+        "methacetin-(methoxy-(13)C)",
+        "p-acetanisidine C-13"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "methacetin-(methoxy-(13)C)",
+          "relation": "BQB_IS",
+          "term": "CHEBI:139355",
+          "collection": "chebi",
+          "description": "A (13)C-modified compound that is methacetin which has (13)C as the predominant isotope of the methoxy carbon. In normal subjects, methacetin is rapidly metabolised in the liver, being dealkylated by hepatic CYP1A2 to give paracetamol (acetaminophen); the methyl of the methoxy group is eliminated as CO2. Administering methacetin-(methoxy-(13)C) to a patient enables the liver (cytochrome P-450 1A2) function to be determined quickly and precisely by measuring the (13)CO2 in the breath (e.g. by isotope-selective non-dispersive infrared spectrometry (NDIRS)).",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:139355"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "XVAIDCNLVLTVFM-VQEHIDDOSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=XVAIDCNLVLTVFM-VQEHIDDOSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "pubchem",
+          "accession": "9793926",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/9793926"
+        },
+        {
+          "name": "emolecules",
+          "accession": "25690988",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=25690988"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB15885",
+          "url": "http://www.drugbank.ca/drugs/DB15885"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "14748105",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/14748105"
+        },
+        {
+          "name": "chebi",
+          "accession": "139355",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A139355"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "6RR3G0X81D",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=6RR3G0X81D"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 166.184,
+        "charge": 0.0,
+        "formula": "C8[13C]H11NO2"
+      }
+    },
+    {
+      "sid": "co2",
+      "name": "carbon dioxide",
+      "label": "carbon dioxide",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "A colorless, odorless, incombustible gas resulting from the oxidation of carbon.A one-carbon compound with formula CO2 in which the carbon is attached to each oxygen atom by a double bond. A colourless, odourless gas under normal conditions, it is produced during respiration by all animals, fungi and microorganisms that depend directly or indirectly on living or decaying plants for food.",
+      "synonyms": [
+        "CARBON DIOXIDE",
+        "CO2",
+        "Carbon Dioxide",
+        "Carbon dioxide",
+        "Carbonic Acid Gas",
+        "E 290",
+        "E-290",
+        "E290",
+        "R-744",
+        "[CO2]",
+        "carbon dioxide",
+        "carbonic anhydride",
+        "dioxidocarbon",
+        "methanedione"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "carbon dioxide",
+          "relation": "BQB_IS",
+          "term": "CHEBI:16526",
+          "collection": "chebi",
+          "description": "A one-carbon compound with formula CO2 in which the carbon is attached to each oxygen atom by a double bond. A colourless, odourless gas under normal conditions, it is produced during respiration by all animals, fungi and microorganisms that depend directly or indirectly on living or decaying plants for food.",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16526"
+        },
+        {
+          "label": "Carbon Dioxide",
+          "relation": "BQB_IS",
+          "term": "C65288",
+          "collection": "ncit",
+          "description": "A colorless, odorless, incombustible gas resulting from the oxidation of carbon.",
+          "url": "https://www.ebi.ac.uk/ols4/ontologies/ncit/terms?short_form=NCIT_C65288"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=CURLTUGMZLYLDI-UHFFFAOYSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "pdb",
+          "accession": "CO2",
+          "url": "http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/CO2"
+        },
+        {
+          "name": "chebi",
+          "accession": "16526",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A16526"
+        },
+        {
+          "name": "chembl",
+          "accession": "CHEMBL1231871",
+          "url": "https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL1231871"
+        },
+        {
+          "name": "emolecules",
+          "accession": "474232",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=474232"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J43.600C",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J43.600C"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL915",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL915"
+        },
+        {
+          "name": "kegg_ligand",
+          "accession": "C00011",
+          "url": "http://www.genome.jp/dbget-bin/www_bget?C00011"
+        },
+        {
+          "name": "brenda",
+          "accession": "55725",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=55725"
+        },
+        {
+          "name": "metabolights",
+          "accession": "MTBLC16526",
+          "url": "http://www.ebi.ac.uk/metabolights/MTBLC16526"
+        },
+        {
+          "name": "chemicalbook",
+          "accession": "CB5778186",
+          "url": "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB5778186"
+        },
+        {
+          "name": "HMDB",
+          "accession": "HMDB0001967",
+          "url": "http://www.hmdb.ca/metabolites/HMDB0001967"
+        },
+        {
+          "name": "rhea",
+          "accession": "16526",
+          "url": "http://www.rhea-db.org/searchresults?q=CHEBI:16526"
+        },
+        {
+          "name": "brenda",
+          "accession": "28",
+          "url": "https://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=28"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "15119564",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/15119564"
+        },
+        {
+          "name": "pubchem",
+          "accession": "280",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/280"
+        },
+        {
+          "name": "actor",
+          "accession": "124-38-9",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=124-38-9"
+        },
+        {
+          "name": "recon",
+          "accession": "co2",
+          "url": "https://vmh.uni.lu/#metabolite/co2"
+        },
+        {
+          "name": "fdasrs",
+          "accession": "142M471B3J",
+          "url": "https://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=142M471B3J"
+        },
+        {
+          "name": "actor",
+          "accession": "14485-07-5",
+          "url": "http://actor.epa.gov/actor/chemical.xhtml?casrn=14485-07-5"
+        },
+        {
+          "name": "rxnorm",
+          "accession": "CARBON DIOXIDE",
+          "url": "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=CARBON%20DIOXIDE"
+        },
+        {
+          "name": "Drug_Central",
+          "accession": "4256",
+          "url": "http://drugcentral.org/drugcard/4256"
+        },
+        {
+          "name": "comptox",
+          "accession": "DTXSID4027028",
+          "url": "https://comptox.epa.gov/dashboard/DTXSID4027028"
+        },
+        {
+          "name": "drugbank",
+          "accession": "DB09157",
+          "url": "http://www.drugbank.ca/drugs/DB09157"
+        },
+        {
+          "name": "clinicaltrials",
+          "accession": "CARBON DIOXIDE",
+          "url": "https://www.clinicaltrials.gov/ct2/results?&type=Intr&intr=%22CARBON%20DIOXIDE%22"
+        },
+        {
+          "name": "dailymed",
+          "accession": "CARBON DIOXIDE",
+          "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&labeltype=human&query=ACTIVEMOIETY:(CARBON%20DIOXIDE"
+        },
+        {
+          "name": "KEGG",
+          "accession": "C00011",
+          "url": "http://www.kegg.jp/entry/C00011"
+        },
+        {
+          "name": "KEGG",
+          "accession": "D00004",
+          "url": "http://www.kegg.jp/entry/D00004"
+        },
+        {
+          "name": "MolBase",
+          "accession": "752",
+          "url": "http://www.molbase.com/en/index.php?app=search&search_keyword=752"
+        },
+        {
+          "name": "PDBeChem",
+          "accession": "CO2",
+          "url": "https://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/CO2"
+        },
+        {
+          "name": "PPDB",
+          "accession": "119",
+          "url": "https://sitem.herts.ac.uk/aeru/ppdb/en/Reports/119.htm"
+        },
+        {
+          "name": "Wikipedia",
+          "accession": "Carbon_dioxide",
+          "url": "http://en.wikipedia.org/wiki/Carbon_dioxide"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 44.01,
+        "charge": 0.0,
+        "formula": "CO2"
+      }
+    },
+    {
+      "sid": "13cco2",
+      "name": "13C-co2",
+      "label": "13C-carbon dioxide",
+      "deprecated": false,
+      "ntype": "substance",
+      "dtype": "undefined",
+      "description": "13C carbon dioxide is a (13)C-modified compound that is carbon dioxide in which the carbon is present as its (13)C isotope. It has a role as a diagnostic agent.",
+      "synonyms": [
+        "((13)C)carbon dioxide",
+        "((13)C)methanedione",
+        "(13)CO2",
+        "13C-hydrogencarbonate",
+        "carbon dioxide((13)C)",
+        "carbon-(13)C dioxide"
+      ],
+      "parents": [],
+      "annotations": [
+        {
+          "label": "((13)C)carbon dioxide",
+          "relation": "BQB_IS",
+          "term": "CHEBI:139538",
+          "collection": "chebi",
+          "description": "A (13)C-modified compound that is carbon dioxide in which the carbon is present as its (13)C isotope.",
+          "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:139538"
+        },
+        {
+          "label": null,
+          "relation": "BQB_IS",
+          "term": "CURLTUGMZLYLDI-OUBTZVSYSA-N",
+          "collection": "inchikey",
+          "description": null,
+          "url": "https://www.chemspider.com/search?params=CURLTUGMZLYLDI-OUBTZVSYSA-N"
+        }
+      ],
+      "xrefs": [
+        {
+          "name": "pubchem",
+          "accession": "10129882",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/compound/10129882"
+        },
+        {
+          "name": "emolecules",
+          "accession": "26752222",
+          "url": "https://www.emolecules.com/cgi-bin/more?vid=26752222"
+        },
+        {
+          "name": "pubchem_tpharma",
+          "accession": "15119567",
+          "url": "http://pubchem.ncbi.nlm.nih.gov/substance/15119567"
+        },
+        {
+          "name": "comptox",
+          "accession": "DTXSID90435908",
+          "url": "https://comptox.epa.gov/dashboard/DTXSID90435908"
+        },
+        {
+          "name": "chebi",
+          "accession": "139538",
+          "url": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A139538"
+        },
+        {
+          "name": "surechembl",
+          "accession": "SCHEMBL71642",
+          "url": "https://www.surechembl.org/chemical/SCHEMBL71642"
+        },
+        {
+          "name": "nikkaji",
+          "accession": "J298.922K",
+          "url": "http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J298.922K"
+        }
+      ],
+      "measurement_type": null,
+      "substance": {
+        "mass": 45.001,
+        "charge": 0.0,
+        "formula": "[13C]O2"
+      }
+    }
+  ]
+}

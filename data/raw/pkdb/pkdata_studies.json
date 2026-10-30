@@ -1,0 +1,1254 @@
+{
+  "source": "PK-DB REST API",
+  "endpoint": "https://pk-db.com/api/v1/pkdata/studies/",
+  "description": "Study metadata with licence and substance information. Studies with licence='open' may have publicly accessible TSV data files at https://pk-db.com/media/data/",
+  "fields": [
+    "sid",
+    "name",
+    "licence",
+    "access",
+    "date",
+    "creator",
+    "curators",
+    "substances",
+    "reference_pmid",
+    "reference_title",
+    "reference_date"
+  ],
+  "licence_breakdown": {
+    "open": 3,
+    "closed": 57,
+    "total": 60
+  },
+  "count": 60,
+  "data": [
+    {
+      "sid": "PKDB00954",
+      "name": "Rosenkranz1996a",
+      "licence": "closed",
+      "access": "public",
+      "date": "2024-12-13",
+      "creator": "mii-halina",
+      "curators": [
+        "mii-halina",
+        "mkoenig"
+      ],
+      "substances": [
+        "creatinine",
+        "glimepiride",
+        "hydroxyglimepiride (M1)",
+        "carboxyglimepiride (M2)"
+      ],
+      "reference_pmid": "8960852",
+      "reference_title": "Pharmacokinetics and safety of glimepiride at clinically effective doses in diabetic patients with renal impairment.",
+      "reference_date": "1997-03-28"
+    },
+    {
+      "sid": "PKDB00955",
+      "name": "Shukla2004",
+      "licence": "closed",
+      "access": "public",
+      "date": "2024-12-13",
+      "creator": "mii-halina",
+      "curators": [
+        "mii-halina",
+        "mkoenig"
+      ],
+      "substances": [
+        "glimepiride",
+        "hydroxyglimepiride (M1)",
+        "carboxyglimepiride (M2)"
+      ],
+      "reference_pmid": "14742789",
+      "reference_title": "Glimepiride pharmacokinetics in obese versus non-obese diabetic patients.",
+      "reference_date": "2004-03-15"
+    },
+    {
+      "sid": "PKDB00956",
+      "name": "Suzuki2006",
+      "licence": "closed",
+      "access": "public",
+      "date": "2024-12-13",
+      "creator": "mii-halina",
+      "curators": [
+        "mii-halina",
+        "mkoenig"
+      ],
+      "substances": [
+        "glimepiride",
+        "D-glucose",
+        "insulin"
+      ],
+      "reference_pmid": "16325295",
+      "reference_title": "Effect of CYP2C9 genetic polymorphisms on the efficacy and pharmacokinetics of glimepiride in subjects with type 2 diabetes.",
+      "reference_date": "2007-10-04"
+    },
+    {
+      "sid": "PKDB00957",
+      "name": "Wang2005",
+      "licence": "closed",
+      "access": "public",
+      "date": "2024-12-13",
+      "creator": "mii-halina",
+      "curators": [
+        "mii-halina",
+        "mkoenig"
+      ],
+      "substances": [
+        "glimepiride"
+      ],
+      "reference_pmid": "16003298",
+      "reference_title": "Pharmacokinetics of glimepiride and cytochrome P450 2C9 genetic polymorphisms.",
+      "reference_date": "2005-08-18"
+    },
+    {
+      "sid": "PKDB00958",
+      "name": "Yoo2011",
+      "licence": "closed",
+      "access": "public",
+      "date": "2024-12-13",
+      "creator": "mii-halina",
+      "curators": [
+        "mii-halina",
+        "mkoenig"
+      ],
+      "substances": [
+        "glimepiride"
+      ],
+      "reference_pmid": "21476064",
+      "reference_title": "Population pharmacokinetic analysis of glimepiride with CYP2C9 genetic polymorphism in healthy Korean subjects.",
+      "reference_date": "2011-12-20"
+    },
+    {
+      "sid": "PKDB00181",
+      "name": "Allonen1981",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-09-26",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam"
+      ],
+      "reference_pmid": "6117393",
+      "reference_title": "Midazolam kinetics.",
+      "reference_date": "1982-01-28"
+    },
+    {
+      "sid": "PKDB00228",
+      "name": "Backman1998",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-10-31",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "1-hydroxymidazolam",
+        "rifampicin",
+        "itraconazole"
+      ],
+      "reference_pmid": "9591931",
+      "reference_title": "The area under the plasma concentration-time curve for oral midazolam is 400-fold larger during treatment with itraconazole than with rifampicin.",
+      "reference_date": "1998-06-11"
+    },
+    {
+      "sid": "PKDB00251",
+      "name": "Bornemann1985",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-11-04",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "1-hydroxymidazolam"
+      ],
+      "reference_pmid": "2932334",
+      "reference_title": "Dose dependent pharmacokinetics of midazolam.",
+      "reference_date": "1985-12-13"
+    },
+    {
+      "sid": "PKDB00326",
+      "name": "Chaobal2005",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-07-19",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "grapefruit juice",
+        "midazolam",
+        "rifampicin",
+        "alfentanil",
+        "troleandomycin"
+      ],
+      "reference_pmid": "16321619",
+      "reference_title": "Single-point sampling for assessment of constitutive, induced, and inhibited cytochrome P450 3A activity with alfentanil or midazolam.",
+      "reference_date": "2005-12-20"
+    },
+    {
+      "sid": "PKDB00308",
+      "name": "Dyk2019",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-06-30",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "rifampicin",
+        "clarithromycin"
+      ],
+      "reference_pmid": "31611799",
+      "reference_title": "Validation of a 3-h Sampling Interval to Assess Variability in Cytochrome P450 3A Phenotype and the Impact of Induction and Mechanism-Based Inhibition Using Midazolam as a Probe Substrate.",
+      "reference_date": "2019-09-27"
+    },
+    {
+      "sid": "PKDB00327",
+      "name": "Eap2004",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-07-19",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "1-hydroxymidazolam",
+        "4-hydroxymidazolam",
+        "rifampicin",
+        "ketoconazole"
+      ],
+      "reference_pmid": "15114429",
+      "reference_title": "Oral administration of a low dose of midazolam (75 microg) as an in vivo probe for CYP3A activity.",
+      "reference_date": "2004-09-30"
+    },
+    {
+      "sid": "PKDB00322",
+      "name": "Eeckhoudt2001",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-07-18",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "rifampicin"
+      ],
+      "reference_pmid": "11471773",
+      "reference_title": "Midazolam and cortisol metabolism before and after CYP3A induction in humans.",
+      "reference_date": "2001-12-04"
+    },
+    {
+      "sid": "PKDB00249",
+      "name": "Erp2011",
+      "licence": "open",
+      "access": "public",
+      "date": "2019-11-04",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "grapefruit juice",
+        "midazolam"
+      ],
+      "reference_pmid": "20512335",
+      "reference_title": "Marginal increase of sunitinib exposure by grapefruit juice.",
+      "reference_date": "2011-04-11"
+    },
+    {
+      "sid": "PKDB00209",
+      "name": "Farkas2007",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-10-09",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "grapefruit juice",
+        "pomegranate-juice",
+        "midazolam"
+      ],
+      "reference_pmid": "17322140",
+      "reference_title": "Pomegranate juice does not impair clearance of oral or intravenous midazolam, a probe for cytochrome P450-3A activity: comparison with grapefruit juice.",
+      "reference_date": "2007-09-05"
+    },
+    {
+      "sid": "PKDB00205",
+      "name": "Gorski2003",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-10-09",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "15N3-midazolam",
+        "rifampicin"
+      ],
+      "reference_pmid": "12966371",
+      "reference_title": "The effect of age, sex, and rifampin administration on intestinal and hepatic cytochrome P450 3A activity.",
+      "reference_date": "2003-09-24"
+    },
+    {
+      "sid": "PKDB00179",
+      "name": "Greenblatt1986",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-09-26",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "cimetidine",
+        "ranitidine",
+        "midazolam"
+      ],
+      "reference_pmid": "2935051",
+      "reference_title": "Absence of interaction of cimetidine and ranitidine with intravenous and oral midazolam.",
+      "reference_date": "1986-02-18"
+    },
+    {
+      "sid": "PKDB00298",
+      "name": "Greenblatt2004",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-06-23",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam"
+      ],
+      "reference_pmid": "15145968",
+      "reference_title": "Kinetics and EEG effects of midazolam during and after 1-minute, 1-hour, and 3-hour intravenous infusions.",
+      "reference_date": "2004-09-20"
+    },
+    {
+      "sid": "PKDB00252",
+      "name": "Kawaguchi-Suzuki2017",
+      "licence": "open",
+      "access": "public",
+      "date": "2019-11-04",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "grapefruit juice",
+        "midazolam",
+        "1-hydroxymidazolam"
+      ],
+      "reference_pmid": "27503364",
+      "reference_title": "Effect of Low-Furanocoumarin Hybrid Grapefruit Juice Consumption on Midazolam Pharmacokinetics.",
+      "reference_date": "2017-08-16"
+    },
+    {
+      "sid": "PKDB00211",
+      "name": "Kharasch2004",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-10-09",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "grapefruit juice",
+        "midazolam",
+        "rifampicin",
+        "alfentanil",
+        "troleandomycin"
+      ],
+      "reference_pmid": "15536460",
+      "reference_title": "Intravenous and oral alfentanil as in vivo probes for hepatic and first-pass cytochrome P450 3A activity: noninvasive assessment by use of pupillary miosis.",
+      "reference_date": "2004-12-02"
+    },
+    {
+      "sid": "PKDB00207",
+      "name": "Kupferschmidt1995",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-10-09",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "grapefruit juice",
+        "midazolam",
+        "1-hydroxymidazolam"
+      ],
+      "reference_pmid": "7628179",
+      "reference_title": "Interaction between grapefruit juice and midazolam in humans.",
+      "reference_date": "1995-09-07"
+    },
+    {
+      "sid": "PKDB00305",
+      "name": "Liu2017",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-06-30",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "ketoconazole"
+      ],
+      "reference_pmid": "28004396",
+      "reference_title": "The absorption kinetics of ketoconazole plays a major role in explaining the reported variability in the level of interaction with midazolam: Interplay between formulation and inhibition of gut wall and liver metabolism.",
+      "reference_date": "2017-10-09"
+    },
+    {
+      "sid": "PKDB00321",
+      "name": "McCrea1999",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-07-18",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "1-hydroxymidazolam",
+        "ketoconazole",
+        "[14C N-methyl] erythromycin"
+      ],
+      "reference_pmid": "10586386",
+      "reference_title": "Concurrent administration of the erythromycin breath test (EBT) and oral midazolam as in vivo probes for CYP3A activity.",
+      "reference_date": "1999-12-16"
+    },
+    {
+      "sid": "PKDB00307",
+      "name": "Olkkola1994",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-06-30",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "ketoconazole",
+        "itraconazole"
+      ],
+      "reference_pmid": "8181191",
+      "reference_title": "Midazolam should be avoided in patients receiving the systemic antimycotics ketoconazole or itraconazole.",
+      "reference_date": "1994-06-14"
+    },
+    {
+      "sid": "PKDB00244",
+      "name": "Pentikis2007",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-11-03",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "1-hydroxymidazolam",
+        "rifaximin"
+      ],
+      "reference_pmid": "17896891",
+      "reference_title": "The effect of multiple-dose, oral rifaximin on the pharmacokinetics of intravenous and oral midazolam in healthy volunteers.",
+      "reference_date": "2007-12-13"
+    },
+    {
+      "sid": "PKDB00208",
+      "name": "Rogers1999",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-10-09",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "grapefruit juice",
+        "midazolam",
+        "lovastatin"
+      ],
+      "reference_pmid": "10546919",
+      "reference_title": "Grapefruit juice has minimal effects on plasma concentrations of lovastatin-derived 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitors.",
+      "reference_date": "1999-11-10"
+    },
+    {
+      "sid": "PKDB00323",
+      "name": "Shord2010",
+      "licence": "open",
+      "access": "public",
+      "date": "2020-07-19",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "1-hydroxymidazolam",
+        "clotrimazole"
+      ],
+      "reference_pmid": "20233179",
+      "reference_title": "Effects of oral clotrimazole troches on the pharmacokinetics of oral and intravenous midazolam.",
+      "reference_date": "2010-10-15"
+    },
+    {
+      "sid": "PKDB00217",
+      "name": "Veronese2003",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-10-25",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "grapefruit juice",
+        "midazolam",
+        "[14C N-methyl] erythromycin"
+      ],
+      "reference_pmid": "12953340",
+      "reference_title": "Exposure-dependent inhibition of intestinal and hepatic CYP3A4 in vivo by grapefruit juice.",
+      "reference_date": "2003-11-10"
+    },
+    {
+      "sid": "PKDB00324",
+      "name": "Yu2004",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-07-19",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig"
+      ],
+      "substances": [
+        "midazolam",
+        "1-hydroxymidazolam",
+        "rifampicin",
+        "itraconazole"
+      ],
+      "reference_pmid": "15289787",
+      "reference_title": "Effect of the CYP3A5 genotype on the pharmacokinetics of intravenous midazolam during inhibited and induced metabolic states.",
+      "reference_date": "2004-08-24"
+    },
+    {
+      "sid": "PKDB00345",
+      "name": "Backman2000",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-17",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "simvastatin acid",
+        "gemfibrozil"
+      ],
+      "reference_pmid": "10976543",
+      "reference_title": "Plasma concentrations of active simvastatin acid are increased by gemfibrozil.",
+      "reference_date": "2000-10-10"
+    },
+    {
+      "sid": "PKDB00361",
+      "name": "Bergman2004",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-24",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "simvastatin acid",
+        "Active HMG-CoA reductase inhibitors (simvastatin)",
+        "Total HMG-CoA reductase inhibitors (simvastatin)",
+        "fenofibrate"
+      ],
+      "reference_pmid": "15317833",
+      "reference_title": "Simvastatin does not have a clinically significant pharmacokinetic interaction with fenofibrate in humans.",
+      "reference_date": "2004-12-06"
+    },
+    {
+      "sid": "PKDB00351",
+      "name": "Cheng1992",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-18",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "lovastatin",
+        "Active HMG-CoA reductase inhibitors (lovastatin)",
+        "Total HMG-CoA reductase inhibitors (lovastatin)",
+        "simvastatin",
+        "Active HMG-CoA reductase inhibitors (simvastatin)",
+        "Total HMG-CoA reductase inhibitors (simvastatin)"
+      ],
+      "reference_pmid": "1488408",
+      "reference_title": "Influence of age and gender on the plasma profiles of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitory activity following multiple doses of lovastatin and simvastatin.",
+      "reference_date": "1993-02-19"
+    },
+    {
+      "sid": "PKDB00367",
+      "name": "Cheng1994",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-25",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "Total HMG-CoA reductase inhibitors (simvastatin)",
+        "total simvastatin metabolites"
+      ],
+      "reference_pmid": "8149872",
+      "reference_title": "Metabolic disposition of simvastatin in patients with T-tube drainage.",
+      "reference_date": "1994-05-06"
+    },
+    {
+      "sid": "PKDB00243",
+      "name": "Chung2006",
+      "licence": "closed",
+      "access": "public",
+      "date": "2019-11-03",
+      "creator": "yduport",
+      "curators": [
+        "yduport",
+        "mkoenig",
+        "FlorBar"
+      ],
+      "substances": [
+        "midazolam",
+        "rifampicin",
+        "ketoconazole",
+        "simvastatin"
+      ],
+      "reference_pmid": "16580903",
+      "reference_title": "Comparison of midazolam and simvastatin as cytochrome P450 3A probes.",
+      "reference_date": "2006-05-02"
+    },
+    {
+      "sid": "PKDB00352",
+      "name": "Gehin2015",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-18",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "simvastatin acid",
+        "setipiprant"
+      ],
+      "reference_pmid": "25323804",
+      "reference_title": "Pharmacokinetic interactions between simvastatin and setipiprant, a CRTH2 antagonist.",
+      "reference_date": "2015-08-31"
+    },
+    {
+      "sid": "PKDB00356",
+      "name": "Harvey2018",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-19",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "simvastatin acid",
+        "osimertinib"
+      ],
+      "reference_pmid": "30171779",
+      "reference_title": "Effect of multiple-dose osimertinib on the pharmacokinetics of simvastatin and rosuvastatin.",
+      "reference_date": "2019-11-14"
+    },
+    {
+      "sid": "PKDB00355",
+      "name": "Hsyu2001",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-19",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "atorvastatin",
+        "Active HMG-CoA \treductase inhibitors (atorvastatin)",
+        "simvastatin",
+        "Active HMG-CoA reductase inhibitors (simvastatin)",
+        "nelfinavir"
+      ],
+      "reference_pmid": "11709322",
+      "reference_title": "Pharmacokinetic interactions between nelfinavir and 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitors atorvastatin and simvastatin.",
+      "reference_date": "2002-02-04"
+    },
+    {
+      "sid": "PKDB00364",
+      "name": "Jacobson2004",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-24",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig",
+        "jbrandhorst"
+      ],
+      "substances": [
+        "itraconazole",
+        "clarithromycin",
+        "pravastatin",
+        "atorvastatin",
+        "simvastatin",
+        "simvastatin acid",
+        "verapamil",
+        "mibefradil"
+      ],
+      "reference_pmid": "15518608",
+      "reference_title": "Comparative pharmacokinetic interaction profiles of pravastatin, simvastatin, and atorvastatin when coadministered with cytochrome P450 inhibitors.",
+      "reference_date": "2005-01-25"
+    },
+    {
+      "sid": "PKDB00350",
+      "name": "Kantola1998",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-18",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "erythromycin",
+        "simvastatin",
+        "simvastatin acid",
+        "verapamil",
+        "norverapamil"
+      ],
+      "reference_pmid": "9728898",
+      "reference_title": "Erythromycin and verapamil considerably increase serum simvastatin and simvastatin acid concentrations.",
+      "reference_date": "1998-09-28"
+    },
+    {
+      "sid": "PKDB00509",
+      "name": "Keskitalo2008",
+      "licence": "closed",
+      "access": "public",
+      "date": "2021-09-02",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar"
+      ],
+      "substances": [
+        "atorvastatin",
+        "atorvastatin lactone",
+        "2-hydroxyatorvastatin acid",
+        "2-hydroxyatorvastatin lactone",
+        "4-hydroxyatorvastatin lactone",
+        "simvastatin",
+        "simvastatin acid"
+      ],
+      "reference_pmid": "19238649",
+      "reference_title": "ABCB1 haplotypes differentially affect the pharmacokinetics of the acid and lactone forms of simvastatin and atorvastatin.",
+      "reference_date": "2009-03-24"
+    },
+    {
+      "sid": "PKDB00510",
+      "name": "Keskitalo2009",
+      "licence": "closed",
+      "access": "public",
+      "date": "2021-09-02",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar"
+      ],
+      "substances": [
+        "pravastatin",
+        "fluvastatin",
+        "simvastatin",
+        "simvastatin acid"
+      ],
+      "reference_pmid": "19842935",
+      "reference_title": "Different effects of the ABCG2 c.421C>A SNP on the pharmacokinetics of fluvastatin, pravastatin and simvastatin.",
+      "reference_date": "2010-04-16"
+    },
+    {
+      "sid": "PKDB00672",
+      "name": "Kim2007",
+      "licence": "closed",
+      "access": "public",
+      "date": "2023-03-13",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin"
+      ],
+      "reference_pmid": "17192506",
+      "reference_title": "Effect of polymorphic CYP3A5 genotype on the single-dose simvastatin pharmacokinetics in healthy subjects.",
+      "reference_date": "2007-03-01"
+    },
+    {
+      "sid": "PKDB00353",
+      "name": "Kim2019",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-18",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "simvastatin acid",
+        "cilostazol"
+      ],
+      "reference_pmid": "30729119",
+      "reference_title": "Effect of Cilostazol on the Pharmacokinetics of Simvastatin in Healthy Subjects.",
+      "reference_date": "2019-05-30"
+    },
+    {
+      "sid": "PKDB00365",
+      "name": "Kyrklund2000",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-24",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "rifampicin",
+        "simvastatin",
+        "simvastatin acid"
+      ],
+      "reference_pmid": "11180018",
+      "reference_title": "Rifampin greatly reduces plasma simvastatin and simvastatin acid concentrations.",
+      "reference_date": "2001-01-18"
+    },
+    {
+      "sid": "PKDB00342",
+      "name": "Lilja1998",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-16",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "grapefruit juice",
+        "simvastatin",
+        "simvastatin acid",
+        "Active HMG-CoA reductase inhibitors (simvastatin)",
+        "Total HMG-CoA reductase inhibitors (simvastatin)"
+      ],
+      "reference_pmid": "9834039",
+      "reference_title": "Grapefruit juice-simvastatin interaction: effect on serum concentrations of simvastatin, simvastatin acid, and HMG-CoA reductase inhibitors.",
+      "reference_date": "1998-12-09"
+    },
+    {
+      "sid": "PKDB00354",
+      "name": "Lilja2000",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-19",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "grapefruit juice",
+        "simvastatin",
+        "simvastatin acid"
+      ],
+      "reference_pmid": "11061578",
+      "reference_title": "Duration of effect of grapefruit juice on the pharmacokinetics of the CYP3A4 substrate simvastatin.",
+      "reference_date": "2000-11-21"
+    },
+    {
+      "sid": "PKDB00344",
+      "name": "Lilja2004",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-17",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "grapefruit juice",
+        "simvastatin",
+        "simvastatin acid"
+      ],
+      "reference_pmid": "15206993",
+      "reference_title": "Effects of regular consumption of grapefruit juice on the pharmacokinetics of simvastatin.",
+      "reference_date": "2004-10-12"
+    },
+    {
+      "sid": "PKDB00346",
+      "name": "Lohitnavy2004",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-18",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "Active HMG-CoA reductase inhibitors (simvastatin)"
+      ],
+      "reference_pmid": "14979606",
+      "reference_title": "Bioequivalence study of two formulations of simvastatin tablets in healthy Thai volunteers.",
+      "reference_date": "2004-04-12"
+    },
+    {
+      "sid": "PKDB00360",
+      "name": "Marino2000",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-24",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "simvastatin acid",
+        "irbesartan"
+      ],
+      "reference_pmid": "10934672",
+      "reference_title": "Irbesartan does not affect the pharmacokinetics of simvastatin in healthy subjects.",
+      "reference_date": "2000-11-30"
+    },
+    {
+      "sid": "PKDB00362",
+      "name": "Mousa2000",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-24",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "diltiazem",
+        "simvastatin",
+        "simvastatin acid"
+      ],
+      "reference_pmid": "10741630",
+      "reference_title": "The interaction of diltiazem with simvastatin.",
+      "reference_date": "2000-04-11"
+    },
+    {
+      "sid": "PKDB00349",
+      "name": "Najib2003",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-18",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "simvastatin acid"
+      ],
+      "reference_pmid": "12784317",
+      "reference_title": "Pharmacokinetics and bioequivalence evaluation of two simvastatin 40 mg tablets (Simvast and Zocor) in healthy human volunteers.",
+      "reference_date": "2004-04-02"
+    },
+    {
+      "sid": "PKDB00372",
+      "name": "Neuvonen1998",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-25",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig",
+        "jbrandhorst"
+      ],
+      "substances": [
+        "itraconazole",
+        "pravastatin",
+        "Total HMG-CoA reductase inhibitors (pravastatin)",
+        "simvastatin",
+        "simvastatin acid",
+        "Total HMG-CoA reductase inhibitors (simvastatin)"
+      ],
+      "reference_pmid": "9542477",
+      "reference_title": "Simvastatin but not pravastatin is very susceptible to interaction with the CYP3A4 inhibitor itraconazole.",
+      "reference_date": "1998-04-22"
+    },
+    {
+      "sid": "PKDB00368",
+      "name": "Pasanen2006",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-25",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "simvastatin acid"
+      ],
+      "reference_pmid": "17108811",
+      "reference_title": "SLCO1B1 polymorphism markedly affects the pharmacokinetics of simvastatin acid.",
+      "reference_date": "2007-01-31"
+    },
+    {
+      "sid": "PKDB00371",
+      "name": "Pentikainen1992",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-25",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig",
+        "jbrandhorst"
+      ],
+      "substances": [
+        "pravastatin",
+        "Active HMG-CoA reductase inhibitors (pravastatin)",
+        "Total HMG-CoA reductase inhibitors (pravastatin)",
+        "lovastatin",
+        "Active HMG-CoA reductase inhibitors (lovastatin)",
+        "Total HMG-CoA reductase inhibitors (lovastatin)",
+        "simvastatin",
+        "Active HMG-CoA reductase inhibitors (simvastatin)",
+        "Total HMG-CoA reductase inhibitors (simvastatin)"
+      ],
+      "reference_pmid": "1613123",
+      "reference_title": "Comparative pharmacokinetics of lovastatin, simvastatin and pravastatin in humans.",
+      "reference_date": "1992-07-30"
+    },
+    {
+      "sid": "PKDB00370",
+      "name": "Prueksaritanont2001",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-25",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "Active HMG-CoA reductase inhibitors (simvastatin)",
+        "Total HMG-CoA reductase inhibitors (simvastatin)",
+        "troglitazone",
+        "pioglitazone"
+      ],
+      "reference_pmid": "11361054",
+      "reference_title": "Interactions between simvastatin and troglitazone or pioglitazone in healthy subjects.",
+      "reference_date": "2001-11-01"
+    },
+    {
+      "sid": "PKDB00358",
+      "name": "Simard2001",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-23",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "cisapride",
+        "simvastatin",
+        "simvastatin acid"
+      ],
+      "reference_pmid": "11497338",
+      "reference_title": "Study of the drug-drug interaction between simvastatin and cisapride in man.",
+      "reference_date": "2001-12-11"
+    },
+    {
+      "sid": "PKDB00359",
+      "name": "Sugimoto2001",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-24",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "pravastatin",
+        "simvastatin",
+        "simvastatin acid",
+        "St. John's wort extract"
+      ],
+      "reference_pmid": "11753267",
+      "reference_title": "Different effects of St John's wort on the pharmacokinetics of simvastatin and pravastatin.",
+      "reference_date": "2002-01-15"
+    },
+    {
+      "sid": "PKDB00343",
+      "name": "TubicGrozdanis2008",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-17",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "simvastatin acid"
+      ],
+      "reference_pmid": "18213452",
+      "reference_title": "Pharmacokinetics of the CYP 3A substrate simvastatin following administration of delayed versus immediate release oral dosage forms.",
+      "reference_date": "2008-08-29"
+    },
+    {
+      "sid": "PKDB00347",
+      "name": "Ucar2004",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-18",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "carbamazepine",
+        "simvastatin",
+        "simvastatin acid"
+      ],
+      "reference_pmid": "14691614",
+      "reference_title": "Carbamazepine markedly reduces serum concentrations of simvastatin and simvastatin acid.",
+      "reference_date": "2004-04-30"
+    },
+    {
+      "sid": "PKDB00357",
+      "name": "Zhi2003",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-23",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "simvastatin acid",
+        "orlistat"
+      ],
+      "reference_pmid": "12723464",
+      "reference_title": "Effects of orlistat, a lipase inhibitor, on the pharmacokinetics of three highly lipophilic drugs (amiodarone, fluoxetine, and simvastatin) in healthy volunteers.",
+      "reference_date": "2003-07-31"
+    },
+    {
+      "sid": "PKDB00348",
+      "name": "Ziviani2001",
+      "licence": "closed",
+      "access": "public",
+      "date": "2020-10-18",
+      "creator": "FlorBar",
+      "curators": [
+        "FlorBar",
+        "mkoenig"
+      ],
+      "substances": [
+        "simvastatin",
+        "simvastatin acid",
+        "lacidipine"
+      ],
+      "reference_pmid": "11259986",
+      "reference_title": "The effects of lacidipine on the steady/state plasma concentrations of simvastatin in healthy subjects.",
+      "reference_date": "2001-05-03"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+drug_name,pkdb_id,chembl_id,raw_unit,unit_std,source_table,measurement_type,unit_category,observation_count,is_plasma_concentration
+metoprolol,metoprolol,CHEMBL13,gram,g,interventions,administered_dosing_mass,dosing_mass,66,False
+metoprolol,metoprolol,CHEMBL13,gram / kilogram,gram / kilogram,interventions,administered_dosing_mass,dosing_mass,2,False
+omeprazole,omeprazole,CHEMBL1503,gram / kilogram,gram / kilogram,interventions,administered_dosing_mass,dosing_mass,3,False
+omeprazole,omeprazole,CHEMBL1503,gram,g,interventions,administered_dosing_mass,dosing_mass,156,False
+omeprazole,omeprazole,CHEMBL1503,becquerel,becquerel,interventions,radioactivity_dose,radioactivity,2,False
+omeprazole,omeprazole,CHEMBL1503,g,g,interventions,administered_dosing_mass,dosing_mass,1,False
+midazolam,midazolam,CHEMBL655,gram / kilogram,gram / kilogram,interventions,administered_dosing_mass,dosing_mass,22,False
+midazolam,midazolam,CHEMBL655,gram,g,interventions,administered_dosing_mass,dosing_mass,163,False
+midazolam,midazolam,CHEMBL655,becquerel,becquerel,interventions,radioactivity_dose,radioactivity,1,False
+simvastatin,simvastatin,CHEMBL1064,gram,g,interventions,administered_dosing_mass,dosing_mass,73,False
+simvastatin,simvastatin,CHEMBL1064,gram / kilogram,gram / kilogram,interventions,administered_dosing_mass,dosing_mass,1,False
+losartan,losartan,CHEMBL191,mole / liter,mole / liter,scatters,plasma_concentration,plasma_concentration,44,True
+losartan,losartan,CHEMBL191,gram,g,interventions,administered_dosing_mass,dosing_mass,68,False
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,mole / liter,mole / liter,scatters,plasma_concentration,plasma_concentration,44,True
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,gram,g,interventions,administered_dosing_mass,dosing_mass,58,False
+talinolol,talinolol,CHEMBL152067,gram,g,interventions,administered_dosing_mass,dosing_mass,36,False
+talinolol,talinolol,CHEMBL152067,ml,ml,interventions,dose_volume,volume,1,False
+chlorzoxazone,chlorzoxazone,CHEMBL1371,gram,g,interventions,administered_dosing_mass,dosing_mass,51,False
+chlorzoxazone,chlorzoxazone,CHEMBL1371,becquerel,becquerel,interventions,radioactivity_dose,radioactivity,1,False
+rifampicin,rifampicin,CHEMBL374478,gram,g,interventions,administered_dosing_mass,dosing_mass,32,False
+rifampicin,rifampicin,CHEMBL374478,gram / kilogram,gram / kilogram,interventions,administered_dosing_mass,dosing_mass,9,False

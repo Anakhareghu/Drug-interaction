@@ -10,6 +10,11 @@ dist/
 *.egg
 pip-wheel-metadata/
 
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
 # Virtual environments
 .venv/
 venv/

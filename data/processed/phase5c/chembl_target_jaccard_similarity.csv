@@ -1,0 +1,8 @@
+,cefamandole,indomethacin,phenobarbital,quinidine,remifentanil,theophylline,xanomeline
+cefamandole,1.0,0.0,0.0,0.0,0.0,0.012658227848101266,0.0
+indomethacin,0.0,1.0,0.0,0.01818181818181818,0.0,0.024,0.0
+phenobarbital,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+quinidine,0.0,0.01818181818181818,0.0,1.0,0.0,0.1794871794871795,0.011904761904761904
+remifentanil,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+theophylline,0.012658227848101266,0.024,0.0,0.1794871794871795,0.0,1.0,0.0
+xanomeline,0.0,0.0,0.0,0.011904761904761904,0.0,0.0,1.0

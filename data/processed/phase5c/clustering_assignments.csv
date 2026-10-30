@@ -1,0 +1,8 @@
+drug_name,svd_ward_k2,svd_ward_k3,svd_avg_k2,svd_avg_k3,dtw_avg_k2,dtw_avg_k3,kmeans_k2,kmeans_k3
+cefamandole,2,2,2,2,1,1,2,3
+indomethacin,2,2,2,2,1,1,2,3
+phenobarbital,1,1,1,1,2,2,1,2
+quinidine,1,1,1,1,2,2,1,2
+remifentanil,2,2,2,2,1,1,2,3
+theophylline,1,1,1,1,2,3,1,2
+xanomeline,2,3,2,3,1,1,2,1

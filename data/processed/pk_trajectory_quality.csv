@@ -1,0 +1,37 @@
+drug_name,pkdb_id,chembl_id,unique_time_points,min_time_hr,max_time_hr,n_studies,n_observations,units_present,time_varies_beyond_0,has_dimensionless_units,quality_category
+metoprolol,metoprolol,CHEMBL13,17,0.0,144.0,12,151,dimensionless; g; gram * hour / liter; gram / kilogram; hr; percent,True,True,A
+omeprazole,omeprazole,CHEMBL1503,9,0.0,151.0,35,163,becquerel; g; gram / hour; gram / kilogram,True,False,A
+midazolam,midazolam,CHEMBL655,8,0.0,24.0,49,187,becquerel; g; gram / hour; gram / kilogram,True,False,A
+simvastatin,simvastatin,CHEMBL1064,4,0.0,168.0,37,74,g; gram / kilogram,True,False,A
+losartan,losartan,CHEMBL191,3,0.0,576.0,20,112,g; mole / liter,True,False,A
+Losartan carboxylic acid (E3174),exp3174,CHEMBL907,3,0.0,576.0,18,102,g; mole / liter,True,False,A
+talinolol,talinolol,CHEMBL152067,3,0.0,192.0,20,60,g; gram * hour / liter; gram / hour; ml,True,False,A
+chlorzoxazone,chlorzoxazone,CHEMBL1371,3,0.0,24.0,23,52,becquerel; g,True,False,A
+rifampicin,rifampicin,CHEMBL374478,3,0.0,6.0,16,41,g; gram / kilogram,True,False,A
+ramipril,ramipril,CHEMBL1168,2,0.0,24.0,11,409,dimensionless; g; gram * hour / liter,True,True,B
+D-glucose,glucose,CHEMBL1222250,2,0.0,12.0,23,73,g,True,False,B
+digoxin,digoxin,CHEMBL1751,2,0.0,0.07,10,59,g; gram / hour,True,False,B
+dapagliflozin,dapagliflozin,CHEMBL429910,2,0.0,1.0,16,52,g,True,False,B
+enalapril,enalapril,CHEMBL578,2,0.0,4.0,23,40,g; gram / kilogram,True,False,B
+empagliflozin,empagliflozin,CHEMBL2107830,2,0.0,12.0,13,35,g,True,False,B
+cimetidine,cimetidine,CHEMBL30,2,0.0,2.0,7,14,g,True,False,B
+aldosterone,aldosterone,CHEMBL273453,1,0.0,0.0,9,174,dimensionless; g,False,True,C
+1-hydroxymidazolam,1-hydroxymidazolam,CHEMBL1188,1,0.0,0.0,19,76,g; gram / kilogram,False,False,C
+warfarin,warfarin,CHEMBL1464,1,0.0,0.0,7,45,g; gram / hour; gram / kilogram,False,False,C
+torasemide,torasemide,CHEMBL1148,1,0.0,0.0,16,44,g,False,False,C
+enalaprilat,enalaprilat,CHEMBL577,1,0.0,0.0,27,43,becquerel; g; gram / kilogram,False,False,C
+glimepiride,glimepiride,CHEMBL1481,1,0.0,0.0,18,36,g,False,False,C
+lisinopril,lisinopril,CHEMBL1237,1,0.0,0.0,15,35,g,False,False,C
+hydrochlorothiazide,hydrochlorothiazide,CHEMBL435,1,0.0,0.0,12,35,g; ml; unspecified,False,True,C
+canagliflozin,canagliflozin,CHEMBL2048484,1,0.0,0.0,10,30,g; gram / kilogram,False,False,C
+diazepam,diazepam,CHEMBL12,1,0.0,0.0,18,30,g; gram / kilogram,False,False,C
+captopril,captopril,CHEMBL1560,1,0.0,0.0,17,26,g; gram / kilogram,False,False,C
+repaglinide,repaglinide,CHEMBL1272,1,0.0,0.0,3,25,g,False,False,C
+rosuvastatin,rosuvastatin,CHEMBL1496,1,0.0,0.0,2,17,g,False,False,C
+tolbutamide,tolbutamide,CHEMBL782,1,0.0,0.0,2,16,g; gram / hour,False,False,C
+verapamil,verapamil,CHEMBL6966,1,0.0,0.0,6,16,g,False,False,C
+aliskiren,aliskiren,CHEMBL1639,1,0.0,0.0,10,14,g,False,False,C
+furosemide,furosemide,CHEMBL35,1,0.0,0.0,3,12,g,False,False,C
+rapamycin (sirolimus),rapamycin,CHEMBL413,1,0.0,0.0,4,12,g,False,False,C
+memantine,memantine,CHEMBL807,1,0.0,0.0,1,10,g,False,False,C
+erythromycin,erythromycin,CHEMBL532,1,0.0,0.0,3,5,g,False,False,C
